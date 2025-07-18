@@ -1,0 +1,5739 @@
+[
+  {
+    "id": "boe_bel_blue_01",
+    "brand": "Boelens",
+    "series": "Authentic Belgian Brewery",
+    "image": "images/Boelens/boe_bel_blue_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Deep‑blue cap with white logotype ‘Boelens’; small caption underneath reads ‘AUTHENTIC BELGIAN BREWERY’."
+  },
+  {
+    "id": "jag_pol_black_01",
+    "brand": "Browar Jagiełło",
+    "series": "Family Brewery 1993",
+    "image": "images/BrowarJagiello/jag_pol_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Glossy black cap with gold crest (crowned ‘J’ roundel); text ring ‘BROWAR JAGIEŁŁO · REGIONALNY BROWAR RODZINNY’."
+  },
+  {
+    "id": "bud_usa_bl_01",
+    "brand": "Bud Light",
+    "series": "BL Swoosh",
+    "image": "images/BudLight/bud_usa_bl_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Blue cap with stylised ‘BL’ monogram, white speed‑swoosh and red accent; small lettering ‘BUD LIGHT’ below."
+  },
+  {
+    "id": "bro_pol_green_01",
+    "brand": "BROK",
+    "series": "Classic Crown",
+    "image": "images/Brok/bro_pol_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bright‑green cap; red bar with white ‘BROK’, gold crown and star above the name."
+  },
+  {
+    "id": "blu_usa_sun_01",
+    "brand": "Blue Moon",
+    "series": "Brewing Company",
+    "image": "images/BlueMoon/blu_usa_sun_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Navy‑blue cap with gold rim; inner circle shows pale‑blue square sun emblem; text ring ‘BLUE MOON BREWING COMPANY™’."
+  },
+  {
+    "id": "zbo_rus_green_01",
+    "brand": "Zolotaya Bochka",
+    "series": "Golden Barrel",
+    "image": "images/ZolotayaBochka/zbo_rus_green_01.jpg",
+    "country": "Russia",
+    "year": null,
+    "description": "Metallic‑gold cap with green panel and Cyrillic ‘ЗОЛОТАЯ БОЧКА’; top shows barrel and hops emblem."
+  },
+  {
+    "id": "bal_ltu_blue_01",
+    "brand": "Baltijos",
+    "series": "Tamsusis Alus",
+    "image": "images/Baltijos/bal_ltu_blue_01.jpg",
+    "country": "Lithuania",
+    "year": null,
+    "description": "Royal‑blue cap; cream serif title ‘BALTIJOS’ and subtitle ‘TAMSUSIS ALUS’ (dark beer)."
+  },
+  {
+    "id": "bus_usa_light_01",
+    "brand": "Busch Light",
+    "series": "Ice Cold Easy",
+    "image": "images/BuschLight/bus_usa_light_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Off‑white cap with blue ring repeating ‘ICE COLD EASY’; centre features bold ‘BUSCH LIGHT®’ logo."
+  },
+  {
+    "id": "ber_usa_trad_01",
+    "brand": "Berghoff Brewery",
+    "series": "Midwest Tradition",
+    "image": "images/Berghoff/ber_usa_trad_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Silver‑grey cap printed like coarse fabric; large stacked lettering ‘BERGHOFF BREWERY’ with arcs ‘A MIDWEST TRADITION OF CRAFT BREWING’."
+  },
+  {
+    "id": "bsh_gbr_blackale_01",
+    "brand": "Black Sheep",
+    "series": "Black Sheep Ale",
+    "image": "images/BlackSheep/bsh_gbr_blackale_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Black cap with cream calligraphic script arranged radially to spell ‘Black Sheep Ale’; includes three‑ring Celtic knot motif at centre."
+  },{
+    "id": "adn_gbr_blue_01",
+    "brand": "Adnams",
+    "series": "Southwold",
+    "image": "images/Adnams/adn_gbr_blue_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Gloss‑blue cap with light‑blue logotype ‘ADNAMS’ above smaller white ‘SOUTHWOLD’."
+  },
+  {
+    "id": "bgs_pol_crown_02",
+    "brand": "Browary Górnośląskie",
+    "series": "Crown Emblem (1860)",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_crown_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Mustard‑yellow cap; black‑gold crown and hop‑cone crest ‘1860’, wheat ears either side; white ring with brand name ‘BROWARY GÓRNOŚLĄSKIE’."
+  },
+  {
+    "id": "abi_usa_purple_01",
+    "brand": "Abita",
+    "series": "Spring Water",
+    "image": "images/Abita/abi_usa_purple_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Purple cap with white zig‑zag border; text ‘PRY OFF CAP’ and ‘Abita! — BREWED WITH SPRING WATER’."
+  },
+  {
+    "id": "amb_esp_redtri_01",
+    "brand": "Ámbar",
+    "series": "Red Triangle",
+    "image": "images/Ambar/amb_esp_redtri_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Red cap featuring inverted olive‑green triangle with red word‑mark ‘AMBAR’ centred inside."
+  },
+  {
+    "id": "aqua_idn_logo_01",
+    "brand": "Danone",
+    "series": "Classic Logo",
+    "image": "images/Danone/aqua_idn_logo_01.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Gradated blue‑white cap; ‘DANONE’ panel above ornate ‘AQUA®’ logotype and stylised mountain/wave graphic."
+  },
+  {
+    "id": "prv_deu_tradition_01",
+    "brand": "Privat Brauerei",
+    "series": "Aus Tradition 1516",
+    "image": "images/Privat/prv_deu_tradition_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Antique‑brass cap; circular seal with hop‑cone, outer text ‘AUS TRADITION – PRIVAT’, inner banner ‘gebraut nach dem Reinheitsgebot 1516’."
+  },
+  {
+    "id": "bxx_xxx_blueb_01",
+    "brand": "B‑Monogram",
+    "series": "Blue Shield",
+    "image": "images/Unknown/bxx_xxx_blueb_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Deep‑blue cap bearing large stylised black letter ‘B’ outlined in silver; no further wording."
+  },
+  {
+    "id": "yue_usa_twist_01",
+    "brand": "Yuengling",
+    "series": "America’s Oldest Brewery",
+    "image": "images/Yuengling/yue_usa_twist_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Light‑tan twist‑off cap; red eagle over barrel, circular text ‘America’s Oldest Brewery’ with directional arrows."
+  },
+  {
+    "id": "boh_cze_regent_01",
+    "brand": "Bohemia Regent",
+    "series": "Standard",
+    "image": "images/BohemiaRegent/boh_cze_regent_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with distinctive green Fraktur title ‘Bohemia regent®’ stacked in two lines."
+  },
+  {
+    "id": "bgs_pol_bgwhite_01",
+    "brand": "Browary Górnośląskie",
+    "series": "BG Logo (white)",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_bgwhite_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap; bold red ‘BG’ flanked by yellow wheat sprig and green hop cones; arched brand wording round the rim."
+  },{
+    "id": "kro_deu_pilsaktion_01",
+    "brand": "Krombacher",
+    "series": "Pils – Aktions‑Kronkorken",
+    "image": "images/Krombacher/kro_deu_pilsaktion_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White‑face cap with green gilt rim (competition text ‘Aktions‑Kronkorken’); Krombacher arms above black logotype, five gold stars and script ‘Pils’."
+  },
+  {
+    "id": "tec_mex_noret_01",
+    "brand": "Tecate",
+    "series": "No Retornable (grey)",
+    "image": "images/Tecate/tec_mex_noret_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Grey cap, thin red rim; white ‘T’ on stylised black eagle shield, legend ‘NO RETORNABLE’ along lower edge."
+  },
+  {
+    "id": "lio_xxx_filigree_01",
+    "brand": "Twin Lions",
+    "series": "Filigree Crest",
+    "image": "images/TwinLions/lio_xxx_filigree_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Gold cap completely covered by cream filigree; centre medallion shows two lions flanking a barrel."
+  },
+  {
+    "id": "tec_mex_mediano_01",
+    "brand": "Tecate",
+    "series": "Media No Retornable (gold)",
+    "image": "images/Tecate/tec_mex_mediano_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Gold version of the non‑returnable cap; black eagle with white outline and ‘T’, wording ‘MEDIA NO RETORNABLE’ below."
+  },
+  {
+    "id": "lio_xxx_anno1853_01",
+    "brand": "Twin Lions",
+    "series": "Anno 1853 Oval",
+    "image": "images/TwinLions/lio_xxx_anno1853_01.jpg",
+    "country": null,
+    "year": 1853,
+    "description": "Weathered gold cap; black oval cartouche with two lions and barrel; small caption ‘ANNO 1853’ underneath."
+  },
+  {
+    "id": "bgs_pol_crest_01",
+    "brand": "Browary Górnośląskie",
+    "series": "Main Crest",
+    "image": "images/BrowaryGornoslaskie/bgs_pol_crest_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bronze‑gold cap with green‑red crowned hops emblem and wheat sheaves; red banner ‘BROWARY GÓRNOŚLĄSKIE 1890’."
+  },
+  {
+    "id": "kro_deu_weizalk_01",
+    "brand": "Krombacher",
+    "series": "Weizen Alkoholfrei",
+    "image": "images/Krombacher/kro_deu_weizalk_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Oval‑badge cap, blue outer ring; Krombacher crest, black logotype, orange wheat band ‘Weizen’ and footer ‘ALKOHOLFREI’."
+  },
+  {
+    "id": "kro_deu_alkred_01",
+    "brand": "Krombacher",
+    "series": "Pils Alkoholfrei (red)",
+    "image": "images/Krombacher/kro_deu_alkred_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with fine red border; crest, black ‘Krombacher’ and red ribbon ‘ALKOHOLFREI’; five gold stars."
+  },
+  {
+    "id": "hob_gbr_orange_01",
+    "brand": "Hobgoblin",
+    "series": "Classic Logo (orange)",
+    "image": "images/Hobgoblin/hob_gbr_orange_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Orange cap; black wood‑cut style goblin with axe, circular legend ‘HOBGOBLIN’ twice (upright / inverted)."
+  },
+  {
+    "id": "hob_gbr_blue_01",
+    "brand": "Hobgoblin",
+    "series": "Classic Logo (blue)",
+    "image": "images/Hobgoblin/hob_gbr_blue_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Deep‑blue variant of the goblin cap, gold outline illustration with axe and repeating rim text ‘HOBGOBLIN’."
+  },
+  {
+    "id": "ste_bel_white_01",
+    "brand": "Stella Artois",
+    "series": "White Standard",
+    "image": "images/StellaArtois/ste_bel_white_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "White cap with gold cartouche; horn‑in‑wheat crest and upper text ‘ANNO ★ 1366’; three medals at bottom."
+  },
+  {
+    "id": "ste_bel_white_02",
+    "brand": "Stella Artois",
+    "series": "White Standard (2)",
+    "image": "images/StellaArtois/ste_bel_white_02.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Second example—same white & gold layout but slight print‑shift / scuffing, useful for variant collectors."
+  },
+
+  {
+    "id": "sol_mex_gold_01",
+    "brand": "Sol",
+    "series": "Classic Gold",
+    "image": "images/Sol/sol_mex_gold_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Old‑style pale‑gold cap with large red scroll ‘Sol’; small word ‘CERVEZA’ above."
+  },
+  {
+    "id": "sol_mex_redrim_01",
+    "brand": "Sol",
+    "series": "Sunburst",
+    "image": "images/Sol/sol_mex_redrim_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Red‑rim cap; olive centre with radiating sun rays and stylised sun face; bold red ‘Sol’ plus small ‘CERVEZA’."
+  },
+
+  {
+    "id": "ust_pol_blue_01",
+    "brand": "Ustronianka",
+    "series": "Mineral Water (Blue)",
+    "image": "images/Ustronianka/ust_pol_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cobalt‑blue cap with white script ‘Ustronianka’ and swoosh underline."
+  },
+  {
+    "id": "ust_pol_orange_01",
+    "brand": "Ustronianka",
+    "series": "Mineral Water (Orange)",
+    "image": "images/Ustronianka/ust_pol_orange_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Orange flavour variant; same white logotype, heavy surface rust on shown specimen."
+  },
+
+  {
+    "id": "wer_deu_pils_01",
+    "brand": "Wernesgrüner",
+    "series": "Pils Legende",
+    "image": "images/Wernesgruener/wer_deu_pils_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold‑tone cap with red ‘W’ hops crest; black script ‘Wernesgrüner’ and subtitle ‘PILS LEGENDE’."
+  },
+  {
+    "id": "wer_deu_alko_01",
+    "brand": "Wernesgrüner",
+    "series": "Alkoholfrei",
+    "image": "images/Wernesgruener/wer_deu_alko_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Brushed‑wood effect background; blue lower band with white ‘ALKOHOLFREI’; same red‑crest logo above."
+  },
+
+  {
+    "id": "san_esp_diagonal_01",
+    "brand": "San Miguel",
+    "series": "Diagonal Stripe",
+    "image": "images/SanMiguel/san_esp_diagonal_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Gold cap with green‑red diagonal tricolour stripe; partial stylised ‘San M…’ logotype in green and red."
+  },
+  {
+    "id": "san_esp_banner_01",
+    "brand": "San Miguel",
+    "series": "White Banner",
+    "image": "images/SanMiguel/san_esp_banner_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Later design: white ribbon bearing full ‘San Miguel’ word‑mark across gold background with galleon crest."
+  },
+  {
+    "id": "tym_pol_frument_01",
+    "brand": "Tymbark",
+    "series": "FruMent",
+    "image": "images/Tymbark/tym_pol_frument_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green twist‑off cap; big white stacked text ‘FRU / MENT’ over moustache icon, small ‘TYMBARK’ shield above (est. 1936)."
+  },
+  {
+    "id": "tym_pol_twins_01",
+    "brand": "Tymbark",
+    "series": "Twin Cockerels",
+    "image": "images/Tymbark/tym_pol_twins_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White twist‑off cap with minimalist black outline of two facing hens above bold word ‘TYMBARK’."
+  },
+
+  {
+    "id": "scho_deu_hefe_01",
+    "brand": "Schöfferhofer",
+    "series": "Hefeweizen",
+    "image": "images/Schofferhofer/scho_deu_hefe_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Orange‑gold cap; Gothic ‘Schöfferhofer’ over twin shield monogram; black ring text ‘HEFEWEIZEN’ top and bottom."
+  },
+  {
+    "id": "scho_deu_grapefruit_01",
+    "brand": "Schöfferhofer",
+    "series": "Grapefruit Weizen‑Mix",
+    "image": "images/Schofferhofer/scho_deu_grapefruit_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Orange cap variant for grapefruit mix; same Gothic logo with lower panel ‘GRAPEFRUIT – HEFEWEIZEN‑MIX’."
+  },
+
+  {
+    "id": "sie_usa_freshseal_green_01",
+    "brand": "Sierra Nevada",
+    "series": "Fresh Seal Cap (Green)",
+    "image": "images/SierraNevada/sie_usa_freshseal_green_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Speckled emerald cap with white legend ‘SIERRA NEVADA’; outer wording ‘FRESH SEAL CAP – USE BOTTLE OPENER’."
+  },
+  {
+    "id": "sie_usa_freshseal_khaki_01",
+    "brand": "Sierra Nevada",
+    "series": "Fresh Seal Cap (Khaki)",
+    "image": "images/SierraNevada/sie_usa_freshseal_khaki_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Pale olive/khaki version of the Fresh‑Seal cap; black lettering, same bottle‑opener instructions around rim."
+  },
+
+  {
+    "id": "svi_cze_greenring_01",
+    "brand": "Svijany",
+    "series": "Traditional Pivo (Ring‑Text)",
+    "image": "images/Svijany/svi_cze_greenring_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Dark‑green cap; ornate crest with red ‘S’; Gothic ‘Svijany’; gold Czech ring text ‘TRADIČNÍ PIVO · BEZ PASTERIZACE’."
+  },
+  {
+    "id": "svi_cze_black_crest_01",
+    "brand": "Svijany",
+    "series": "Traditional Pivo (Black)",
+    "image": "images/Svijany/svi_cze_black_crest_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Black field variant of Svijany crest; red Gothic initial ‘S’ within heraldic shield, gold logotype and date ‘1564’."
+  },
+
+  {
+    "id": "woo_gbr_red_01",
+    "brand": "Woodpecker",
+    "series": "Standard Red",
+    "image": "images/Woodpecker/woo_gbr_red_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Bright‑red cider cap with distressed camouflage pattern and silver word‑mark ‘WOODPECKER®’ centred."
+  },
+  {
+    "id": "unk_redarcs_01",
+    "brand": "Woodpecker",
+    "series": "Red Double‑Arc",
+    "image": "images/Woodpecker/unk_redarcs_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Weathered red cap showing two stylised opposing red arcs on a silvery disc; no lettering—identity unconfirmed."
+  },{
+    "id": "mal_isr_silver_01",
+    "brand": "Malti",
+    "series": "Classic Silver",
+    "image": "images/Malti/mal_isr_silver_01.jpg",
+    "country": "Israel",
+    "year": null,
+    "description": "Light‑grey cap with Hebrew logotype ‘מאלטי’; small handwritten word above and black sunrise/flare motif."
+  },
+  {
+    "id": "mal_isr_yellow_01",
+    "brand": "Malti",
+    "series": "Classic Yellow",
+    "image": "images/Malti/mal_isr_yellow_01.jpg",
+    "country": "Israel",
+    "year": null,
+    "description": "Bright‑yellow cap with identical Hebrew branding; black sunrise/flare symbol over white‑outlined lettering."
+  },
+
+  {
+    "id": "ori_unk_green_01",
+    "brand": "Original",
+    "series": "Green Text",
+    "image": "images/Unknown/ori_unk_green_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Plain green cap with centred white serif word ‘Original’; minimalist design with no other markings."
+  },
+  {
+    "id": "smo_unk_blue_01",
+    "brand": "Smooth",
+    "series": "Blue Text",
+    "image": "images/Unknown/smo_unk_blue_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Plain sky‑blue cap featuring single white word ‘Smooth’ in matching serif font; partner to the ‘Original’ cap."
+  },
+
+  {
+    "id": "lea_unk_yellow_01",
+    "brand": "Green Leaf",
+    "series": "Yellow Field",
+    "image": "images/GreenLeaf/lea_unk_yellow_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Yellow cap displaying a stylised three‑leaf sprout in solid green; no text—a clean eco‑style icon."
+  },
+  {
+    "id": "lea_unk_orange_01",
+    "brand": "Green Leaf",
+    "series": "Orange Field",
+    "image": "images/GreenLeaf/lea_unk_orange_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Orange companion cap with the same green triple‑leaf symbol; otherwise unlettered."
+  },
+
+  {
+    "id": "sal_deu_ice_01",
+    "brand": "Salitos",
+    "series": "Ice",
+    "image": "images/Salitos/sal_deu_ice_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Blue‑rim cap; yellow diamond with dark‑green outline; inscriptions ‘REG. TRADE MARK – SALITOS ICE’; outer ring text ‘IMPORTED · SUPERIOR’."
+  },
+  {
+    "id": "sal_deu_teq_01",
+    "brand": "Salitos",
+    "series": "Tequila",
+    "image": "images/Salitos/sal_deu_teq_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Red field variant; yellow‑green diamond and banner ‘SALITOS TEQUILA’; weathered gold rim, outer ring text faint."
+  },
+
+  {
+    "id": "kol_col_std_01",
+    "brand": "Kola Román",
+    "series": "Standard",
+    "image": "images/KolaRoman/kol_col_std_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver cap; large vertical red ‘ROMAN’ with script ‘Kola’ above; Spanish advisory text around rim."
+  },
+  {
+    "id": "kol_col_promo_01",
+    "brand": "Kola Román",
+    "series": "Promoción",
+    "image": "images/KolaRoman/kol_col_promo_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver promotional cap: red bar ‘PROMOCION’ under the classic ‘Kola ROMAN’ logotype; fine‑print ingredients in red below."
+  },
+  {
+    "id": "uli_tur_frutti_01",
+    "brand": "Uludağ",
+    "series": "Frutti",
+    "image": "images/Uludag/uli_tur_frutti_01.jpg",
+    "country": "Turkey",
+    "year": null,
+    "description": "Lime‑green cap; bold blue logotype ‘FRUTTI’ with red swoosh; white ‘uludağ’ crest above and Turkish text ‘Doğal Zengin Mineralli Gazlı İçecek’ below."
+  },
+  {
+    "id": "uli_tur_maden_01",
+    "brand": "Uludağ",
+    "series": "Doğal Maden Suyu",
+    "image": "images/Uludag/uli_tur_maden_01.jpg",
+    "country": "Turkey",
+    "year": null,
+    "description": "Dark‑green cap; yellow logotype ‘uludağ’ and legend ‘Doğal Maden Suyu’; small red‑white mountain emblem above."
+  },
+
+  {
+    "id": "mce_peru_plain_01",
+    "brand": "Maestría Cervecera",
+    "series": "Inca Glyph – Plain",
+    "image": "images/MaestriaCervecera/mce_peru_plain_01.jpg",
+    "country": "Peru",
+    "year": null,
+    "description": "Matte gold cap with embossed central Andean glyph; no surrounding text – minimalist emblem version."
+  },
+  {
+    "id": "mce_peru_desde1961_01",
+    "brand": "Maestría Cervecera",
+    "series": "Desde 1961",
+    "image": "images/MaestriaCervecera/mce_peru_desde1961_01.jpg",
+    "country": "Peru",
+    "year": null,
+    "description": "Gold cap with red ring bearing text ‘DESDE 1961 · MAESTRÍA CERVECERA’; same Andean glyph in centre."
+  },
+
+  {
+    "id": "xbe_unknown_31_01",
+    "brand": "X Beer",
+    "series": "3 % vol",
+    "image": "images/XBeer/xbe_unknown_31_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Metallic magenta cap; large white ‘X’ slash over background, lower left reads ‘3 % / 3.1 vol.’"
+  },
+  {
+    "id": "xbe_unknown_50_01",
+    "brand": "X Beer",
+    "series": "5 % vol",
+    "image": "images/XBeer/xbe_unknown_50_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Chrome‑silver cap with sky‑blue ‘X’; bottom legend ‘5 % vol.’ – stronger variant of the brand."
+  },
+
+  {
+    "id": "zde_pol_white_01",
+    "brand": "Złoty Denar",
+    "series": "White Label",
+    "image": "images/ZlotyDenar/zde_pol_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White‑rim cap; inner circle in bronze with gothic script ‘Złoty Denar’; red pennant ‘Premium Golden Beer’ above."
+  },
+  {
+    "id": "zde_pol_green_01",
+    "brand": "Złoty Denar",
+    "series": "Green Label",
+    "image": "images/ZlotyDenar/zde_pol_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green version of the cap; yellowish interior vignette, same gothic ‘Złoty Denar’ logo and red pennant banner."
+  },
+
+  {
+    "id": "eag_unknown_white_01",
+    "brand": "Eagle",
+    "series": "White Field",
+    "image": "images/Eagle/eag_unknown_white_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "White cap with solid black silhouette of a diving eagle, wings spread, talons forward."
+  },
+  {
+    "id": "eag_unknown_blue_01",
+    "brand": "Eagle",
+    "series": "Blue Field",
+    "image": "images/Eagle/eag_unknown_blue_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Bright‑blue cap featuring the same black eagle silhouette in flight motif centred on the field."
+  },{
+  "id": "she_gbr_classic_01",
+  "brand": "Shepherd Neame",
+  "series": "Classic",
+  "image": "images/ShepherdNeame/she_gbr_classic_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold‑rim cap with blue centre; stylised shepherd’s crook (omega‑shape) and text ring ‘SHEPHERD NEAME · SINCE 1698’."
+},
+{
+  "id": "she_gbr_1698_01",
+  "brand": "Shepherd Neame",
+  "series": "1698 Anniversary",
+  "image": "images/ShepherdNeame/she_gbr_1698_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Blue cap with large gold ‘1698’ and red ribbon ‘300 YEARS’; wording ‘SHEPHERD — NEAME’ around the edge."
+},
+
+
+{
+  "id": "mun_deu_500jahre_01",
+  "brand": "Münchner Bier",
+  "series": "500 Jahre Reinheitsgebot",
+  "image": "images/MuenchnerBier/mun_deu_500jahre_01.jpg",
+  "country": "Germany",
+  "year": 1987,
+  "description": "Silver cap marking 500th anniversary (1487‑1987); smiling monk with stein; banner ‘MÜNCHNER BIER® 500 JAHRE’."
+},
+{
+  "id": "mun_deu_525jahre_01",
+  "brand": "Münchner Bier",
+  "series": "525 Jahre Reinheitsgebot",
+  "image": "images/MuenchnerBier/mun_deu_525jahre_01.jpg",
+  "country": "Germany",
+  "year": 2012,
+  "description": "Silver cap for 525 years (1487‑2012); identical monk motif; banner reads ‘MÜNCHNER BIER® 525 JAHRE’."
+},
+
+
+{
+  "id": "cou_gbr_redrooster_01",
+  "brand": "Courage",
+  "series": "Red Rooster",
+  "image": "images/Courage/cou_gbr_redrooster_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Bright‑red cap with white ring and green‑gold rooster; arched text ‘COURAGE’ along lower rim."
+},
+{
+  "id": "cou_gbr_goldrooster_01",
+  "brand": "Courage",
+  "series": "Gold Rooster",
+  "image": "images/Courage/cou_gbr_goldrooster_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with red rooster outline and faint ‘COURAGE’ circle—weathered / low‑ink variant of the classic design."
+},
+
+
+{
+  "id": "piw_pol_niepast_01",
+  "brand": "Piwo",
+  "series": "Niepasteryzowane",
+  "image": "images/Piwo/piw_pol_niepast_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Cream cap with distressed green stencil text ‘PIWO NIEPASTERYZOWANE’ (unpasteurised beer)."
+},
+{
+  "id": "piw_pol_pszen_01",
+  "brand": "Piwo",
+  "series": "Pszeniczne",
+  "image": "images/Piwo/piw_pol_pszen_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Light‑yellow cap with distressed red stencil text ‘PIWO PSZENICZNE’ (wheat beer)."
+}
+,
+  {
+  "id": "pau_deu_classic_01",
+  "brand": "Paulaner",
+  "series": "Classic",
+  "image": "images/Paulaner/pau_deu_classic_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with circular blue/gold ring and monk head profile; text 'PAULANER MÜNCHEN.'"
+},
+{
+  "id": "pau_deu_alkoholfrei_01",
+  "brand": "Paulaner",
+  "series": "Alkoholfrei",
+  "image": "images/Paulaner/pau_deu_alkoholfrei_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Red/white cap variant of Paulaner monk seal; rim text 'ALKOHOLFREI.'"
+},
+
+{
+  "id": "mvp_gbr_81green_01",
+  "brand": "Malvern Press",
+  "series": "81Green",
+  "image": "images/MalvernPress/mvp_gbr_81green_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "White mottled cap; black MALVERN PRESS panel and large lime‑green '81' script."
+},
+{
+  "id": "mvp_gbr_81red_01",
+  "brand": "Malvern Press",
+  "series": "81Red",
+  "image": "images/MalvernPress/mvp_gbr_81red_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "White mottled cap; black MALVERN PRESS panel and large red '81' script."
+},
+
+{
+  "id": "qna_unk_extra_01",
+  "brand": "Queen's Ale",
+  "series": "ExtraBitter",
+  "image": "images/QueensAle/qna_unk_extra_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Dark blue cap with banner 'EXTRA BITTER TYPE' and large yellow 'QUEEN'S ALE.'"
+},
+{
+  "id": "qna_unk_blonde_01",
+  "brand": "Queen's Ale",
+  "series": "Blonde",
+  "image": "images/QueensAle/qna_unk_blonde_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Red cap with banner 'BLONDE TYPE' and large white 'QUEEN'S ALE.'"
+},
+
+{
+  "id": "per_ita_black_01",
+  "brand": "Birra Peroni",
+  "series": "BlackVintage",
+  "image": "images/BirraPeroni/per_ita_black_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Black cap with thin gold rim; stacked gold text 'BIRRA PERONI' between short horizontal bars."
+},
+{
+  "id": "per_ita_crest_01",
+  "brand": "Birra Peroni",
+  "series": "Crest1846",
+  "image": "images/BirraPeroni/per_ita_crest_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "White cap with red ring 'BIRRA PERONI'; blue eagle crest top; gold wreath/stein center; '1846' at bottom."
+},
+
+{
+  "id": "par_cze_echt_01",
+  "brand": "Pardál",
+  "series": "Echt",
+  "image": "images/Pardal/par_cze_echt_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Brown cap with white 'pardál' and yellow 'Echt' export variant lettering."
+},
+{
+  "id": "par_cze_classic_01",
+  "brand": "Pardál",
+  "series": "Classic",
+  "image": "images/Pardal/par_cze_classic_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "White cap with red 'pardál' logotype; weathered finish."
+}
+,
+  {
+  "id": "red_jam_75years_01",
+  "brand": "Red Stripe",
+  "series": "75Years",
+  "image": "images/RedStripe/red_jam_75years_01.jpg",
+  "country": "Jamaica",
+  "year": null,
+  "description": "White cap with red diagonal bar 'Red Stripe'; rim text 'Brewed For Over 75 Years' top, 'Jamaica Lager Beer' bottom."
+},
+{
+  "id": "red_jam_jamaica_01",
+  "brand": "Red Stripe",
+  "series": "Jamaica",
+  "image": "images/RedStripe/red_jam_jamaica_01.jpg",
+  "country": "Jamaica",
+  "year": null,
+  "description": "White cap with red diagonal bar 'Red Stripe'; rim text 'Brewed In Jamaica.'"
+},
+
+{
+  "id": "ksz_pol_czarny_01",
+  "brand": "Książ",
+  "series": "CzarnySpecjal",
+  "image": "images/Ksiaz/ksz_pol_czarny_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with red banner 'KSIĄŻ'; top barrel/hops emblem; scroll reads 'CZARNY SPECJAŁ.'"
+},
+{
+  "id": "ksz_pol_ksiazecy_01",
+  "brand": "Książ",
+  "series": "KsiążęcySpecjal",
+  "image": "images/Ksiaz/ksz_pol_ksiazecy_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "White cap with red banner 'KSIĄŻ' below red illustration of Książ Castle; scroll 'KSIĄŻĘCY SPECJAŁ.'"
+},
+
+{
+  "id": "koz_pol_black_01",
+  "brand": "Kozackie",
+  "series": "Black",
+  "image": "images/Kozackie/koz_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with red Kozackie banner; gold Cossack with saber above and crossed sabres below."
+},
+{
+  "id": "koz_pol_silver_01",
+  "brand": "Kozackie",
+  "series": "Silver",
+  "image": "images/Kozackie/koz_pol_silver_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Silver/white cap with red Kozackie banner; Cossack figure above, crossed sabres below."
+},
+
+{
+  "id": "lez_pol_pelne_01",
+  "brand": "Leżajsk",
+  "series": "Pelne",
+  "image": "images/Lezajsk/lez_pol_pelne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Blue cap with crown crest 'L' above white/gold Leżajsk banner; script 'Pełne' below."
+},
+{
+  "id": "lez_pol_pszeniczne_01",
+  "brand": "Leżajsk",
+  "series": "Pszeniczne",
+  "image": "images/Lezajsk/lez_pol_pszeniczne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Beige cap with crown crest 'L' above white/gold Leżajsk banner; script 'Pszeniczne' below."
+},
+
+{
+  "id": "pia_pol_gold_01",
+  "brand": "Piast",
+  "series": "Gold",
+  "image": "images/Piast/pia_pol_gold_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Gold cap with green/red outlined slanted panel 'Piast' and sweeping ring strokes."
+},
+{
+  "id": "pia_pol_black_01",
+  "brand": "Piast",
+  "series": "Black",
+  "image": "images/Piast/pia_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with yellow slanted panel 'Piast' and yellow ring strokes; red accent line."
+}
+,
+  {
+  "id": "har_deu_weizen_01",
+  "brand": "Härke",
+  "series": "Weizen",
+  "image": "images/Harke/har_deu_weizen_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with Härke twin-horse crest; white 'HÄRKE' and gold 'WEIZEN' plus 'Brauer aus Leidenschaft' line."
+},
+{
+  "id": "har_deu_pils_01",
+  "brand": "Härke",
+  "series": "Pils",
+  "image": "images/Harke/har_deu_pils_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Green-rimmed white pinstripe cap with Härke crest; green 'HÄRKE' and red 'Pils' script."
+},
+
+{
+  "id": "kin_eur_yellow_01",
+  "brand": "Kinley",
+  "series": "Yellow",
+  "image": "images/Kinley/kin_eur_yellow_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Yellow cap with embossed crown and script 'Kinley'; dotted lot-code overprint; mixer soft drink."
+},
+{
+  "id": "kin_eur_green_01",
+  "brand": "Kinley",
+  "series": "Green",
+  "image": "images/Kinley/kin_eur_green_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with embossed crown and script 'Kinley'; dotted lot-code overprint; mixer soft drink."
+},
+  {
+  "id": "kon_usa_blue_01",
+  "brand": "Kona Brewing Co.",
+  "series": "Blue",
+  "image": "images/Kona/kon_usa_blue_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Light blue cap with white oval band 'HANDCRAFTED KONA BREWING CO. KONA, HAWAII' around white gecko."
+},
+{
+  "id": "kon_usa_green_01",
+  "brand": "Kona Brewing Co.",
+  "series": "Green",
+  "image": "images/Kona/kon_usa_green_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Green cap with white oval band 'KONA BREWING CO' around white gecko."
+},
+
+{
+  "id": "jev_deu_fun_01",
+  "brand": "Jever",
+  "series": "Fun",
+  "image": "images/Jever/jev_deu_fun_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Bright green cap 'JEVER FUN ALKOHOLFREI' with brewery silhouette at top."
+},
+{
+  "id": "jev_deu_pilsener_01",
+  "brand": "Jever",
+  "series": "Pilsener",
+  "image": "images/Jever/jev_deu_pilsener_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Pale-gold cap with green 'JEVER' and 'PILSENER'; brewery silhouette at top."
+},
+  {
+  "id": "h_unk_lavender_01",
+  "brand": "H",
+  "series": "Lavender",
+  "image": "images/H/h_unk_lavender_01.jpg",
+  "country": null,
+  "year": null,
+  "description": "Lavender cap with tall tapered dark-violet 'H' outlined white; no other markings visible (brand unknown)."
+},
+{
+  "id": "h_unk_black_01",
+  "brand": "H",
+  "series": "Black",
+  "image": "images/H/h_unk_black_01.jpg",
+  "country": null,
+  "year": null,
+  "description": "Black cap with tall tapered yellow 'H' outlined magenta; no other markings visible (brand unknown)."
+},
+  {
+  "id": "har_pol_mocne_01",
+  "brand": "Harde",
+  "series": "MocnePiwo",
+  "image": "images/Harde/har_pol_mocne_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black/red/white cap with worker arm raising a stein inside gear; bold HARDE banner; script 'Mocne Piwo.'"
+},
+{
+  "id": "har_pol_emboss_01",
+  "brand": "Harde",
+  "series": "Embossed",
+  "image": "images/Harde/har_pol_emboss_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "All‑silver/black embossed cap with raised HARDE logotype across oval frame."
+},
+
+{
+  "id": "lib_pol_lime_01",
+  "brand": "Liberte",
+  "series": "Lime",
+  "image": "images/Liberte/lib_pol_lime_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Bright green twist‑off cap with whole lime graphic and white 'LIBERTÉ'; 'TWIST TO OPEN' arrows at rim."
+},
+{
+  "id": "lib_pol_orange_01",
+  "brand": "Liberte",
+  "series": "Orange",
+  "image": "images/Liberte/lib_pol_orange_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Orange twist‑off cap with orange fruit graphic and white 'LIBERTÉ'; 'TWIST TO OPEN' arrows at rim."
+},
+
+{
+  "id": "has_deu_premiumpils_rim_01",
+  "brand": "Hasseröder",
+  "series": "PremiumPilsRimText",
+  "image": "images/Hasseroder/has_deu_premiumpils_rim_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White center with gold rim text; black capercaillie bird above red 'Hasseröder' and script 'Premium Pils.'"
+},
+{
+  "id": "has_deu_premiumpils_01",
+  "brand": "Hasseröder",
+  "series": "PremiumPils",
+  "image": "images/Hasseroder/has_deu_premiumpils_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White center (no outer text visible) with black capercaillie bird above red 'Hasseröder' and script 'Premium Pils.'"
+},
+
+{
+  "id": "fre_pol_raspberrycherry_01",
+  "brand": "Freeq",
+  "series": "RaspberryCherry",
+  "image": "images/Freeq/fre_pol_raspberrycherry_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Dark red cap with swoosh arcs; white 'FREEQ' and small text 'Beer & Raspberry & Cherry.'"
+},
+{
+  "id": "fre_pol_promo_01",
+  "brand": "Freeq",
+  "series": "Promo",
+  "image": "images/Freeq/fre_pol_promo_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Magenta/red cap with white 'FREEQ' and Polish promo line 'Odkoduj swój styl' (decode your style)."
+},
+
+{
+  "id": "fox_pol_black_01",
+  "brand": "Fox",
+  "series": "Black",
+  "image": "images/Fox/fox_pol_black_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black oval with gold rim; red FOX banner; gold hop & barley sprays top/bottom."
+},
+{
+  "id": "fox_pol_red_01",
+  "brand": "Fox",
+  "series": "Red",
+  "image": "images/Fox/fox_pol_red_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Red oval with gold rim; maroon FOX banner; gold hop & barley sprays top/bottom."
+},
+  {
+  "id": "cob_gbr_greenlogo_01",
+  "brand": "Cobra",
+  "series": "GreenLogo",
+  "image": "images/Cobra/cob_gbr_greenlogo_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with gradient green 'COBRA' logotype and red Devanagari script beneath (Indian-style lager); worn."
+},
+{
+  "id": "cob_gbr_goldtext_01",
+  "brand": "Cobra",
+  "series": "GoldText",
+  "image": "images/Cobra/cob_gbr_goldtext_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold/yellow cap with green-outlined 'COBRA' logotype over red Devanagari; small black copy 'Born in Bangalore, India...' and palm tree icon at bottom; worn."
+},
+  {
+  "id": "mor_ita_gentleman_01",
+  "brand": "Birra Moretti",
+  "series": "Gentleman",
+  "image": "images/BirraMoretti/mor_ita_gentleman_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Gold cap with green-suited mustachioed gentleman drinking a mug; banner 'BIRRA MORETTI DAL 1859' and rim text 'QUALITA E TRADIZIONE.'"
+},
+{
+  "id": "mor_ita_redshield_01",
+  "brand": "Birra Moretti",
+  "series": "RedShield",
+  "image": "images/BirraMoretti/mor_ita_redshield_01.jpg",
+  "country": "Italy",
+  "year": null,
+  "description": "Gold cap with red center, barley wreath, small BM shield above white 'BIRRA MORETTI' and 'DAL 1859.'"
+},
+{
+  "id": "fen_gbr_yellowdog_01",
+  "brand": "Fentimans",
+  "series": "YellowDog",
+  "image": "images/Fentimans/fen_gbr_yellowdog_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Silver cap with yellow oval showing black Fentimans dog head; 'FENTIMANS' arcs below; heavily worn."
+},
+{
+  "id": "fen_gbr_greendog_01",
+  "brand": "Fentimans",
+  "series": "GreenDog",
+  "image": "images/Fentimans/fen_gbr_greendog_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Silver cap with green oval showing black Fentimans dog head; 'FENTIMANS' arcs below; heavily worn."
+},
+  {
+  "id": "bra_cze_creamgreen_01",
+  "brand": "Braník",
+  "series": "CreamGreen",
+  "image": "images/Branik/bra_cze_creamgreen_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Cream/gold cap with green Braník oval logo and crown‑and‑shield crest above; heavy wear."
+},
+{
+  "id": "bra_cze_greenwhite_01",
+  "brand": "Braník",
+  "series": "GreenWhite",
+  "image": "images/Branik/bra_cze_greenwhite_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Green cap with white Braník oval logo and crown‑and‑shield crest above; worn."
+},
+  {
+  "id": "ber_deu_pilsnerpromo_01",
+  "brand": "Berliner",
+  "series": "PilsnerPromo",
+  "image": "images/Berliner/ber_deu_pilsnerpromo_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with red Berlin bear over stylized city/monument; green 'Berliner' and red 'Pilsner' script; promo rim text '1 Berliner unter jedem Kronkorken' (worn)."
+},
+{
+  "id": "ber_deu_pilsner_01",
+  "brand": "Berliner",
+  "series": "Pilsner",
+  "image": "images/Berliner/ber_deu_pilsner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with red Berlin bear over stylized city/monument; green 'Berliner' and red 'Pilsner' script; no rim text visible (worn)."
+},
+  {
+  "id": "arg_pol_elbravos_01",
+  "brand": "Argus",
+  "series": "ElBravos",
+  "image": "images/Argus/arg_pol_elbravos_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Lime‑green cap with orange sombrero above red Argus banner; white panel reads 'EL BRAVOS' tequila‑style beer (Lidl private label)."
+},
+{
+  "id": "arg_pol_honey_01",
+  "brand": "Argus",
+  "series": "Honey",
+  "image": "images/Argus/arg_pol_honey_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Yellow cap with red honeycomb grid; red Argus banner over white panel 'HONEY' (Miodowy) honey beer from Lidl's Argus range."
+},
+  {
+  "id": "ces_lva_blue_01",
+  "brand": "Cesu",
+  "series": "BlueCrown",
+  "image": "images/Cesu/ces_lva_blue_01.jpg",
+  "country": "Latvia",
+  "year": null,
+  "description": "Blue cap with multi‑point gold/red crown and gold 'CESU' text beneath; double gold ring at rim (worn)."
+},
+{
+  "id": "ces_lva_white_01",
+  "brand": "Cesu",
+  "series": "WhiteCrown",
+  "image": "images/Cesu/ces_lva_white_01.jpg",
+  "country": "Latvia",
+  "year": null,
+  "description": "White cap with multi‑point gold/red crown centered; faint gold ring at rim; no text visible (worn)."
+},
+  {
+  "id": "ast_gbr_gold_01",
+  "brand": "Aston Manor",
+  "series": "Gold",
+  "image": "images/AstonManor/ast_gbr_gold_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold cap with black 'Aston Manor' wordmark over stylized apple-outline baseline."
+},
+{
+  "id": "ast_gbr_green_01",
+  "brand": "Aston Manor",
+  "series": "Green",
+  "image": "images/AstonManor/ast_gbr_green_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Dark green cap with gold 'Aston Manor' wordmark over stylized apple-outline baseline."
+},
+  {
+  "id": "sam_usa_octoberfest_01",
+  "brand": "Samuel Adams",
+  "series": "Octoberfest",
+  "image": "images/SamuelAdams/sam_usa_octoberfest_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Orange cap with white 'Samuel Adams' logotype over 'Octoberfest' script; thin blue/white ring at edge."
+},
+{
+  "id": "sam_usa_bostonlager_01",
+  "brand": "Samuel Adams",
+  "series": "BostonLager",
+  "image": "images/SamuelAdams/sam_usa_bostonlager_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Blue cap with white 'Samuel Adams' logotype above red banner 'Boston Lager®'; white/red rim ring."
+},
+{
+  "id": "sam_usa_light_01",
+  "brand": "Samuel Adams",
+  "series": "Light",
+  "image": "images/SamuelAdams/sam_usa_light_01.jpg",
+  "country": "United States",
+  "year": null,
+  "description": "Blue cap reading 'Sam Adams' over white banner 'LIGHT' in red; blue/white rim ring."
+},
+  {
+  "id": "roc_bel_10_01",
+  "brand": "Rochefort",
+  "series": "10",
+  "image": "images/Rochefort/roc_bel_10_01.jpg",
+  "country": "Belgium",
+  "year": null,
+  "description": "Purple cap with white concentric rings; legend 'BIERE DES TRAPPISTES - ROCHEFORT -' around large '10 Cat.S' in center."
+},
+{
+  "id": "roc_bel_8_01",
+  "brand": "Rochefort",
+  "series": "8",
+  "image": "images/Rochefort/roc_bel_8_01.jpg",
+  "country": "Belgium",
+  "year": null,
+  "description": "Green-and-white cap with legend 'BIERE DES TRAPPISTES - ROCHEFORT -' around large '8 Cat.S' in center."
+},
+  {
+  "id": "fre_gbr_elephant_01",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Black cap with white Fremlin's elephant over ribbon 'TRADE MARK REGISTERED SINCE 1861' (worn; digits may appear as 1801)."
+},
+{
+  "id": "fre_gbr_elephant_02",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_02.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Magenta cap with white Fremlin's elephant and ribbon 'TRADE MARK REGISTERED SINCE 1861.'"
+},
+{
+  "id": "fre_gbr_elephant_03",
+  "brand": "Fremlin's",
+  "series": "Elephant",
+  "image": "images/Fremlins/fre_gbr_elephant_03.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Green cap with white Fremlin's elephant and ribbon 'TRADE MARK REGISTERED SINCE 1861.'"
+},
+  {
+  "id": "som_dnk_magenta_01",
+  "brand": "Somersby",
+  "series": "MagentaTree",
+  "image": "images/Somersby/som_dnk_magenta_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "Magenta cap with white Somersby tree-and-ladder logo above white 'Somersby.' text."
+},
+{
+  "id": "som_dnk_leaf_01",
+  "brand": "Somersby",
+  "series": "Leaf",
+  "image": "images/Somersby/som_dnk_leaf_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "White center with green rim; green 'Somersby.' flanked by stylized leaf sprays above and below."
+},
+{
+  "id": "som_dnk_apple_01",
+  "brand": "Somersby",
+  "series": "Apple",
+  "image": "images/Somersby/som_dnk_apple_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "White center with green rim; green 'Somersby.' over bold 'APPLE' and leaf sprays top/bottom."
+},
+  {
+  "id": "kli_rus_arrow_01",
+  "brand": "Klinskoe",
+  "series": "Arrow",
+  "image": "images/Klinskoe/kli_rus_arrow_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Dark green cap with large pale arrow and black 'КЛИНСКОЕ' text (Klinskoe) over stylized block shape."
+},
+{
+  "id": "kli_rus_classic_01",
+  "brand": "Klinskoe",
+  "series": "Classic",
+  "image": "images/Klinskoe/kli_rus_classic_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Green cap with framed white 'КЛИНСКОЕ' text, two beer mugs flanking a barley ear above, and 'ПИВО' below."
+},
+{
+  "id": "kli_rus_arrow_02",
+  "brand": "Klinskoe",
+  "series": "Arrow",
+  "image": "images/Klinskoe/kli_rus_arrow_02.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Silver/green cap with green arrow and dark 'КЛИНСКОЕ' text; variant of the Klinskoe arrow design."
+},
+  {
+  "id": "koz_cze_cerny_01",
+  "brand": "Kozel",
+  "series": "Cerny",
+  "image": "images/Kozel/koz_cze_cerny_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Dark brown cap with yellow 'Velkopopovicky Kozel' goat holding a mug; text 'CERNY' at bottom."
+},
+{
+  "id": "koz_cze_svetly_01",
+  "brand": "Kozel",
+  "series": "Svetly",
+  "image": "images/Kozel/koz_cze_svetly_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Pale metallic cap with dark 'Velkopopopvicky Kozel' goat holding a mug; text 'SVETLY' at bottom."
+},
+{
+  "id": "koz_cze_velkopopovicky_01",
+  "brand": "Kozel",
+  "series": "Velkopopovicky",
+  "image": "images/Kozel/koz_cze_velkopopovicky_01.jpg",
+  "country": "Czech Republic",
+  "year": null,
+  "description": "Gold cap with brown 'Velkopopopvicky Kozel' goat holding a mug; no variety text visible."
+},
+  {
+  "id": "mar_gbr_ecb_01",
+  "brand": "Marston's",
+  "series": "ECB",
+  "image": "images/Marstons/mar_gbr_ecb_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Red cap with white 'Marston's' text and ECB three-lions crest; legend reads 'Official Beer of England.'"
+},
+{
+  "id": "mar_gbr_ecb_02",
+  "brand": "Marston's",
+  "series": "ECB",
+  "image": "images/Marstons/mar_gbr_ecb_02.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Gold/green cap with black 'Marston's' text and ECB three-lions crest; legend reads 'Official Beer of England.'"
+},
+{
+  "id": "mar_gbr_dontcompromise_01",
+  "brand": "Marston's",
+  "series": "DontCompromise",
+  "image": "images/Marstons/mar_gbr_dontcompromise_01.jpg",
+  "country": "United Kingdom",
+  "year": null,
+  "description": "Blue cap with white 'Marston's' arc over three union barrels and large 'DON'T COMPROMISE' slogan."
+},
+    {
+"id": "man_pol_classic_01",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Dark blue cap with white 'Manufaktura' text and a craft symbol."
+},
+{
+"id": "man_pol_classic_02",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Brown cap with gold 'Manufaktura' text and a craft symbol."
+},
+{
+"id": "man_pol_classic_03",
+"brand": "Manufaktura",
+"series": "Classic",
+"image": "images/Manufaktura/man_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with black 'Manufaktura' text and a craft symbol."
+},
+    {
+"id": "for_pol_classic_01",
+"brand": "Fortuna",
+"series": "Classic",
+"image": "images/Fortuna/for_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with white 'Fortuna' text and a star design."
+},
+{
+"id": "for_pol_classic_02",
+"brand": "Fortuna",
+"series": "Classic",
+"image": "images/Fortuna/for_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Fortuna' text and a star design."
+},
+{
+"id": "for_pol_classic_03",
+"brand": "Fortuna",
+"series": "Classic",
+"image": "images/Fortuna/for_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with red 'Fortuna' text and a star design."
+},{
+  "id": "for_pol_redcrown_01",
+  "brand": "Fortuna",
+  "series": "RedCrown",
+  "image": "images/Fortuna/for_pol_redcrown_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Red center with gold stylized crown above 'Fortuna'; wide gold ring reads 'AUDACES FORTUNA IUVAT • AD 1889.'"
+},
+{
+  "id": "for_pol_blackf_01",
+  "brand": "Fortuna",
+  "series": "BlackF",
+  "image": "images/Fortuna/for_pol_blackf_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Black cap with large gold 'F' topped by crown; outer gold ring text '.BROWAR FORTUNA. AUDACES FORTUNA IUVAT.'"
+},
+    {
+"id": "gniew_pol_classic_01",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Blue cap with white 'Gniewosz' text and a shield design."
+},
+{
+"id": "gniew_pol_classic_02",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Red cap with gold 'Gniewosz' text and a shield design."
+},
+{
+"id": "gniew_pol_classic_03",
+"brand": "Gniewosz",
+"series": "Classic",
+"image": "images/Gniewosz/gniew_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Gniewosz' text and a shield design."
+},
+    {
+"id": "deb_pol_classic_01",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowe/deb_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Brown cap with gold 'Dębowe' text and an oak leaf design."
+},
+{
+"id": "deb_pol_classic_02",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowe/deb_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with white 'Dębowe' text and an oak leaf design."
+},
+{
+"id": "deb_pol_classic_03",
+"brand": "Dębowe",
+"series": "Classic",
+"image": "images/Debowe/deb_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Dębowe' text and an oak leaf design."
+},
+    {
+"id": "kar_pol_classic_01",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with white 'Karpackie' text and a mountain design."
+},
+{
+"id": "kar_pol_classic_02",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Karpackie' text and a mountain design."
+},
+{
+"id": "kar_pol_classic_03",
+"brand": "Karpackie",
+"series": "Classic",
+"image": "images/Karpackie/kar_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with red 'Karpackie' text and a mountain design."
+},
+    {
+"id": "lam_uk_classic_01",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_01.jpg",
+"country": "UK",
+"year": null,
+"description": "Pink cap with white 'Lambrini' text and a floral design."
+},
+{
+"id": "lam_uk_classic_02",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_02.jpg",
+"country": "UK",
+"year": null,
+"description": "Purple cap with white 'Lambrini' text and a sparkling design."
+},
+{
+"id": "lam_uk_classic_03",
+"brand": "Lambrini",
+"series": "Classic",
+"image": "images/Lambrini/lam_uk_classic_03.jpg",
+"country": "UK",
+"year": null,
+"description": "Gold cap with black 'Lambrini' text and a grape design."
+},
+    {
+"id": "smi_rus_classic_01",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_01.jpg",
+"country": "Russia",
+"year": null,
+"description": "Silver cap with red 'Smirnoff' text and a white emblem."
+},
+{
+"id": "smi_rus_classic_02",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_02.jpg",
+"country": "Russia",
+"year": null,
+"description": "Gold cap with black 'Smirnoff' text and a red emblem."
+},
+{
+"id": "smi_rus_classic_03",
+"brand": "Smirnoff",
+"series": "Classic",
+"image": "images/Smirnoff/smi_rus_classic_03.jpg",
+"country": "Russia",
+"year": null,
+"description": "Black cap with white 'Smirnoff' text and a gold emblem."
+},
+    {
+"id": "7up_usa_classic_01",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Silver cap with green '7UP' text and a white dot pattern."
+},
+{
+"id": "7up_usa_classic_02",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_02.jpg",
+"country": "USA",
+"year": null,
+"description": "Green cap with white '7UP' text and a silver dot pattern."
+},
+{
+"id": "7up_usa_classic_03",
+"brand": "7UP",
+"series": "Classic",
+"image": "images/7UP/7up_usa_classic_03.jpg",
+"country": "USA",
+"year": null,
+"description": "White cap with green '7UP' text and a gold dot pattern."
+},
+{
+"id": "cor_pol_classic_01",
+"brand": "Cornelius",
+"series": "Classic",
+"image": "images/Cornelius/cor_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Silver cap with black 'Cornelius' text and a wheat design."
+},
+{
+"id": "cor_pol_classic_02",
+"brand": "Cornelius",
+"series": "Classic",
+"image": "images/Cornelius/cor_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Cornelius' text and a wheat design."
+},
+{
+"id": "cor_pol_classic_03",
+"brand": "Cornelius",
+"series": "Classic",
+"image": "images/Cornelius/cor_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Bronze cap with black 'Cornelius' text and a wheat design."
+},
+{
+"id": "bs_pol_classic_01",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold and red cap with 'BS&S' logo and '1992' banner."
+},
+{
+"id": "bs_pol_classic_02",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "White cap with red 'BS&S' logo, '1992' banner, and crown design."
+},
+{
+"id": "bs_pol_classic_03",
+"brand": "BS",
+"series": "Classic",
+"image": "images/BS/bs_pol_classic_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Black cap with gold 'BS&S' logo, '1992' banner, and 'Browar Jablonowo' text."
+},
+{
+"id": "ald_lat_classic_01",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_01.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Red cap with white 'Aldaris' text and gold lines."
+},
+{
+"id": "ald_lat_classic_02",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_02.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Blue cap with red and white 'Aldaris' text and gold lines."
+},
+{
+"id": "ald_lat_classic_03",
+"brand": "Aldaris",
+"series": "Classic",
+"image": "images/Aldaris/ald_lat_classic_03.jpg",
+"country": "Latvia",
+"year": null,
+"description": "Green cap with red and white 'Aldaris' text and gold lines."
+},
+{
+"id": "kar_pol_classic_01",
+"brand": "Karmi",
+"series": "Classic",
+"image": "images/Karmi/kar_pol_classic_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Yellow cap with red 'Karmi' text and a wave design."
+},
+{
+"id": "kar_pol_twistoff_02",
+"brand": "Karmi",
+"series": "Twist Off",
+"image": "images/Karmi/kar_pol_twistoff_02.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Karmi' text, wave design, and 'Twist Off' label."
+},
+{
+"id": "kar_pol_twistoff_03",
+"brand": "Karmi",
+"series": "Twist Off",
+"image": "images/Karmi/kar_pol_twistoff_03.jpg",
+"country": "Poland",
+"year": null,
+"description": "Gold cap with black 'Karmi' text, wave design, and 'Twist Off' label."
+},
+    {
+"id": "hei_nld_light_01",
+"brand": "Heineken",
+"series": "Light",
+"image": "images/Heineken/hei_nld_light_01.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "White cap with green 'Heineken Light' and a red star."
+},
+{
+"id": "hei_nld_quality_02",
+"brand": "Heineken",
+"series": "Quality",
+"image": "images/Heineken/hei_nld_quality_02.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "Green cap with white 'Heineken Quality' and a red star."
+},
+{
+"id": "hei_nld_beer_03",
+"brand": "Heineken",
+"series": "Beer",
+"image": "images/Heineken/hei_nld_beer_03.jpg",
+"country": "Netherlands",
+"year": null,
+"description": "Green cap with white 'Heineken Beer' and a red star."
+},
+    {
+"id": "windmill_uk_classic_01",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Green cap with a windmill crest in white."
+},
+{
+"id": "windmill_uk_classic_02",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_02.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Orange cap with a windmill crest in yellow."
+},
+{
+"id": "windmill_uk_classic_03",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_03.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Gold cap with a windmill crest in black."
+},
+{
+"id": "windmill_uk_classic_04",
+"brand": "Windmill",
+"series": "Classic",
+"image": "images/Windmill/windmill_uk_classic_04.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Dark gold cap with a windmill crest in yellow."
+},
+{
+    "id": "twistoff_uk_white_01",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_white_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "White cap with 'TWIST OFF' text in black, circular arrow design"
+  },
+  {
+    "id": "twistoff_uk_blue_02",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_blue_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "White cap with 'TWIST OFF' text in blue, circular arrow design with date code"
+  },
+  {
+    "id": "twistoff_uk_red_03",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_red_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Red cap with 'TWIST OFF' text in white, simple arrow design"
+  },
+  {
+    "id": "twistoff_uk_variation_04",
+    "brand": "Generic",
+    "series": "Twist-Off",
+    "image": "images/TwistOff/twistoff_uk_variation_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Generic twist-off cap with 'TWIST OFF' text, color variation"
+  },
+    {
+    "id": "wkd_uk_blue_01",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_blue_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Blue cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_black_02",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_black_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Black cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_pink_03",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_pink_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Pink cap with 'WKD' text in white, rectangular logo design"
+  },
+  {
+    "id": "wkd_uk_variation_04",
+    "brand": "WKD",
+    "series": "Original",
+    "image": "images/WKD/wkd_uk_variation_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Generic WKD cap with 'WKD' text in white, rectangular logo design, color variation"
+  },
+    {
+    "id": "veltins_de_pilsener_white_01",
+    "brand": "Veltins",
+    "series": "Pilsener",
+    "image": "images/Veltins/veltins_de_pilsener_white_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with 'VELTINS Pilsener' text, crowned crest logo in red, white and green"
+  },
+  {
+    "id": "veltins_de_kronkorken_aktion_02",
+    "brand": "Veltins",
+    "series": "Pilsener",
+    "image": "images/Veltins/veltins_de_kronkorken_aktion_02.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with 'VELTINS Pilsener' and crowned crest, green lower half labeled 'KRONKORKEN-AKTION'"
+  },
+  {
+    "id": "veltins_de_alkoholfrei_silver_03",
+    "brand": "Veltins",
+    "series": "Alkoholfrei",
+    "image": "images/Veltins/veltins_de_alkoholfrei_silver_03.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with 'VELTINS' in black text, 'Alkoholfrei' in blue, featuring crowned crest in red, white, and green"
+  },
+    {
+    "id": "woj_pl_black_eagle_mocne_01",
+    "brand": "Wojak",
+    "series": "Mocne",
+    "image": "images/Wojak/woj_pl_black_eagle_mocne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with golden eagle and barley, red and gold shield with 'WOJAK' and white 'MOCNE' text"
+  },
+  {
+    "id": "woj_pl_black_3stars_white_02",
+    "brand": "Wojak",
+    "series": "Classic",
+    "image": "images/Wojak/woj_pl_black_3stars_white_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with three white stars above bold white 'WOJAK' text"
+  },
+  {
+    "id": "woj_pl_black_redshield_03",
+    "brand": "Wojak",
+    "series": "Classic",
+    "image": "images/Wojak/woj_pl_black_redshield_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with red shield containing bold white 'WOJAK' text, no additional symbols"
+  },
+  {
+    "id": "woj_pl_red_eagle_supermocne_04",
+    "brand": "Wojak",
+    "series": "Super Mocne",
+    "image": "images/Wojak/woj_pl_red_eagle_supermocne_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with eagle above 'WOJAK' label, golden barley, and white 'SUPER MOCNE' text"
+  },
+    {
+    "id": "pony_malta_co_red_prize_01",
+    "brand": "Pony Malta",
+    "series": "Red Prize",
+    "image": "images/Pony Malta/pony_malta_co_red_prize_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with yellow 'Pony Malta' text and prize token design"
+  },
+  {
+    "id": "pony_malta_co_vintage_prize_02",
+    "brand": "Pony Malta",
+    "series": "Vintage Prize",
+    "image": "images/Pony Malta/pony_malta_co_vintage_prize_02.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with faded yellow 'Pony Malta' text and worn prize token"
+  },
+  {
+    "id": "pony_malta_co_white_code_03",
+    "brand": "Pony Malta",
+    "series": "White Code",
+    "image": "images/Pony Malta/pony_malta_co_white_code_03.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "White cap with red 'Pony Malta' text and online code entry"
+  },
+  {
+    "id": "pony_malta_co_classic_04",
+    "brand": "Pony Malta",
+    "series": "Classic",
+    "image": "images/Pony Malta/pony_malta_co_classic_04.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red and yellow cap with 'Pony Malta' logo"
+  },
+    {
+    "id": "pilsen_co_red_star_01",
+    "brand": "Pilsen",
+    "series": "Red Star",
+    "image": "images/Pilsen/pilsen_co_red_star_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with white star and 'Pilsen' text, priced at 1.20"
+  },
+  {
+    "id": "pilsen_co_vintage_02",
+    "brand": "Pilsen",
+    "series": "Vintage",
+    "image": "images/Pilsen/pilsen_co_vintage_02.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with faded star and 'Pilsen' text, worn vintage look"
+  },
+  {
+    "id": "pilsen_co_premium_03",
+    "brand": "Pilsen",
+    "series": "Premium",
+    "image": "images/Pilsen/pilsen_co_premium_03.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with gold star and 'Pilsen Premium' text"
+  },
+  {
+    "id": "pilsen_co_classic_04",
+    "brand": "Pilsen",
+    "series": "Classic",
+    "image": "images/Pilsen/pilsen_co_classic_04.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Red cap with white star and 'Pilsen 1300' text"
+  },
+    {
+    "id": "miller_us_lite_01",
+    "brand": "Miller",
+    "series": "Lite",
+    "image": "images/Miller/miller_us_lite_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with blue 'Miller Lite' text"
+  },
+  {
+    "id": "miller_us_high_life_02",
+    "brand": "Miller",
+    "series": "High Life",
+    "image": "images/Miller/miller_us_high_life_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Gold cap with black 'Miller High Life' text"
+  },
+  {
+    "id": "miller_us_genuine_draft_03",
+    "brand": "Miller",
+    "series": "Genuine Draft",
+    "image": "images/Miller/miller_us_genuine_draft_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with blue 'Miller Genuine Draft' text"
+  },
+  {
+    "id": "miller_us_64_04",
+    "brand": "Miller",
+    "series": "64",
+    "image": "images/Miller/miller_us_64_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with red 'Miller 64' text"
+  },
+    {
+    "id": "max_us_twist_01",
+    "brand": "Max",
+    "series": "Twist",
+    "image": "images/Max/max_us_twist_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Twist' branding"
+  },
+  {
+    "id": "max_us_cream_02",
+    "brand": "Max",
+    "series": "Cream",
+    "image": "images/Max/max_us_cream_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Cream All Malt Beer' text"
+  },
+  {
+    "id": "max_us_rich_taste_03",
+    "brand": "Max",
+    "series": "Rich Taste",
+    "image": "images/Max/max_us_rich_taste_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and 'Climax of Rich Taste' slogan"
+  },
+  {
+    "id": "max_us_original_04",
+    "brand": "Max",
+    "series": "Original",
+    "image": "images/Max/max_us_original_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with blue 'Max' text and minimalist design"
+  },
+    {
+    "id": "kasztelan_pl_biate_01",
+    "brand": "Kasztelan",
+    "series": "Białe",
+    "image": "images/Kasztelan/kasztelan_pl_biate_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Beige cap with red 'Kasztelan Specjaly Białe' text"
+  },
+  {
+    "id": "kasztelan_pl_specjal_02",
+    "brand": "Kasztelan",
+    "series": "Specjal",
+    "image": "images/Kasztelan/kasztelan_pl_specjal_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan Specjal' text and crossed swords"
+  },
+  {
+    "id": "kasztelan_pl_chmielowe_03",
+    "brand": "Kasztelan",
+    "series": "Chmielowe",
+    "image": "images/Kasztelan/kasztelan_pl_chmielowe_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan Chmielowe' text"
+  },
+  {
+    "id": "kasztelan_pl_original_04",
+    "brand": "Kasztelan",
+    "series": "Original",
+    "image": "images/Kasztelan/kasztelan_pl_original_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'Kasztelan' text and 'A.D. 1322' inscription"
+  },
+  {
+    "id": "miloslaw_pl_pszeniczne_01",
+    "brand": "Miłosław",
+    "series": "Pszeniczne",
+    "image": "images/Miloslaw/miloslaw_pl_pszeniczne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with 'Browar Fortuna Miłosław Pszeniczne' text"
+  },
+  {
+    "id": "miloslaw_pl_niefiltrowane_02",
+    "brand": "Miłosław",
+    "series": "Niefiltrowane",
+    "image": "images/Miloslaw/miloslaw_pl_niefiltrowane_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with 'Browar Fortuna Miłosław Niefiltrowane' text"
+  },
+  {
+    "id": "miloslaw_pl_pilsner_03",
+    "brand": "Miłosław",
+    "series": "Pilsner",
+    "image": "images/Miloslaw/miloslaw_pl_pilsner_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap with 'Browar Fortuna Miłosław Pilsner' text"
+  },
+  {
+    "id": "miloslaw_pl_original_04",
+    "brand": "Miłosław",
+    "series": "Original",
+    "image": "images/Miloslaw/miloslaw_pl_original_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with 'Browar Fortuna Miłosław Original' text"
+  },
+  {
+    "id": "holsten_de_export_01",
+    "brand": "Holsten",
+    "series": "Export",
+    "image": "images/Holsten/holsten_de_export_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold cap with blue rim, knight on horse emblem, and 'Holsten Export' text"
+  },
+  {
+    "id": "holsten_de_pils_02",
+    "brand": "Holsten",
+    "series": "Pils",
+    "image": "images/Holsten/holsten_de_pils_02.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with green rim, knight on horse emblem, and 'Holsten Pils' text"
+  },
+  {
+    "id": "holsten_de_original_03",
+    "brand": "Holsten",
+    "series": "Original",
+    "image": "images/Holsten/holsten_de_original_03.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold cap with red rim, knight on horse emblem, and 'Holsten Original' text"
+  },
+  {
+    "id": "holsten_de_premium_04",
+    "brand": "Holsten",
+    "series": "Premium",
+    "image": "images/Holsten/holsten_de_premium_04.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Silver cap with blue rim, knight on horse emblem, and 'Holsten Premium' text"
+  },
+  {
+    "id": "guinness_ie_malta_01",
+    "brand": "Guinness",
+    "series": "Malta",
+    "image": "images/Guinness/guinness_ie_malta_01.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Yellow cap with red 'Malta' text and Guinness harp logo"
+  },
+  {
+    "id": "guinness_ie_stout_02",
+    "brand": "Guinness",
+    "series": "Stout",
+    "image": "images/Guinness/guinness_ie_stout_02.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with white 'Guinness' text and harp logo, yellow rim"
+  },
+  {
+    "id": "guinness_ie_original_03",
+    "brand": "Guinness",
+    "series": "Original",
+    "image": "images/Guinness/guinness_ie_original_03.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with gold 'Guinness' text and harp logo"
+  },
+  {
+    "id": "guinness_ie_extra_04",
+    "brand": "Guinness",
+    "series": "Extra",
+    "image": "images/Guinness/guinness_ie_extra_04.jpg",
+    "country": "Ireland",
+    "year": null,
+    "description": "Black cap with silver 'Guinness' text and harp logo"
+  },
+  {
+    "id": "fosters_au_radler_01",
+    "brand": "Foster's",
+    "series": "Radler",
+    "image": "images/Fosters/fosters_au_radler_01.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Radler' text"
+  },
+  {
+    "id": "fosters_au_gold_02",
+    "brand": "Foster's",
+    "series": "Gold",
+    "image": "images/Fosters/fosters_au_gold_02.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Gold' text"
+  },
+  {
+    "id": "fosters_au_premium_03",
+    "brand": "Foster's",
+    "series": "Premium",
+    "image": "images/Fosters/fosters_au_premium_03.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Premium' text"
+  },
+  {
+    "id": "fosters_au_original_04",
+    "brand": "Foster's",
+    "series": "Original",
+    "image": "images/Fosters/fosters_au_original_04.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "Blue cap with yellow 'F' logo and 'Original' text"
+  },
+    {
+    "id": "eb_pl_goldcrest_1872_01",
+    "brand": "EB",
+    "series": "Classic",
+    "image": "images/EB/eb_pl_goldcrest_1872_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'EB' text, dual animal crest, and '1872' label; marked 'Original Polish Recipe'"
+  },
+  {
+    "id": "eb_pl_elbrewery_ltd_02",
+    "brand": "EB",
+    "series": "Classic",
+    "image": "images/EB/eb_pl_elbrewery_ltd_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with gold and black rings, red 'EB' text, and inscription 'ELBREWERY CO. LTD'"
+  },
+  {
+    "id": "eb_pl_premium_pils_star_03",
+    "brand": "EB",
+    "series": "Premium Pils",
+    "image": "images/EB/eb_pl_premium_pils_star_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with black and gold rings, red 'EB' and star emblem, labeled 'Poland’s Premium Pils'"
+  },
+  {
+    "id": "eb_pl_gold_original_1872_04",
+    "brand": "EB",
+    "series": "Original",
+    "image": "images/EB/eb_pl_gold_original_1872_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red 'EB', dual animal crest, and year '1872'; labeled 'Original Recipe'"
+  },
+  {
+    "id": "css_kor_lemon_green_01",
+    "brand": "Cass",
+    "series": "Lemon",
+    "image": "images/Cass/css_kor_lemon_green_01.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Lime green twist cap with white 'Cass Lemon' logo and Korean text"
+  },
+  {
+    "id": "css_kor_light_blue_02",
+    "brand": "Cass",
+    "series": "Light",
+    "image": "images/Cass/css_kor_light_blue_02.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Blue cap with 'Cass Light' text and yellow/green burst, with Korean writing around the rim"
+  },
+  {
+    "id": "css_kor_fresh_gold_03",
+    "brand": "Cass",
+    "series": "Fresh",
+    "image": "images/Cass/css_kor_fresh_gold_03.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Gold-toned cap with 'Cass Fresh' in blue, bordered by a colorful tax stamp and Korean writing"
+  },
+  {
+    "id": "css_kor_fresh_silver_04",
+    "brand": "Cass",
+    "series": "Fresh",
+    "image": "images/Cass/css_kor_fresh_silver_04.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Silver cap with blue 'Cass Fresh' logo, includes tax stamp design and Korean text"
+  },
+  {
+    "id": "crn_mex_extra_yellowrim_01",
+    "brand": "Corona",
+    "series": "Extra",
+    "image": "images/Corona/crn_mex_extra_yellowrim_01.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white 'Corona Extra' text and crown, yellow outer rim"
+  },
+  {
+    "id": "crn_mex_extra_whiterim_02",
+    "brand": "Corona",
+    "series": "Extra",
+    "image": "images/Corona/crn_mex_extra_whiterim_02.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white 'Corona Extra' and white outer rim, with crown icon"
+  },
+  {
+    "id": "crn_mex_light_yellow_03",
+    "brand": "Corona",
+    "series": "Light",
+    "image": "images/Corona/crn_mex_light_yellow_03.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Yellow cap with blackletter 'Corona Light' and crown emblem in black"
+  },
+  {
+    "id": "crn_mex_coronita_04",
+    "brand": "Corona",
+    "series": "Coronita",
+    "image": "images/Corona/crn_mex_coronita_04.jpg",
+    "country": "Mexico",
+    "year": null,
+    "description": "Navy blue cap with white text 'Coronita cerveza' and crown, yellow rim"
+  },
+    {
+    "id": "bsm_pol_bluepromo_01",
+    "brand": "Bosman",
+    "series": "Promocja",
+    "image": "images/Bosman/bsm_pol_bluepromo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with red Bosman logo, white rope border and text 'PROMOCJA 700 000 PIW'"
+  },
+  {
+    "id": "bsm_pol_niefiltrowane_02",
+    "brand": "Bosman",
+    "series": "Niefiltrowane",
+    "image": "images/Bosman/bsm_pol_niefiltrowane_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with blue Bosman logo and handwritten 'Niefiltrowane' above"
+  },
+  {
+    "id": "bsm_pol_specjal_03",
+    "brand": "Bosman",
+    "series": "Specjal",
+    "image": "images/Bosman/bsm_pol_specjal_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green and gold cap with red Bosman logo, green sailboat, and text 'SPECJAL'"
+  },
+  {
+    "id": "bsm_pol_full_04",
+    "brand": "Bosman",
+    "series": "Full",
+    "image": "images/Bosman/bsm_pol_full_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red and gold cap with red sailboat and Bosman logo, 'FULL' in red at the bottom"
+  },
+    {
+    "id": "prm_cze_white16_01",
+    "brand": "Primátor",
+    "series": "16%",
+    "image": "images/Primator/prm_cze_white16_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '16%' in textured gray font"
+  },
+  {
+    "id": "prm_cze_white21_02",
+    "brand": "Primátor",
+    "series": "21%",
+    "image": "images/Primator/prm_cze_white21_02.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '21%' in textured gray font"
+  },
+  {
+    "id": "prm_cze_whiteclassic_03",
+    "brand": "Primátor",
+    "series": "Classic",
+    "image": "images/Primator/prm_cze_whiteclassic_03.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with 'Založeno 1872', red Primátor logo, and 'Pivovar Náchod'"
+  },
+  {
+    "id": "prm_cze_purpleclover_04",
+    "brand": "Primátor",
+    "series": "Limited",
+    "image": "images/Primator/prm_cze_purpleclover_04.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Purple cap with Primátor logo, green cloverleaf, and 'Pivovar Náchod a.s.'"
+  },
+  {
+    "id": "prm_cze_white24_05",
+    "brand": "Primátor",
+    "series": "24%",
+    "image": "images/Primator/prm_cze_white24_05.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with red Primátor logo and bold '24%' in shaded gray font"
+  },
+  {
+    "id": "hite_kor_plainwhite_01",
+    "brand": "Hite",
+    "series": "Standard",
+    "image": "images/Hite/hite_kor_plainwhite_01.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "White cap with gothic black 'hite' text in lowercase, no additional markings"
+  },
+  {
+    "id": "hite_kor_classicwhite_02",
+    "brand": "Hite",
+    "series": "Classic",
+    "image": "images/Hite/hite_kor_classicwhite_02.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "White cap with gothic 'hite' text and blue Korean decorative borders at top and bottom"
+  },
+  {
+    "id": "hite_kor_greenslant_03",
+    "brand": "Hite",
+    "series": "Green Label",
+    "image": "images/Hite/hite_kor_greenslant_03.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Green cap with slanted white 'hite' text and blue shadows"
+  },
+  {
+    "id": "hite_kor_blueswish_04",
+    "brand": "Hite",
+    "series": "Cool Blue",
+    "image": "images/Hite/hite_kor_blueswish_04.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Bright blue cap with italic 'hite' and swoosh underline"
+  },
+  {
+    "id": "hite_kor_darkgreen_05",
+    "brand": "Hite",
+    "series": "Green",
+    "image": "images/Hite/hite_kor_darkgreen_05.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "Dark green cap with bold white 'Hite' text, slightly slanted"
+  },
+  {
+    "id": "prl_pol_miodowa_01",
+    "brand": "Perła",
+    "series": "Miodowa",
+    "image": "images/Perla/prl_pol_miodowa_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with honeycomb background and red Perła logo, 'Miodowa' in cursive font"
+  },
+  {
+    "id": "prl_pol_chmielowa_02",
+    "brand": "Perła",
+    "series": "Chmielowa",
+    "image": "images/Perla/prl_pol_chmielowa_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap with red Perła logo and 'Chmielowa' in white serif font below"
+  },
+  {
+    "id": "prl_pol_export_03",
+    "brand": "Perła",
+    "series": "Export",
+    "image": "images/Perla/prl_pol_export_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with green border, red Perła logo, and 'export' in red lowercase text"
+  },
+  {
+    "id": "prl_pol_niepasteryzowana_04",
+    "brand": "Perła",
+    "series": "Niepasteryzowana",
+    "image": "images/Perla/prl_pol_niepasteryzowana_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with red Perła logo and 'NIEPASTERYZOWANA' in brown uppercase letters"
+  },
+  {
+    "id": "prl_pol_koziak_05",
+    "brand": "Perła",
+    "series": "Koźlak",
+    "image": "images/Perla/prl_pol_koziak_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Golden cap with goat head illustration, circular 'Perła - Browary Lubelskie S.A.' text and 'Koźlak'"
+  },
+  {
+    "id": "mrn_usa_fruitysilver_01",
+    "brand": "Mirinda",
+    "series": "Fruity",
+    "image": "images/Mirinda/mrn_usa_fruitysilver_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Silver cap with black 'Mirinda Fruity' text, ingredients and RRP USH 800 printed around edges"
+  },
+  {
+    "id": "mrn_usa_orangegreen_02",
+    "brand": "Mirinda",
+    "series": "Orange",
+    "image": "images/Mirinda/mrn_usa_orangegreen_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Green cap with orange slice and large 'Mirinda' text in white with green border"
+  },
+  {
+    "id": "mrn_usa_korwhite_03",
+    "brand": "Mirinda",
+    "series": "Orange (Korean)",
+    "image": "images/Mirinda/mrn_usa_korwhite_03.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with green Korean text, '355 ml (185 kcal)' and nutritional info in Korean"
+  },
+  {
+    "id": "mrn_usa_koryellow_04",
+    "brand": "Mirinda",
+    "series": "Pineapple (Korean)",
+    "image": "images/Mirinda/mrn_usa_koryellow_04.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow cap with green 'Mirinda' logo and Korean text for pineapple flavor and nutritional info"
+  },
+  {
+    "id": "mrn_usa_korwhite_05",
+    "brand": "Mirinda",
+    "series": "Orange (Korean)",
+    "image": "images/Mirinda/mrn_usa_korwhite_05.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with green 'Mirinda' text, 355 ml (170 kcal), and Korean nutritional values"
+  },
+  {
+    "id": "ft_id_blackcurrant10y_01",
+    "brand": "Fruit Tea Sosro",
+    "series": "Anniversary",
+    "image": "images/Fruit Tea/ft_id_blackcurrant10y_01.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Purple cap with yellow Fruit Tea logo and text 'trustea friend for 10 years', BLACKCURRANT flavor"
+  },
+  {
+    "id": "ft_id_xtremeapel_02",
+    "brand": "Fruit Tea Sosro",
+    "series": "X-TREME",
+    "image": "images/Fruit Tea/ft_id_xtremeapel_02.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Purple and red cap with yellow logo and text 'X-TREME Minuman Teh Rasa APEL-BLACKCURRANT'"
+  },
+  {
+    "id": "ft_id_blackcurrantclassic_03",
+    "brand": "Fruit Tea Sosro",
+    "series": "Classic",
+    "image": "images/Fruit Tea/ft_id_blackcurrantclassic_03.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Classic purple cap with yellow logo and 'Minuman Teh Rasa BLACKCURRANT'"
+  },
+  {
+    "id": "ft_id_fusionstrawang_04",
+    "brand": "Fruit Tea Sosro",
+    "series": "Fusion",
+    "image": "images/Fruit Tea/ft_id_fusionstrawang_04.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Pink and purple cap with 'FUSION Minuman Teh Rasa STRAWBERI - ANGGUR'"
+  },
+  {
+    "id": "ft_id_apelclassic_05",
+    "brand": "Fruit Tea Sosro",
+    "series": "Classic",
+    "image": "images/Fruit Tea/ft_id_apelclassic_05.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Red and pink cap with yellow logo and 'Minuman Teh Rasa APEL'"
+  },
+  {
+    "id": "ksz_pol_goldbrown_01",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_goldbrown_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold and brown cap with portrait and text 'KOLEKCJA SPECJALNOŚCI' above 'KSIĄŻĘCE'"
+  },
+  {
+    "id": "ksz_pol_whitewheat_02",
+    "brand": "Książęce",
+    "series": "Pszeniczne",
+    "image": "images/Ksiazece/ksz_pol_whitewheat_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with yellow banner and lions, 'Książęce Pszeniczne' and red TBK crest"
+  },
+  {
+    "id": "ksz_pol_reddishbrown_03",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_reddishbrown_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Reddish-brown cap with portrait and 'KSIĄŻĘCE' in bold white text"
+  },
+  {
+    "id": "ksz_pol_mottledwhite_04",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_mottledwhite_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cap with white speckled background, golden portrait and brown base, 'KSIĄŻĘCE'"
+  },
+  {
+    "id": "ksz_pol_agedgold_05",
+    "brand": "Książęce",
+    "series": "Kolekcja Specjalności",
+    "image": "images/Ksiazece/ksz_pol_agedgold_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Weathered gold and brown cap with worn logo and 'KOLEKCJA SPECJALNOŚCI'"
+  },
+  {
+    "id": "har_pol_redpromo_01",
+    "brand": "Harnaś",
+    "series": "Promotional",
+    "image": "images/Harnas/har_pol_redpromo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with white Polish text 'MILIONY PIW! WYGRYWAJ CODZIENNIE'"
+  },
+  {
+    "id": "har_pol_mountainclassic_02",
+    "brand": "Harnaś",
+    "series": "Classic",
+    "image": "images/Harnas/har_pol_mountainclassic_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with blue mountains and 'Harnaś Jasne Pełne' logo"
+  },
+  {
+    "id": "har_pol_highlander_03",
+    "brand": "Harnaś",
+    "series": "Illustrated",
+    "image": "images/Harnas/har_pol_highlander_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cap with highlander warrior illustration and red 'Harnaś' text"
+  },
+  {
+    "id": "har_pol_mountainpromo_04",
+    "brand": "Harnaś",
+    "series": "Promotional",
+    "image": "images/Harnas/har_pol_mountainpromo_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue and red cap with mountain silhouette and text '6 600 000 PIW OD KRÓLA GÓR!'"
+  },
+  {
+    "id": "har_pol_okocimski_05",
+    "brand": "Harnaś",
+    "series": "Classic",
+    "image": "images/Harnas/har_pol_okocimski_05.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with 'OKOCIMSKI' over red and yellow 'Harnaś Jasne Pełne' banner"
+  },
+    {
+    "id": "kop_swe_blacklime_01",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blacklime_01.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with green semi-circle and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_blackpink_02",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackpink_02.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with pink semi-circle design and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_blackredarc_03",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackredarc_03.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with red curved stripe and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_redband_04",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_redband_04.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with thick red band around edge and gold 'Kopparberg' logo, 'Premium' in white"
+  },
+  {
+    "id": "kop_swe_recycle_05",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_recycle_05.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Black cap with white 'Please recycle me' and yellow 'Kopparberg' logo"
+  },
+  {
+    "id": "kop_swe_blackplain_06",
+    "brand": "Kopparberg",
+    "series": "Premium",
+    "image": "images/Kopparberg/kop_swe_blackplain_06.jpg",
+    "country": "Sweden",
+    "year": null,
+    "description": "Plain black cap with gold 'Kopparberg' and white 'Premium' text, no colored rim"
+  },
+    {
+    "id": "des_fra_greenparty_01",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_greenparty_01.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Green cap with agave logo, 'TEQUILA FLAVOURED', and Polish text 'WYGRYWAJ PARTY SET'"
+  },
+  {
+    "id": "des_fra_vintagegold_02",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_vintagegold_02.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Gold and red cap with large 'DESPERADOS' text and aged texture"
+  },
+  {
+    "id": "des_fra_blacksilver_03",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_blacksilver_03.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Black cap with silver 'DESPERADOS' logo, 'Tequila Flavoured Beer' and Polish text"
+  },
+  {
+    "id": "des_fra_goldredmulti_04",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_goldredmulti_04.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Gold cap with multiple red 'Desperados' emblems and French text"
+  },
+  {
+    "id": "des_fra_redwhite_05",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_redwhite_05.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Bright red cap with white 'DESPERADOS' logo and 'Tequila Flavoured Beer'"
+  },
+  {
+    "id": "des_fra_tequilapurple_06",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_tequilapurple_06.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Purple cap with agave plant symbol and 'TEQUILA FLAVOURED' in white text"
+  },
+  {
+    "id": "des_fra_golddistressed_07",
+    "brand": "Desperados",
+    "series": "Classic",
+    "image": "images/Desperados/des_fra_golddistressed_07.jpg",
+    "country": "France",
+    "year": null,
+    "description": "Distressed gold cap with red 'DESPERADOS' logo and surrounding red text"
+  },
+  {
+  "id": "bri_uk_orangebanner_01",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_orangebanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Orange cap with Britvic logo and white text"
+},
+{
+  "id": "bri_uk_greenbanner_02",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_greenbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with faded Britvic logo and white text"
+},
+{
+  "id": "bri_uk_orangegreen_03",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_orangegreen_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Orange and green cap with detailed Britvic design and white text"
+},
+{
+  "id": "bri_uk_rustyorange_04",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_rustyorange_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty orange cap with weathered Britvic logo and white text"
+},
+{
+  "id": "bri_uk_fadedgreen_05",
+  "brand": "Britvic",
+  "series": "Classic",
+  "image": "images/Britvic/bri_uk_fadedgreen_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded green cap with rust and Britvic logo, white text"
+},
+    {
+    "id": "bro_uk_orangeb_01",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_orangeb_01.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Orange cap with large white 'B'"
+  },
+  {
+    "id": "bro_uk_greensplash_02",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_greensplash_02.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Green cap with blue splash and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_redlabel_03",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_redlabel_03.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Red cap with small blue rectangle and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_purplesplash_04",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_purplesplash_04.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Purple cap with blue splash and yellow 'BROTHERS' text"
+  },
+  {
+    "id": "bro_uk_yellowlabel_05",
+    "brand": "Brothers",
+    "series": "Classic",
+    "image": "images/Brothers/bro_uk_yellowlabel_05.jpg",
+    "country": "UK",
+    "year": null,
+    "description": "Yellow cap with blue rectangle and yellow 'BROTHERS' text"
+  },
+  {
+  "id": "vk_uk_pinkbanner_01",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_pinkbanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Pink cap with VK logo and white text"
+},
+{
+  "id": "vk_uk_redbanner_02",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_redbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Red cap with faded VK logo and white text"
+},
+{
+  "id": "vk_uk_pinkred_03",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_pinkred_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Pink and red cap with detailed VK design and white text"
+},
+{
+  "id": "vk_uk_rustypink_04",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_rustypink_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty pink cap with weathered VK logo and white text"
+},
+{
+  "id": "vk_uk_redpink_05",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_redpink_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Red and pink cap with stylized VK design and white text"
+},
+{
+  "id": "vk_uk_fadedred_06",
+  "brand": "VK",
+  "series": "Classic",
+  "image": "images/VK/vk_uk_fadedred_06.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded red cap with rust and VK logo, white text"
+},
+  {
+  "id": "svy_lt_goldbanner_01",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_goldbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_redbanner_02",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_redbanner_02.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Red cap with faded eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_blackbanner_03",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_blackbanner_03.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Black cap with detailed eagle crest and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_rustygold_04",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_rustygold_04.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Rusty gold cap with weathered eagle emblem and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_redwhite_05",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_redwhite_05.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Red and white cap with stylized eagle design and white Švyturys 1784 text"
+},
+{
+  "id": "svy_lt_fadedblack_06",
+  "brand": "Švyturys",
+  "series": "1784 Classic",
+  "image": "images/Svyturys/svy_lt_fadedblack_06.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Faded black cap with rust and eagle emblem, white Švyturys 1784 text"
+},
+  {
+  "id": "j2o_uk_greenbanner_01",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenbanner_01.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenbanner_02",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenbanner_02.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green cap with faded J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenred_03",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenred_03.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green and red cap with detailed J2O design and white text"
+},
+{
+  "id": "j2o_uk_rustygreen_04",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_rustygreen_04.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Rusty green cap with weathered J2O logo and white text"
+},
+{
+  "id": "j2o_uk_greenpink_05",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_greenpink_05.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Green and pink cap with stylized J2O design and white text"
+},
+{
+  "id": "j2o_uk_fadedgreen_06",
+  "brand": "J2O",
+  "series": "Classic",
+  "image": "images/J2O/j2o_uk_fadedgreen_06.jpg",
+  "country": "UK",
+  "year": null,
+  "description": "Faded green cap with rust and J2O logo, white text"
+},
+  {
+  "id": "bal_ru_yellowblue_01",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_yellowblue_01.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Yellow and blue cap with 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_bluebanner_02",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_bluebanner_02.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Blue cap with faded 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_redbanner_03",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_redbanner_03.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Red cap with 9 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_yellowbanner_04",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_yellowbanner_04.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Yellow cap with weathered 8 emblem and white Baltika text"
+},
+{
+  "id": "bal_ru_redblue_05",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_redblue_05.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Red and blue cap with stylized 9 design and white Baltika text"
+},
+{
+  "id": "bal_ru_rustyred_06",
+  "brand": "Baltika",
+  "series": "Classic",
+  "image": "images/Baltika/bal_ru_rustyred_06.jpg",
+  "country": "Russia",
+  "year": null,
+  "description": "Rusty red cap with 8 emblem and white Baltika text"
+},
+  {
+  "id": "bac_cu_orangebanner_01",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_orangebanner_01.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Orange cap with bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_yellowbanner_02",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_yellowbanner_02.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Yellow cap with faded bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_blackbanner_03",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_blackbanner_03.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Black cap with detailed bat illustration and white Bacardi text"
+},
+{
+  "id": "bac_cu_greenbanner_04",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_greenbanner_04.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Green cap with weathered bat emblem and white Bacardi text"
+},
+{
+  "id": "bac_cu_rustyblack_05",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_rustyblack_05.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Rusty black cap with stylized bat design and white Bacardi text"
+},
+{
+  "id": "bac_cu_orangeblack_06",
+  "brand": "Bacardi",
+  "series": "Classic",
+  "image": "images/Bacardi/bac_cu_orangeblack_06.jpg",
+  "country": "Cuba",
+  "year": null,
+  "description": "Orange and black cap with rust and bat emblem, white Bacardi text"
+},
+  {
+  "id": "zub_pl_greenbanner_01",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with brown bison emblem and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_02",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_02.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with detailed bison illustration and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_03",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_03.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison head emblem and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_04",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_04.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with stylized bison design and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_05",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_05.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison silhouette and white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_06",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_06.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with bison emblem and faded white Żubr text"
+},
+{
+  "id": "zub_pl_greenbanner_07",
+  "brand": "Żubr",
+  "series": "Classic",
+  "image": "images/Zubr/zub_pl_greenbanner_07.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Green cap with robust bison design and white Żubr text"
+},
+  {
+  "id": "pep_us_bluebanner_01",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_02",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_02.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with faded red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_03",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_03.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with weathered red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_04",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_04.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_05",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_05.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with faded red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_06",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_06.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with weathered red, white, and blue Diet Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_07",
+  "brand": "Pepsi",
+  "series": "Classic",
+  "image": "images/Pepsi/pep_us_bluebanner_07.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with rust and red, white, and blue Pepsi logo"
+},
+{
+  "id": "pep_us_bluebanner_08",
+  "brand": "Pepsi",
+  "series": "Diet",
+  "image": "images/Pepsi/pep_us_bluebanner_08.jpg",
+  "country": "USA",
+  "year": null,
+  "description": "Blue cap with rust and red, white, and blue Diet Pepsi logo"
+},
+  {
+  "id": "moo_ca_redbanner_01",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_01.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head emblem, white Moosehead text, and black Pale Ale label"
+},
+{
+  "id": "moo_ca_redbanner_02",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_02.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head illustration, white Moosehead text, and gold accents"
+},
+{
+  "id": "moo_ca_redbanner_03",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_03.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose emblem, white Moosehead text, and black Pale Ale lettering"
+},
+{
+  "id": "moo_ca_redbanner_04",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_04.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with detailed moose head, white Moosehead text, and gold ribbon"
+},
+{
+  "id": "moo_ca_redbanner_05",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_05.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose illustration, white Moosehead text, and black Pale Ale label"
+},
+{
+  "id": "moo_ca_redbanner_06",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_06.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose head design, white Moosehead text, and gold accents"
+},
+{
+  "id": "moo_ca_redbanner_07",
+  "brand": "Moosehead",
+  "series": "Pale Ale",
+  "image": "images/Moosehead/moo_ca_redbanner_07.jpg",
+  "country": "Canada",
+  "year": null,
+  "description": "Red cap with moose emblem, white Moosehead text, and black Pale Ale lettering"
+},
+  {
+  "id": "kal_lt_bluebanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_bluebanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Blue cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_goldbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_goldbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_greenbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_greenbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Green cap with red triangle, yellow pattern, and white accents"
+},
+{
+  "id": "kal_lt_blackbanner_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_blackbanner_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Black cap with white Kalnapilis text, red triangle, and yellow wreath"
+},
+{
+  "id": "kal_lt_bluewreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_bluewreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Blue cap with white Kalnapilis text and yellow wreath"
+},
+{
+  "id": "kal_lt_greenwreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_greenwreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Green cap with white Kalnapilis text and yellow wreath"
+},
+{
+  "id": "kal_lt_goldwreath_01",
+  "brand": "Kalnapilis",
+  "series": "Classic",
+  "image": "images/Kalnapilis/kal_lt_goldwreath_01.jpg",
+  "country": "Lithuania",
+  "year": null,
+  "description": "Gold cap with white Kalnapilis text and yellow wreath"
+},
+  {
+  "id": "eib_de_bluebanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluebanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with white Eibauer text and gold border"
+},
+{
+  "id": "eib_de_whitebanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_whitebanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with red Eibauer text"
+},
+{
+  "id": "eib_de_goldbanner_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_goldbanner_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with white Eibauer text"
+},
+{
+  "id": "eib_de_bluegold_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluegold_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with gold border and white Eibauer text"
+},
+{
+  "id": "eib_de_whitered_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_whitered_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "White cap with red Eibauer text"
+},
+{
+  "id": "eib_de_bluewhite_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_bluewhite_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Blue cap with white Eibauer text"
+},
+{
+  "id": "eib_de_goldwhite_01",
+  "brand": "Eibauer",
+  "series": "Classic",
+  "image": "images/Eibauer/eib_de_goldwhite_01.jpg",
+  "country": "Germany",
+  "year": null,
+  "description": "Gold cap with white Eibauer text"
+},
+  {
+    "id": "agu_co_bluebanner_precio_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_precio_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with blue-red AGUILA banner and black text 'PÍDELA A PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_bluebanner_classic_01",
+    "brand": "Aguila",
+    "series": "Classic",
+    "image": "images/Aguila/agu_co_bluebanner_classic_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Plain yellow cap with central blue-red AGUILA banner and no additional text"
+  },
+  {
+    "id": "agu_co_bluebanner_1200_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1200_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap, AGUILA logo beneath black 'REFRÉSCATE POR SÓLO $1.200 - PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_goool_mundialista_01",
+    "brand": "Aguila",
+    "series": "Goool Mundialista",
+    "image": "images/Aguila/agu_co_goool_mundialista_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap, maroon 'GOOOL MUNDIALISTA' text above AGUILA banner"
+  },
+  {
+    "id": "agu_co_bluebanner_1000_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1000_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with AGUILA banner and black 'POR SÓLO $1.000 - PRECIO SUGERIDO'"
+  },
+  {
+    "id": "agu_co_bluebanner_1300_01",
+    "brand": "Aguila",
+    "series": "Precio Sugerido",
+    "image": "images/Aguila/agu_co_bluebanner_1300_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with red '$1.300 PRECIO SUGERIDO' above blue AGUILA banner"
+  },
+  {
+    "id": "agu_co_light_eagle_01",
+    "brand": "Aguila",
+    "series": "Light",
+    "image": "images/Aguila/agu_co_light_eagle_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Silver cap with eagle above globe, AGUILA LIGHT logo in blue banner"
+  },
+  {
+    "id": "warka_pl_classic_red_1478_01",
+    "brand": "Warka",
+    "series": "Classic Red",
+    "image": "images/Warka/warka_pl_classic_red_1478_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with white WARKA logo in gold-trimmed shield, gold '1478' below"
+  },
+  {
+    "id": "warka_pl_uznany_smak_castle_01",
+    "brand": "Warka",
+    "series": "Uznany Smak",
+    "image": "images/Warka/warka_pl_uznany_smak_castle_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap, WARKA logo with golden castle and ribbon text 'Uznany Smak', 'A.D.1478'"
+  },
+  {
+    "id": "warka_pl_radler_plain_lemon_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon",
+    "image": "images/Warka/warka_pl_radler_plain_lemon_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with green 'Radler' text over lemon slice, no Warka branding"
+  },
+  {
+    "id": "warka_pl_radler_blue_lemon_00_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon 0.0%",
+    "image": "images/Warka/warka_pl_radler_blue_lemon_00_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue cap with lemon graphic, WARKA logo and white 'Radler 0.0%' text"
+  },
+  {
+    "id": "warka_pl_radler_green_lime_01",
+    "brand": "Warka",
+    "series": "Radler – Lime",
+    "image": "images/Warka/warka_pl_radler_green_lime_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow-green cap with lime graphic, green 'Radler' text and red WARKA logo"
+  },
+  {
+    "id": "warka_pl_classic_1478_brewer_01",
+    "brand": "Warka",
+    "series": "Classic – Brewer",
+    "image": "images/Warka/warka_pl_classic_1478_brewer_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with WARKA logo, gold brewery crest above, and '1478' below"
+  },
+  {
+    "id": "warka_pl_radler_yellow_lemon_01",
+    "brand": "Warka",
+    "series": "Radler – Lemon",
+    "image": "images/Warka/warka_pl_radler_yellow_lemon_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with lemon graphic, green 'Radler' and red WARKA logo"
+  },
+  {
+    "id": "warka_pl_classic_ad1478_goldrim_01",
+    "brand": "Warka",
+    "series": "Classic – A.D. 1478",
+    "image": "images/Warka/warka_pl_classic_ad1478_goldrim_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Red cap with gold-rimmed WARKA logo and text 'A.D. 1478'"
+  },
+      {
+    "id": "warka_strong_pl_vintage_01",
+    "brand": "Warka",
+    "series": "Vintage",
+    "image": "images/Warka/warka_strong_pl_vintage_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Rusty silver cap with red star and 'Warka Strong' text, weathered design"
+  },
+  {
+    "id": "warka_strong_pl_classic_02",
+    "brand": "Warka",
+    "series": "Classic",
+    "image": "images/Warka/warka_strong_pl_classic_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with gold star emblem and 'Warka Strong' text, vintage style"
+  },
+  {
+    "id": "warka_strong_pl_robust_03",
+    "brand": "Warka",
+    "series": "Robust",
+    "image": "images/Warka/warka_strong_pl_robust_03.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Silver cap with red 'Warka Strong' text and ornate star design"
+  },
+  {
+    "id": "warka_strong_pl_heritage_04",
+    "brand": "Warka",
+    "series": "Heritage",
+    "image": "images/Warka/warka_strong_pl_heritage_04.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Aged silver cap with gold star and 'Warka Strong' text, rustic patina"
+  }
+,{
+    "id": "tat_pl_black_z_charakterem_01",
+    "brand": "Tatra",
+    "series": "Z Charakterem",
+    "image": "images/Tatra/tat_pl_black_z_charakterem_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with yellow TATRA logo, mountain motif and 'Z CHARAKTEREM' slogan"
+  },
+  {
+    "id": "tat_pl_grzaniec_brown_01",
+    "brand": "Tatra",
+    "series": "Grzaniec",
+    "image": "images/Tatra/tat_pl_grzaniec_brown_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Brown cap with yellow TATRA logo and bold red-white GRZANIEC text"
+  },
+  {
+    "id": "tat_pl_promo_jasne_01",
+    "brand": "Tatra",
+    "series": "Promo – Jasne Pełne",
+    "image": "images/Tatra/tat_pl_promo_jasne_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Blue-yellow cap with TATRA logo and slogan 'MILIONY PIW SĄ W TATRACH!'"
+  },
+  {
+    "id": "tat_pl_pils_yellow_01",
+    "brand": "Tatra",
+    "series": "Pils",
+    "image": "images/Tatra/tat_pl_pils_yellow_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with red-ringed TATRA Pils logo and mountain sketch"
+  },
+  {
+    "id": "tat_pl_jasne_traditional_01",
+    "brand": "Tatra",
+    "series": "Jasne Pełne",
+    "image": "images/Tatra/tat_pl_jasne_traditional_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with TATRA logo and highlander illustration, text 'Jasne Pełne'"
+  },
+  {
+    "id": "tat_pl_mocne_black_01",
+    "brand": "Tatra",
+    "series": "Mocne",
+    "image": "images/Tatra/tat_pl_mocne_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with TATRA logo, highlander image and bold white MOCNE label"
+  },
+  {
+    "id": "tat_pl_yellow_z_charakterem_01",
+    "brand": "Tatra",
+    "series": "Z Charakterem – Yellow",
+    "image": "images/Tatra/tat_pl_yellow_z_charakterem_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with TATRA branding, mountains and 'Z CHARAKTEREM' text"
+  },
+  {
+    "id": "tat_pl_jasne_yellow_bird_01",
+    "brand": "Tatra",
+    "series": "Jasne Pełne – Scenic",
+    "image": "images/Tatra/tat_pl_jasne_yellow_bird_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap with black mountains, flying bird and TATRA Jasne Pełne text"
+  },
+  {
+    "id": "car_dk_green_logo_twist_01",
+    "brand": "Carlsberg",
+    "series": "Standard – Twist-Off",
+    "image": "images/Carlsberg/car_dk_green_logo_twist_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Bright green cap with white Carlsberg logo, twist-off arrows on edge"
+  },
+  {
+  "id": "car_dk_goldbanner_01",
+  "brand": "Carlsberg",
+  "series": "Classic",
+  "image": "images/Carlsberg/car_dk_goldbanner_01.jpg",
+  "country": "Denmark",
+  "year": null,
+  "description": "Gold cap with white cloverleaf design"
+},
+  {
+    "id": "car_dk_green_crown_crest_01",
+    "brand": "Carlsberg",
+    "series": "Crown Series",
+    "image": "images/Carlsberg/car_dk_green_crown_crest_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with crown crest above Carlsberg logo, light pattern background"
+  },
+  {
+    "id": "car_dk_black_clover_green_01",
+    "brand": "Carlsberg",
+    "series": "Minimal Clover",
+    "image": "images/Carlsberg/car_dk_black_clover_green_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Black cap with solid green clover design, no text"
+  },
+  {
+    "id": "car_dk_green_redrim_twist_01",
+    "brand": "Carlsberg",
+    "series": "Red Rim",
+    "image": "images/Carlsberg/car_dk_green_redrim_twist_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with red rim, Carlsberg logo and twist-off arrows"
+  },
+  {
+    "id": "car_dk_darkgreen_logo_minimal_01",
+    "brand": "Carlsberg",
+    "series": "Dark Green",
+    "image": "images/Carlsberg/car_dk_darkgreen_logo_minimal_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Dark green cap, aged look with large white Carlsberg logo only"
+  },
+  {
+    "id": "car_dk_uefa_whiteclover_2016_01",
+    "brand": "Carlsberg",
+    "series": "UEFA Euro 2016",
+    "image": "images/Carlsberg/car_dk_uefa_whiteclover_2016_01.jpg",
+    "country": "Denmark",
+    "year": 2016,
+    "description": "Dark green cap with white clover, UEFA EURO 2016 branding in blue"
+  },
+  {
+    "id": "car_dk_green_twistoff_smooth_01",
+    "brand": "Carlsberg",
+    "series": "Smooth Logo",
+    "image": "images/Carlsberg/car_dk_green_twistoff_smooth_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Green cap with clean white Carlsberg logo, twist-off label"
+  },
+  {
+    "id": "car_dk_giant_c_metallic_01",
+    "brand": "Carlsberg",
+    "series": "Giant C",
+    "image": "images/Carlsberg/car_dk_giant_c_metallic_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Aged metallic green cap with large letter 'C' and partial logo remnants"
+  },
+  {
+    "id": "tys_pl_ksiazece_crown_blue_01",
+    "brand": "Tyskie",
+    "series": "Książęce",
+    "image": "images/Tyskie/tys_pl_ksiazece_crown_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red stylized crown, blue text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+  },{
+  "id": "tys_pl_silverbanner_01",
+  "brand": "Tyskie",
+  "series": "Classic",
+  "image": "images/Tyskie/tys_pl_silverbanner_01.jpg",
+  "country": "Poland",
+  "year": null,
+  "description": "Silver cap with red Tyskie logo and white accents"
+},
+  {
+    "id": "tys_pl_gold_crown_1629_01",
+    "brand": "Tyskie",
+    "series": "Crown Emblem",
+    "image": "images/Tyskie/tys_pl_gold_crown_1629_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with large gold and red crown above bold '1629'"
+  },
+  {
+    "id": "tys_pl_gronie_redbanner_01",
+    "brand": "Tyskie",
+    "series": "Gronie",
+    "image": "images/Tyskie/tys_pl_gronie_redbanner_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red banner, gold crown, text 'TYSKIE GRONIE'"
+  },
+  {
+    "id": "tys_pl_stadion_5_promo_01",
+    "brand": "Tyskie",
+    "series": "Promocja – Stadion 5",
+    "image": "images/Tyskie/tys_pl_stadion_5_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Promotional cap with blue '5 Stadion', red 'TYSKIE' and Polish contest slogan"
+  },
+  {
+    "id": "tys_pl_radler_yellow_green_01",
+    "brand": "Tyskie",
+    "series": "Radler",
+    "image": "images/Tyskie/tys_pl_radler_yellow_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Bright yellow cap with red banner 'TYSKIE' and green script 'Radler'"
+  },
+  {
+    "id": "tys_pl_ksiazece_crown_red_01",
+    "brand": "Tyskie",
+    "series": "Książęce",
+    "image": "images/Tyskie/tys_pl_ksiazece_crown_red_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with red stylized crown, red text 'TYSKIE BROWARY KSIĄŻĘCE A.D. 1629'"
+  },
+  {
+    "id": "tys_pl_gorny_slask_sa_01",
+    "brand": "Tyskie",
+    "series": "Górny Śląsk",
+    "image": "images/Tyskie/tys_pl_gorny_slask_sa_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cream cap with gold-red oval border, central 'TYSKIE', black text 'rok założenia 1629'"
+  },
+  {
+    "id": "tys_pl_klasyczne_banner_01",
+    "brand": "Tyskie",
+    "series": "Klasyczne",
+    "image": "images/Tyskie/tys_pl_klasyczne_banner_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Beige cap with red banner 'TYSKIE' and brown text 'Klasyczne'"
+  },
+  {
+    "id": "tys_pl_gronie_redbanner_02",
+    "brand": "Tyskie",
+    "series": "Gronie",
+    "image": "images/Tyskie/tys_pl_gronie_redbanner_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Updated Gronie variant with red banner and large gold crown above 'TYSKIE GRONIE'"
+  },
+  {
+    "id": "schweppes_red_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_red_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Red Schweppes cap with classic logo in white"
+  },
+  {
+    "id": "schweppes_bitter_lemon_blue_01",
+    "brand": "Schweppes",
+    "series": "Bitter Lemon",
+    "image": "images/Schweppes/schweppes_bitter_lemon_blue_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Light blue Schweppes Bitter Lemon cap"
+  },
+  {
+    "id": "schweppes_black_gold_01",
+    "brand": "Schweppes",
+    "series": "Premium Mixer",
+    "image": "images/Schweppes/schweppes_black_gold_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Black Schweppes cap with gold logo"
+  },
+  {
+    "id": "schweppes_soda_yellow_spanish_01",
+    "brand": "Schweppes",
+    "series": "Soda",
+    "image": "images/Schweppes/schweppes_soda_yellow_spanish_01.jpg",
+    "country": "Switzerland",
+    "year": 2010,
+    "description": "Yellow Schweppes Soda cap with Spanish text, made in Colombia"
+  },
+  {
+    "id": "schweppes_yellow_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_yellow_black_logo_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Yellow Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_white_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_white_black_logo_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "White Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_light_blue_black_logo_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_light_blue_black_logo_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Light blue Schweppes cap with black logo"
+  },
+  {
+    "id": "schweppes_yellow_black_logo_variant_01",
+    "brand": "Schweppes",
+    "series": "Classic",
+    "image": "images/Schweppes/schweppes_yellow_black_logo_variant_01.jpg",
+    "country": "Switzerland",
+    "year": null,
+    "description": "Another variant of yellow Schweppes cap with black logo"
+  },
+  {
+    "id": "oko_pl_palony_redgoat_01",
+    "brand": "Okocim",
+    "series": "Palone",
+    "image": "images/Okocim/oko_pl_palony_redgoat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with red-orange circle and goat silhouette, gold OKOCIM Palone text"
+  },
+  {
+    "id": "oko_pl_jasne_pelne_green_01",
+    "brand": "Okocim",
+    "series": "Jasne Pełne",
+    "image": "images/Okocim/oko_pl_jasne_pelne_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Worn metallic-green cap, silver band, black OKOCIM logo, white Jasne Pełne text"
+  },
+  {
+    "id": "oko_pl_promo_zwyciezca_01",
+    "brand": "Okocim",
+    "series": "Promocja – Zwycięzca",
+    "image": "images/Okocim/oko_pl_promo_zwyciezca_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green-red promotional cap, goat crest, slogan “Zwycięzca bierze więcej!”"
+  },
+  {
+    "id": "oko_pl_green_carbon_goat_01",
+    "brand": "Okocim",
+    "series": "Premium Lager (carbon)",
+    "image": "images/Okocim/oko_pl_green_carbon_goat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Metallic-green cap with carbon-fibre pattern and embossed goat silhouette"
+  },
+  {
+    "id": "oko_pl_classic_green_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Green",
+    "image": "images/Okocim/oko_pl_classic_green_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Green cap, gold OKOCIM logotype, wheat sprig and red goat crest"
+  },
+  {
+    "id": "oko_pl_classic_yellow_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Yellow",
+    "image": "images/Okocim/oko_pl_classic_yellow_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Yellow cap variant with gold OKOCIM lettering, wheat sprig & crest"
+  },
+  {
+    "id": "oko_pl_black_banner_minimal_01",
+    "brand": "Okocim",
+    "series": "Black Banner",
+    "image": "images/Okocim/oko_pl_black_banner_minimal_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gloss-black cap, white OKOCIM banner and red goat crest, minimal lower half"
+  },
+  {
+    "id": "oko_pl_classic_black_wheat_01",
+    "brand": "Okocim",
+    "series": "Classic – Black",
+    "image": "images/Okocim/oko_pl_classic_black_wheat_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black cap with full gold OKOCIM logo, wheat wreath and red crest"
+  },
+  {
+    "id": "oko_pl_radler_yellow_01",
+    "brand": "Okocim",
+    "series": "Radler",
+    "image": "images/Okocim/oko_pl_radler_yellow_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Speckled yellow cap, OKOCIM banner and green script “Radler”"
+  },
+  {
+    "id": "grolsch_nl_premium_pilsner_white_01",
+    "brand": "Grolsch",
+    "series": "Premium Pilsner",
+    "image": "images/Grolsch/grolsch_nl_premium_pilsner_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White cap, red-and-green ring, green script logo, red crest – text “Premium Pilsner”"
+  },
+  {
+    "id": "grolsch_nl_plain_white_redlogo_01",
+    "brand": "Grolsch",
+    "series": "Plain logo",
+    "image": "images/Grolsch/grolsch_nl_plain_white_redlogo_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Minimal white cap with red cursive Grolsch word-mark only"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_camo_01",
+    "brand": "Grolsch",
+    "series": "Premium Lager – camo",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_camo_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Grey ‘camo’ background, green logo, red crest, text “Premium Lager”"
+  },
+  {
+    "id": "grolsch_nl_het_kanon_white_01",
+    "brand": "Grolsch",
+    "series": "Het Kanon",
+    "image": "images/Grolsch/grolsch_nl_het_kanon_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Vintage ‘Het Kanon’ strong lager cap – cream background, brown lettering, red ring"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_leaves_01",
+    "brand": "Grolsch",
+    "series": "Premium Lager – leaves",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White cap with green hop-leaf cluster and red crest, text “Premium Lager”"
+  },
+  {
+    "id": "grolsch_nl_premium_weizen_white_01",
+    "brand": "Grolsch",
+    "series": "Premium Weizen",
+    "image": "images/Grolsch/grolsch_nl_premium_weizen_white_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "White/yellow background, gold logo, red crest, banner “Premium Weizen”"
+  },
+  {
+    "id": "grolsch_nl_lente_bok_green_01",
+    "brand": "Grolsch",
+    "series": "De Jaargetijden – Lente Bok",
+    "image": "images/Grolsch/grolsch_nl_lente_bok_green_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Seasonal cap – green/yellow backdrop, goat head emblem, text “Lente Bok”"
+  },
+  {
+    "id": "grolsch_nl_premium_lager_leaves_02",
+    "brand": "Grolsch",
+    "series": "Premium Lager – leaves (variant)",
+    "image": "images/Grolsch/grolsch_nl_premium_lager_leaves_02.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Similar leaf/crest design but with red script “Premium Lager” beneath logo"
+  },
+  {
+    "id": "grolsch_nl_special_malt_green_01",
+    "brand": "Grolsch",
+    "series": "Special Malt",
+    "image": "images/Grolsch/grolsch_nl_special_malt_green_01.jpg",
+    "country": "Netherlands",
+    "year": null,
+    "description": "Green cap, white script logo, gold rim – non-alcoholic ‘Special Malt’ variant"
+  },
+  {
+    "id": "specjal_pl_black_plain_01",
+    "brand": "Specjal",
+    "series": "Plain logo",
+    "image": "images/Specjal/specjal_pl_black_plain_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Matte-black Specjal cap with simple white logotype and gold trim"
+  },
+  {
+    "id": "specjal_pl_gold_miliony_promo_01",
+    "brand": "Specjal",
+    "series": "Promo – “Miliony piw”",
+    "image": "images/Specjal/specjal_pl_gold_miliony_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold-rim Specjal cap – slogan “Miliony piw do wygrania!” (“Millions of beers to win”)"
+  },
+  {
+    "id": "specjal_pl_gold_2000000_promo_01",
+    "brand": "Specjal",
+    "series": "Promo – “2 000 000 piw”",
+    "image": "images/Specjal/specjal_pl_gold_2000000_promo_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold-rim Specjal prize-draw cap – “2 000 000 PIW DO WYGRANIA!”"
+  },
+  {
+    "id": "specjal_pl_tradycyjnie_gold_01",
+    "brand": "Specjal",
+    "series": "Tradycyjnie",
+    "image": "images/Specjal/specjal_pl_tradycyjnie_gold_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Weathered gold Specjal cap – red ribbon “Tradycyjnie”, crest dated 1872"
+  },
+  {
+    "id": "specjal_pl_red_mocny_01",
+    "brand": "Specjal",
+    "series": "Mocny",
+    "image": "images/Specjal/specjal_pl_red_mocny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Metallic-red Specjal “Mocny” (strong lager) cap with mug-and-hops emblem"
+  },
+  {
+    "id": "specjal_pl_maroon_plain_01",
+    "brand": "Specjal",
+    "series": "Plain logo (maroon)",
+    "image": "images/Specjal/specjal_pl_maroon_plain_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Deep-maroon Specjal cap, white logotype, no additional graphics"
+  },
+  {
+    "id": "specjal_pl_black_jasny_pelny_01",
+    "brand": "Specjal",
+    "series": "Jasny Pełny",
+    "image": "images/Specjal/specjal_pl_black_jasny_pelny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with mug-and-hops crest and red banner “Jasny Pełny”"
+  },
+  {
+    "id": "specjal_pl_black_promo_curved_01",
+    "brand": "Specjal",
+    "series": "Promo – curved banner",
+    "image": "images/Specjal/specjal_pl_black_promo_curved_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal promo cap – large curved red ribbon “PROMOCJA” beneath logo"
+  },
+  {
+    "id": "specjal_pl_black_greenrim_jasny_pelny_01",
+    "brand": "Specjal",
+    "series": "Jasny Pełny (green trim)",
+    "image": "images/Specjal/specjal_pl_black_greenrim_jasny_pelny_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with green-gold rim, text “Doskonała receptura” and banner “Jasny Pełny”"
+  },
+  {
+    "id": "specjal_pl_black_promo_mug_01",
+    "brand": "Specjal",
+    "series": "Promo – mug & ribbon",
+    "image": "images/Specjal/specjal_pl_black_promo_mug_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Black Specjal cap with mug-and-hops crest and bold red “PROMOCJA” ribbon"
+  },{
+    "id": "zywiec_pl_archduke_brewery_white_01",
+    "brand": "Żywiec",
+    "series": "Archduke Brewery",
+    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – Browar Arcyksiążęcy (clean, white background)"
+  },
+  {
+    "id": "zywiec_pl_archduke_brewery_white_02",
+    "brand": "Żywiec",
+    "series": "Archduke Brewery",
+    "image": "images/Zywiec/zywiec_pl_archduke_brewery_white_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – Archduke Brewery, second (worn) copy"
+  },
+  {
+    "id": "zywiec_pl_biale_gold_white_01",
+    "brand": "Żywiec",
+    "series": "Białe / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_biale_gold_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Białe cap with gold crown on white field"
+  },
+  {
+    "id": "zywiec_pl_bock_red_gold_01",
+    "brand": "Żywiec",
+    "series": "Bock / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_bock_red_gold_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Bock cap – red rim, gold crown"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_clean_01",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_clean_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Clean white cap with large crown and 1856 banner"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_red_blue_01",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap, red-blue band (version 1) with crown / 1856"
+  },
+  {
+    "id": "zywiec_pl_crown_1856_white_red_blue_02",
+    "brand": "Żywiec",
+    "series": "Crown 1856",
+    "image": "images/Zywiec/zywiec_pl_crown_1856_white_red_blue_02.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap, red-blue band (version 2, more worn)"
+  },
+  {
+    "id": "zywiec_pl_dancers_traditional_white_01",
+    "brand": "Żywiec",
+    "series": "Dancing Couple",
+    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – dancing couple TM, white rim"
+  },
+  {
+    "id": "zywiec_pl_dancers_traditional_white_blue_01",
+    "brand": "Żywiec",
+    "series": "Dancing Couple",
+    "image": "images/Zywiec/zywiec_pl_dancers_traditional_white_blue_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec cap – dancing couple, blue rim variant"
+  },
+  {
+    "id": "zywiec_pl_marcowe_gold_green_01",
+    "brand": "Żywiec",
+    "series": "Marcowe / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_marcowe_gold_green_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Marcowe cap with green title panel"
+  },
+  {
+    "id": "zywiec_pl_porter_gold_black_01",
+    "brand": "Żywiec",
+    "series": "Porter / Crown logo",
+    "image": "images/Zywiec/zywiec_pl_porter_gold_black_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Żywiec Porter cap – black rim, gold crown"
+  },
+    {
+      "id": "red_pl_pink_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_pink_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with pink emblem logo"
+    },
+    {
+      "id": "red_pl_red_swirl_vintage_02",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redd's/red_pl_red_swirl_vintage_02.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with red swirl design"
+    },
+    {
+      "id": "red_pl_red_emblem_faded_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_red_emblem_faded_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Faded Redd's cap with red emblem logo"
+    },
+    {
+      "id": "red_pl_green_swirl_rusty_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redd's/red_pl_green_swirl_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with green swirl design"
+    },
+    {
+      "id": "red_pl_green_emblem_vintage_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_green_emblem_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with green emblem logo"
+    },
+    {
+      "id": "red_pl_white_swirl_faded_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redd's/red_pl_white_swirl_faded_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Faded Redd's cap with white swirl design"
+    },
+    {
+      "id": "red_pl_white_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_white_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with white emblem logo"
+    },
+    {
+      "id": "red_pl_gold_swirl_vintage_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redd's/red_pl_gold_swirl_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Redd's cap with gold swirl design"
+    },
+    {
+      "id": "red_pl_gold_emblem_worn_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_gold_emblem_worn_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Worn Redd's cap with gold emblem logo"
+    },
+    {
+      "id": "red_pl_orange_swirl_worn_01",
+      "brand": "Redd's",
+      "series": "Swirl design",
+      "image": "images/Redd's/red_pl_orange_swirl_worn_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Worn Redd's cap with orange swirl design"
+    },
+    {
+      "id": "red_pl_orange_emblem_rusty_01",
+      "brand": "Redd's",
+      "series": "Emblem logo",
+      "image": "images/Redd's/red_pl_orange_emblem_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Redd's cap with orange emblem logo"
+    },
+      {
+      "id": "lom_pl_green_pilsner_vintage_01",
+      "brand": "Łomża",
+      "series": "Pilsner design",
+      "image": "images/Lomza/lom_pl_green_pilsner_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with pilsner design"
+    },
+    {
+      "id": "lom_pl_green_pilsner_rustic_01",
+      "brand": "Łomża",
+      "series": "Pilsner design",
+      "image": "images/Lomza/lom_pl_green_pilsner_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with pilsner design"
+    },
+    {
+      "id": "lom_pl_green_ale_shiny_01",
+      "brand": "Łomża",
+      "series": "Ale design",
+      "image": "images/Lomza/lom_pl_green_ale_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with ale design"
+    },
+    {
+      "id": "lom_pl_green_lager_vintage_01",
+      "brand": "Łomża",
+      "series": "Lager design",
+      "image": "images/Lomza/lom_pl_green_lager_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with lager design"
+    },
+    {
+      "id": "lom_pl_green_lager_rustic_01",
+      "brand": "Łomża",
+      "series": "Lager design",
+      "image": "images/Lomza/lom_pl_green_lager_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with lager design"
+    },
+    {
+      "id": "lom_pl_green_craft_shiny_01",
+      "brand": "Łomża",
+      "series": "Craft design",
+      "image": "images/Lomza/lom_pl_green_craft_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with craft design"
+    },
+    {
+      "id": "lom_pl_green_stag_vintage_01",
+      "brand": "Łomża",
+      "series": "Stag emblem",
+      "image": "images/Lomza/lom_pl_green_stag_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with stag emblem"
+    },
+    {
+      "id": "lom_pl_green_stag_rusty_01",
+      "brand": "Łomża",
+      "series": "Stag emblem",
+      "image": "images/Lomza/lom_pl_green_stag_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Łomża cap with stag emblem"
+    },
+    {
+      "id": "lom_pl_green_gold_vintage_01",
+      "brand": "Łomża",
+      "series": "Gold design",
+      "image": "images/Lomza/lom_pl_green_gold_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with gold design"
+    },
+    {
+      "id": "lom_pl_green_wildlife_rustic_01",
+      "brand": "Łomża",
+      "series": "Wildlife design",
+      "image": "images/Lomza/lom_pl_green_wildlife_rustic_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rustic Łomża cap with wildlife design"
+    },
+    {
+      "id": "lom_pl_green_fullbodied_vintage_01",
+      "brand": "Łomża",
+      "series": "Full-bodied design",
+      "image": "images/Lomza/lom_pl_green_fullbodied_vintage_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Vintage Łomża cap with full-bodied design"
+    },
+    {
+      "id": "lom_pl_green_light_shiny_01",
+      "brand": "Łomża",
+      "series": "Light design",
+      "image": "images/Lomza/lom_pl_green_light_shiny_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Shiny Łomża cap with light design"
+    },
+    {
+      "id": "lom_pl_green_stag_antler_rusty_01",
+      "brand": "Łomża",
+      "series": "Stag antler emblem",
+      "image": "images/Lomza/lom_pl_green_stag_antler_rusty_01.jpg",
+      "country": "Poland",
+      "year": null,
+      "description": "Rusty Łomża cap with stag antler emblem"
+    },
+      {
+      "id": "eic_de_green_oak_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem vintage",
+      "image": "images/Eichbaum/eic_de_green_oak_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_oak_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem",
+      "image": "images/Eichbaum/eic_de_green_oak_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_oak_shiny_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem",
+      "image": "images/Eichbaum/eic_de_green_oak_shiny_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Shiny Eichbaum cap with oak tree emblem"
+    },
+    {
+      "id": "eic_de_green_craft_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Craft design vintage",
+      "image": "images/Eichbaum/eic_de_green_craft_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with craft design"
+    },
+    {
+      "id": "eic_de_green_craft_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Craft design",
+      "image": "images/Eichbaum/eic_de_green_craft_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with craft design"
+    },
+    {
+      "id": "eic_de_green_non_alc_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Non-alcoholic design",
+      "image": "images/Eichbaum/eic_de_green_non_alc_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Eichbaum cap with non-alcoholic design"
+    },
+    {
+      "id": "eic_de_green_non_alc_shiny_01",
+      "brand": "Eichbaum",
+      "series": "Non-alcoholic design",
+      "image": "images/Eichbaum/eic_de_green_non_alc_shiny_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Shiny Eichbaum cap with non-alcoholic design"
+    },
+    {
+      "id": "eic_de_green_premium_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Premium design vintage",
+      "image": "images/Eichbaum/eic_de_green_premium_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1679",
+      "description": "Vintage Eichbaum cap with premium design"
+    },
+    {
+      "id": "eic_de_green_premium_rustic_01",
+      "brand": "Eichbaum",
+      "series": "Premium design",
+      "image": "images/Eichbaum/eic_de_green_premium_rustic_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rustic Eichbaum cap with premium design"
+    },
+    {
+      "id": "eic_de_green_malt_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Malt design",
+      "image": "images/Eichbaum/eic_de_green_malt_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Eichbaum cap with malt design"
+    },
+    {
+      "id": "eic_de_green_kristallweizen_vintage_01",
+      "brand": "Eichbaum",
+      "series": "Kristallweizen design",
+      "image": "images/Eichbaum/eic_de_green_kristallweizen_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1879",
+      "description": "Vintage Eichbaum cap with Kristallweizen design"
+    },
+    {
+      "id": "eic_de_green_oak_1879_rusty_01",
+      "brand": "Eichbaum",
+      "series": "Oak tree emblem 1879",
+      "image": "images/Eichbaum/eic_de_green_oak_1879_rusty_01.jpg",
+      "country": "Germany",
+      "year": "1879",
+      "description": "Rusty Eichbaum cap with oak tree emblem since 1879"
+    },
+      {
+      "id": "bec_us_green_lime_rusty_01",
+      "brand": "Beck's",
+      "series": "Green lime design",
+      "image": "images/Beck's/bec_us_green_lime_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green lime design"
+    },
+    {
+      "id": "bec_us_green_lime_rusty_02",
+      "brand": "Beck's",
+      "series": "Green lime design",
+      "image": "images/Beck's/bec_us_green_lime_rusty_02.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green lime design"
+    },
+    {
+      "id": "bec_us_green_shield_vintage_01",
+      "brand": "Beck's",
+      "series": "Shield logo vintage",
+      "image": "images/Beck's/bec_us_green_shield_vintage_01.jpg",
+      "country": "Germany",
+      "year": "1994",
+      "description": "Vintage Beck's cap with blue-red shield logo"
+    },
+    {
+      "id": "bec_us_green_shield_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield logo",
+      "image": "images/Beck's/bec_us_green_shield_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with green shield logo"
+    },
+    {
+      "id": "bec_us_green_shield_level7_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield logo Level7",
+      "image": "images/Beck's/bec_us_green_shield_level7_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with Level7 shield logo"
+    },
+    {
+      "id": "bec_us_green_citrus_rusty_01",
+      "brand": "Beck's",
+      "series": "Citrus design",
+      "image": "images/Beck's/bec_us_green_citrus_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with citrus design"
+    },
+    {
+      "id": "bec_us_green_citrus_vintage_01",
+      "brand": "Beck's",
+      "series": "Citrus design vintage",
+      "image": "images/Beck's/bec_us_green_citrus_vintage_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Vintage Beck's cap with citrus design"
+    },
+    {
+      "id": "bec_us_green_brew_rusty_01",
+      "brand": "Beck's",
+      "series": "Brew design",
+      "image": "images/Beck's/bec_us_green_brew_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with brew design"
+    },
+    {
+      "id": "bec_us_green_brew_vintage_01",
+      "brand": "Beck's",
+      "series": "Brew design vintage",
+      "image": "images/Beck's/bec_us_green_brew_vintage_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Vintage Beck's cap with brew design"
+    },
+    {
+      "id": "bec_us_green_orange_rusty_01",
+      "brand": "Beck's",
+      "series": "Orange citrus design",
+      "image": "images/Beck's/bec_us_green_orange_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with orange citrus design"
+    },
+    {
+      "id": "bec_us_green_non_alc_rusty_01",
+      "brand": "Beck's",
+      "series": "Non-alcoholic design",
+      "image": "images/Beck's/bec_us_green_non_alc_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with non-alcoholic design"
+    },
+    {
+      "id": "bec_us_green_shield_key_rusty_01",
+      "brand": "Beck's",
+      "series": "Shield key design",
+      "image": "images/Beck's/bec_us_green_shield_key_rusty_01.jpg",
+      "country": "Germany",
+      "year": null,
+      "description": "Rusty Beck's cap with shield key design"
+    },
+{
+    "id": "coca_signature_pink_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Pink",
+    "image": "images/Coca-Cola/coca_signature_pink_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_gold_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Gold",
+    "image": "images/Coca-Cola/coca_signature_gold_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_rose_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Rose",
+    "image": "images/Coca-Cola/coca_signature_rose_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_signature_green_01",
+    "brand": "Coca-Cola",
+    "series": "Signature Mixers – Green",
+    "image": "images/Coca-Cola/coca_signature_green_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coca_misc_recycle_01",
+    "brand": "Coca-Cola",
+    "series": "Miscellaneous",
+    "image": "images/Coca-Cola/coca_misc_recycle_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Please Recycle Me cap, likely promotional"
+  },
+  {
+  "id": "coke_kr_rimtext_korean_02",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text (clean)",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_02.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_since1886_01",
+  "brand": "Coca-Cola",
+  "series": "Since 1886 promo",
+  "image": "images/Coca-Cola/coke_red_since1886_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_kr_rimtext_korean_03",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text (worn)",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_03.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+  {
+  "id": "coke_id_halal_rimtext_01",
+  "brand": "Coca-Cola",
+  "series": "Indonesia Halal rim text",
+  "image": "images/Coca-Cola/coke_id_halal_rimtext_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_ar_block_white_01",
+  "brand": "Coca-Cola",
+  "series": "Arabic logo & ingredients",
+  "image": "images/Coca-Cola/coke_ar_block_white_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_clean_02",
+  "brand": "Coca-Cola",
+  "series": "Plain logo (clean)",
+  "image": "images/Coca-Cola/coke_red_plain_clean_02.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_worn_01",
+  "brand": "Coca-Cola",
+  "series": "Plain logo (worn)",
+  "image": "images/Coca-Cola/coke_red_plain_worn_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_bg_250ml_block_01",
+  "brand": "Coca-Cola",
+  "series": "Bulgaria 250 ml block",
+  "image": "images/Coca-Cola/coke_bg_250ml_block_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_kr_rimtext_korean_01",
+  "brand": "Coca-Cola",
+  "series": "Korea rim text",
+  "image": "images/Coca-Cola/coke_kr_rimtext_korean_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+  {
+    "id": "coke_en_vegextracts_block_01",
+    "brand": "Coca-Cola",
+    "series": "UK ingredients block",
+    "image": "images/Coca-Cola/coke_en_vegextracts_block_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_en_vegextracts_block_02",
+    "brand": "Coca-Cola",
+    "series": "UK ingredients block",
+    "image": "images/Coca-Cola/coke_en_vegextracts_block_02.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_en_rimtext_ingr_01",
+    "brand": "Coca-Cola",
+    "series": "UK rim ingredients",
+    "image": "images/Coca-Cola/coke_en_rimtext_ingredients_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_bg_1996_cyrillic_01",
+    "brand": "Coca-Cola",
+    "series": "Bulgaria 1996 Cyrillic",
+    "image": "images/Coca-Cola/coke_bg_1996_cyrillic_01.jpg",
+    "country": "USA",
+    "year": 1996,
+    "description": null
+  },
+  {
+    "id": "coke_en_rimtext_logo_01",
+    "brand": "Coca-Cola",
+    "series": "UK rim text logo-only",
+    "image": "images/Coca-Cola/coke_en_rimtext_logoonly_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+  "id": "coke_promo_soccerball_red_01",
+  "brand": "Coca-Cola",
+  "series": "Soccer-ball promo",
+  "image": "images/Coca-Cola/coke_promo_soccerball_red_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_ug_unbs_rimtext_01",
+  "brand": "Coca-Cola",
+  "series": "Uganda rim text (UNBS)",
+  "image": "images/Coca-Cola/coke_ug_unbs_rimtext_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_en_block_1996_02",
+  "brand": "Coca-Cola",
+  "series": "UK ingredients block",
+  "image": "images/Coca-Cola/coke_en_block_1996_02.jpg",
+  "country": "USA",
+  "year": 1996,
+  "description": null
+},
+{
+  "id": "coke_pl_rimtext_hbc_01",
+  "brand": "Coca-Cola",
+  "series": "Poland rim text (HBC)",
+  "image": "images/Coca-Cola/coke_pl_rimtext_hbc_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_red_plain_logo_01",
+  "brand": "Coca-Cola",
+  "series": "Plain logo, no text",
+  "image": "images/Coca-Cola/coke_red_plain_logo_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},{
+  "id": "diet_coke_en_white_block_01",
+  "brand": "Coca-Cola",
+  "series": "UK ingredients block",
+  "image": "images/Coca-Cola/diet_coke_en_white_block_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "coke_es_white_rimtext_2012_01",
+  "brand": "Coca-Cola",
+  "series": "Spain white rim text",
+  "image": "images/Coca-Cola/coke_es_white_rimtext_2012_01.jpg",
+  "country": "USA",
+  "year": 2012,
+  "description": null
+},
+{
+  "id": "coke_es_promo_white_2012_01",
+  "brand": "Coca-Cola",
+  "series": "Spain Promoción white",
+  "image": "images/Coca-Cola/coke_es_promo_white_2012_01.jpg",
+  "country": "USA",
+  "year": 2012,
+  "description": null
+},
+{
+  "id": "coke_co_white_block_2010_01",
+  "brand": "Coca-Cola",
+  "series": "Colombia white block",
+  "image": "images/Coca-Cola/coke_co_white_block_2010_01.jpg",
+  "country": "USA",
+  "year": 2010,
+  "description": null
+},
+{
+  "id": "coke_light_silver_logo_01",
+  "brand": "Coca-Cola",
+  "series": "Silver logo",
+  "image": "images/Coca-Cola/coke_light_silver_logo_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+  {
+    "id": "coke_dk_250ml_redscript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "image": "images/Coca-Cola/coke_zero_red.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "coke_dk_250ml_whitescript_01",
+    "brand": "Coca-Cola",
+    "series": "Denmark 250 ml promo",
+    "image": "images/Coca-Cola/coke_zero_white.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_es_limon_blue_01",
+    "brand": "Fanta",
+    "series": "Limón – Spain",
+    "image": "images/Fanta/fanta_es_limon_blue_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_ar_strawberry_red_01",
+    "brand": "Fanta",
+    "series": "Strawberry – Arabic market",
+    "image": "images/Fanta/fanta_ar_strawberry_red_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+  "id": "fanta_or_uk_block_01",
+  "brand": "Fanta",
+  "series": "Orange – UK ingredients block",
+  "image": "images/Fanta/fanta_or_uk_block_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_or_id_halal_01",
+  "brand": "Fanta",
+  "series": "Orange – Indonesia Halal rim text",
+  "image": "images/Fanta/fanta_or_id_halal_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_sw_id_halal_01",
+  "brand": "Fanta",
+  "series": "Soda Water – Indonesia Halal",
+  "image": "images/Fanta/fanta_sw_id_halal_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_st_id_promo_1500_01",
+  "brand": "Fanta",
+  "series": "Strawberry – Rp 1500 promo",
+  "image": "images/Fanta/fanta_st_id_promo_1500_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_white_pineapple_01",
+  "brand": "Fanta",
+  "series": "Pineapple – Korea white",
+  "image": "images/Fanta/fanta_kr_white_pineapple_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_white_pineapple_355_01",
+  "brand": "Fanta",
+  "series": "Pineapple – Korea 355 ml",
+  "image": "images/Fanta/fanta_kr_white_pineapple_355_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_orange_355_clean_01",
+  "brand": "Fanta",
+  "series": "Orange – Korea 355 ml (clean)",
+  "image": "images/Fanta/fanta_kr_orange_355_clean_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_orange_355_worn_01",
+  "brand": "Fanta",
+  "series": "Orange – Korea 355 ml (worn)",
+  "image": "images/Fanta/fanta_kr_orange_355_worn_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_kr_blue_logo_01",
+  "brand": "Fanta",
+  "series": "Blue logo only – Korea",
+  "image": "images/Fanta/fanta_kr_blue_logo_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+{
+  "id": "fanta_st_id_promo_1300_01",
+  "brand": "Fanta",
+  "series": "Strawberry – Rp 1300 promo",
+  "image": "images/Fanta/fanta_st_id_promo_1300_01.jpg",
+  "country": "USA",
+  "year": null,
+  "description": null
+},
+  {
+    "id": "fanta_ru_exotic_white_01",
+    "brand": "Fanta",
+    "series": "Exotic – Russia white splash",
+    "image": "images/Fanta/fanta_ru_exotic_white_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_sc_orange_triangle_01",
+    "brand": "Fanta",
+    "series": "Orange – Seychelles white triangle",
+    "image": "images/Fanta/fanta_sc_orange_triangle_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_or_plain_logo_01",
+    "brand": "Fanta",
+    "series": "Orange – plain logo",
+    "image": "images/Fanta/fanta_or_plain_logo_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_ru_orange_splash_white_01",
+    "brand": "Fanta",
+    "series": "Orange splash – Russia white",
+    "image": "images/Fanta/fanta_ru_orange_splash_white_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_id_orange_full_01",
+    "brand": "Fanta",
+    "series": "Orange – Indonesia full-orange cap (FT-042)",
+    "image": "images/Fanta/fanta_id_orange_full_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "fanta_ar_pink_block_01",
+    "brand": "Fanta",
+    "series": "Pink cap – Arabic ingredients block",
+    "image": "images/Fanta/fanta_ar_pink_block_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": null
+  },
+      {
+    "id": "lech_red_wild_animals_01",
+    "brand": "Lech",
+    "series": "Red Wild Animals",
+    "image": "images/Lech/lech_red_wild_animals_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_free_red_01",
+    "brand": "Lech",
+    "series": "Lech Free Red",
+    "image": "images/Lech/lech_free_red_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_free_blue_01",
+    "brand": "Lech",
+    "series": "Lech Free Blue",
+    "image": "images/Lech/lech_free_blue_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_yellow_wild_animals_01",
+    "brand": "Lech",
+    "series": "Yellow Wild Animals",
+    "image": "images/Lech/lech_yellow_wild_animals_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_qr_zobacz_koncerty_01",
+    "brand": "Lech",
+    "series": "QR – “Zobacz Koncerty” promo",
+    "image": "images/Lech/lech_pl_qr_zobacz_koncerty_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_01",
+    "brand": "Lech",
+    "series": "Premium – green shield",
+    "image": "images/Lech/lech_pl_premium_green_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_lemon_camouflage_01",
+    "brand": "Lech",
+    "series": "Shandy – camo lemon splash",
+    "image": "images/Lech/lech_pl_shandy_lemon_camouflage_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_02",
+    "brand": "Lech",
+    "series": "Premium – green (silver rim)",
+    "image": "images/Lech/lech_pl_premium_green_02.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_lemon_slice_01",
+    "brand": "Lech",
+    "series": "Shandy – lemon slice",
+    "image": "images/Lech/lech_pl_shandy_lemon_slice_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_qr_chcesz_wiecej_01",
+    "brand": "Lech",
+    "series": "QR – “Chcesz więcej?” promo",
+    "image": "images/Lech/lech_pl_qr_chcesz_wiecej_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_03",
+    "brand": "Lech",
+    "series": "Premium – green (newer logo)",
+    "image": "images/Lech/lech_pl_premium_green_03.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_shandy_dry_orange_01",
+    "brand": "Lech",
+    "series": "Shandy – Dry Orange (scratched)",
+    "image": "images/Lech/lech_pl_shandy_dry_orange_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_party_pack_green_01",
+    "brand": "Lech",
+    "series": "Green party-pack crate graphic",
+    "image": "images/Lech/lech_pl_party_pack_green_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_free_silver_01",
+    "brand": "Lech",
+    "series": "Free – non-alcoholic silver",
+    "image": "images/Lech/lech_pl_free_silver_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_green_fingerprint_01",
+    "brand": "Lech",
+    "series": "Fingerprint swirl – green",
+    "image": "images/Lech/lech_pl_green_fingerprint_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_white_hops_01",
+    "brand": "Lech",
+    "series": "White cap – hops & barley graphic",
+    "image": "images/Lech/lech_pl_white_hops_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_04",
+    "brand": "Lech",
+    "series": "Premium – green (wide banner)",
+    "image": "images/Lech/lech_pl_premium_green_04.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_premium_green_05",
+    "brand": "Lech",
+    "series": "Premium – green (silver rim)",
+    "image": "images/Lech/lech_pl_premium_green_05.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_green_splash_01",
+    "brand": "Lech",
+    "series": "Green splash (no tagline)",
+    "image": "images/Lech/lech_pl_green_splash_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_green_splash_02",
+    "brand": "Lech",
+    "series": "Green splash – variant",
+    "image": "images/Lech/lech_pl_green_splash_02.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_free_camo_01",
+    "brand": "Lech",
+    "series": "Free – camo silver",
+    "image": "images/Lech/lech_pl_free_camo_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+    "id": "lech_pl_lime_slice_01",
+    "brand": "Lech",
+    "series": "Lime slice graphic",
+    "image": "images/Lech/lech_pl_lime_slice_01.jpg",
+    "country": "PL",
+    "year": null,
+    "description": null
+  },
+  {
+      "id": "bud_us_red_crown_clean_01",
+      "brand": "Budweiser",
+      "series": "Red crown (clean)",
+      "image": "images/Budweiser/bud_us_red_crown_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_crown_worn_01",
+      "brand": "Budweiser",
+      "series": "Red crown (worn)",
+      "image": "images/Budweiser/bud_us_red_crown_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_budjovice_01",
+      "brand": "Budweiser",
+      "series": "Budějovice crest",
+      "image": "images/Budweiser/bud_us_red_budjovice_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_clean_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie (clean)",
+      "image": "images/Budweiser/bud_us_red_bowtie_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_worn_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie (worn)",
+      "image": "images/Budweiser/bud_us_red_bowtie_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_king_beers_01",
+      "brand": "Budweiser",
+      "series": "King of Beers (vintage)",
+      "image": "images/Budweiser/bud_us_red_king_beers_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_since1876_01",
+      "brand": "Budweiser",
+      "series": "Since 1876 (vintage)",
+      "image": "images/Budweiser/bud_us_red_since1876_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_crown_variant_01",
+      "brand": "Budweiser",
+      "series": "Red crown variant (clean)",
+      "image": "images/Budweiser/bud_us_red_crown_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_bowtie_variant_01",
+      "brand": "Budweiser",
+      "series": "Red bowtie variant (worn)",
+      "image": "images/Budweiser/bud_us_red_bowtie_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_king_beers_variant_01",
+      "brand": "Budweiser",
+      "series": "King of Beers variant (vintage)",
+      "image": "images/Budweiser/bud_us_red_king_beers_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+  {
+      "id": "bud_us_red_global_crest_clean_01",
+      "brand": "Budweiser",
+      "series": "Global crest (clean)",
+      "image": "images/Budweiser/bud_us_red_global_crest_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_worn_01",
+      "brand": "Budweiser",
+      "series": "Global crest (worn)",
+      "image": "images/Budweiser/bud_us_red_global_crest_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_variant_01",
+      "brand": "Budweiser",
+      "series": "Global crest variant (worn)",
+      "image": "images/Budweiser/bud_us_red_global_crest_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_worn_02",
+      "brand": "Budweiser",
+      "series": "Global crest (worn, faded)",
+      "image": "images/Budweiser/bud_us_red_global_crest_worn_02.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_clean_02",
+      "brand": "Budweiser",
+      "series": "Global crest (clean, sealed)",
+      "image": "images/Budweiser/bud_us_red_global_crest_clean_02.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+    {
+      "id": "bud_us_red_global_crest_variant_02",
+      "brand": "Budweiser",
+      "series": "Global crest variant (worn, blue mark)",
+      "image": "images/Budweiser/bud_us_red_global_crest_variant_02.jpg",
+      "country": "USA",
+      "year": null,
+      "description": null
+    },
+  {
+      "id": "spr_us_green_logo_clean_01",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Clean Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_logo_worn_01",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Worn Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_logo_variant_01",
+      "brand": "Sprite",
+      "series": "Green logo variant",
+      "image": "images/Sprite/spr_us_green_logo_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Variant Sprite cap with green logo"
+    },
+    {
+      "id": "spr_us_green_fizz_clean_01",
+      "brand": "Sprite",
+      "series": "Fizz design",
+      "image": "images/Sprite/spr_us_green_fizz_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Clean Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_fizz_worn_01",
+      "brand": "Sprite",
+      "series": "Fizz design",
+      "image": "images/Sprite/spr_us_green_fizz_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Worn Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_fizz_variant_01",
+      "brand": "Sprite",
+      "series": "Fizz design variant",
+      "image": "images/Sprite/spr_us_green_fizz_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Variant Sprite cap with fizz design"
+    },
+    {
+      "id": "spr_us_green_seal_clean_01",
+      "brand": "Sprite",
+      "series": "Seal design",
+      "image": "images/Sprite/spr_us_green_seal_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Clean Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_seal_worn_01",
+      "brand": "Sprite",
+      "series": "Seal design",
+      "image": "images/Sprite/spr_us_green_seal_worn_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Worn Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_seal_variant_01",
+      "brand": "Sprite",
+      "series": "Seal design variant",
+      "image": "images/Sprite/spr_us_green_seal_variant_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Variant Sprite cap with seal design"
+    },
+    {
+      "id": "spr_us_green_recycle_clean_01",
+      "brand": "Sprite",
+      "series": "Recycle symbol",
+      "image": "images/Sprite/spr_us_green_recycle_clean_01.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Clean Sprite cap with recycle symbol"
+    },
+    {
+      "id": "spr_us_green_logo_clean_02",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_02.jpg",
+      "country": "USA",
+      "year": "1994",
+      "description": "Clean Sprite cap with green logo and vintage 1994 design"
+    },
+    {
+      "id": "spr_us_green_lemonlime_worn_01",
+      "brand": "Sprite",
+      "series": "Lemon-lime design",
+      "image": "images/Sprite/spr_us_green_lemonlime_worn_01.jpg",
+      "country": "Poland",
+      "year": "2018",
+      "description": "Worn Sprite cap with lemon-lime design and Poland distributor info"
+    },
+    {
+      "id": "spr_us_green_logo_vintage_01",
+      "brand": "Sprite",
+      "series": "Green logo vintage",
+      "image": "images/Sprite/spr_us_green_logo_vintage_01.jpg",
+      "country": "USA",
+      "year": "1994",
+      "description": "Vintage Sprite cap with green logo and blue-yellow colors"
+    },
+    {
+      "id": "spr_us_green_logo_clean_03",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_clean_03.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Clean Sprite cap with green logo and certification mark"
+    },
+    {
+      "id": "spr_us_green_lemonlime_clean_01",
+      "brand": "Sprite",
+      "series": "Lemon-lime design",
+      "image": "images/Sprite/spr_us_green_lemonlime_clean_01.jpg",
+      "country": "Poland",
+      "year": "2018",
+      "description": "Clean Sprite cap with lemon-lime design and Poland distributor info"
+    },
+    {
+      "id": "spr_us_green_logo_worn_02",
+      "brand": "Sprite",
+      "series": "Green logo",
+      "image": "images/Sprite/spr_us_green_logo_worn_02.jpg",
+      "country": "USA",
+      "year": null,
+      "description": "Worn Sprite cap with green logo"
+    }
+]
