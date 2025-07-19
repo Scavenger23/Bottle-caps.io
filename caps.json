@@ -1,5 +1,95 @@
 [
   {
+    "id": "alf_grc_green_01",
+    "brand": "Alfa Beer",
+    "series": "Red A Emblem",
+    "image": "images/Alfa/alf_grc_green_01.jpg",
+    "country": "Greece",
+    "year": null,
+    "description": "Green cap with barley‑ear flanks; broad white roundel features large red ‘A’; bilingual ring text ‘ALFA BEER · ΑΛΦΑ ΖΥΘΟΣ’."
+  },
+  {
+    "id": "rac_pol_1567_01",
+    "brand": "Browar Zamkowy Racibórz",
+    "series": "A.D. 1567",
+    "image": "images/Raciborz/rac_pol_1567_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Antique‑gold cap with red crown inside circular frame; legend ‘BROWAR ZAMKOWY A.D. 1567 RACIBÓRZ’ arched around."
+  },
+  {
+    "id": "brk_usa_blue_01",
+    "brand": "Brooklyn Brewery",
+    "series": "Monogram Blue",
+    "image": "images/Brooklyn/brk_usa_blue_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Metallic‑silver cap over‑printed deep blue; centre shows silver script ‘B’ monogram with trailing bar; small ‘TM’ below."
+  },
+  {
+    "id": "lvi_ukr_bile_01",
+    "brand": "Lvivske",
+    "series": "Bile Nefilʹtrovane",
+    "image": "images/Lvivske/lvi_ukr_bile_01.jpg",
+    "country": "Ukraine",
+    "year": null,
+    "description": "White cap with thin green ring; gold Cyrillic ‘Біле’ and subtitle ‘НЕФІЛЬТРОВАНЕ’ (unfiltered wheat)."
+  },
+  {
+    "id": "bau_lva_red_01",
+    "brand": "Bauskas Alus",
+    "series": "Classic Logo",
+    "image": "images/Bauskas/bau_lva_red_01.jpg",
+    "country": "Latvia",
+    "year": null,
+    "description": "Bright‑red cap with white border and bold block lettering ‘BAUSKAS ALUS’."
+  },
+  {
+    "id": "bck_int_gold_01",
+    "brand": "Bock",
+    "series": "Faded Red Ring",
+    "image": "images/Bock/bck_int_gold_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Aged gold‑tone cap with red ring; faint centre emblem and white‑outlined word ‘BOCK’ at top—details heavily worn."
+  },
+  {
+    "id": "boo_tha_dragon_01",
+    "brand": "Boon Rawd (Singha)",
+    "series": "Red Dragon Seal",
+    "image": "images/BoonRawd/boo_tha_dragon_01.jpg",
+    "country": "Thailand",
+    "year": null,
+    "description": "White cap printed carmine; intricate heraldic dragon inside circle; border text ‘BOON RAWD BREWERY CO. LTD.’."
+  },
+  {
+    "id": "bri_deu_no1_01",
+    "brand": "Brinkhoff’s",
+    "series": "No 1",
+    "image": "images/Brinkhoffs/bri_deu_no1_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Weathered white‑silver cap; top half bears red F. Brinkhoff signature; green panel ‘BRINKHOFF’S’; red script ‘No 1’ below."
+  },
+  {
+    "id": "arc_gbr_aqua_01",
+    "brand": "Archers",
+    "series": "Aqua",
+    "image": "images/Archers/arc_gbr_aqua_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Fluorescent‑orange cap with pale silver wordmark ‘ARCHERS’ and smaller ‘AQUA’ beneath."
+  },
+  {
+    "id": "adl_deu_bock_01",
+    "brand": "Adler Bock",
+    "series": "Rustic",
+    "image": "images/AdlerBock/adl_deu_bock_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Dark, heavily patinated cap with red rim; block serif text ‘ADLER BOCK’ in muted gold."
+  },
+  {
     "id": "boe_bel_blue_01",
     "brand": "Boelens",
     "series": "Authentic Belgian Brewery",
