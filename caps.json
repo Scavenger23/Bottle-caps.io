@@ -1,4 +1,84 @@
-[
+[{
+    "id": "ban_gbr_gold_01",
+    "brand": "Bangla",
+    "series": "Classic",
+    "image": "images/Bangla/ban_gbr_gold_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Aged gold cap with stippled finish; green‑outlined white letters ‘BANGLA’ and pink Bengali script ‘বাংলা’ above."
+  },
+  {
+    "id": "pos_col_balonazos_01",
+    "brand": "Postobón",
+    "series": "Liga Postobón Balonazos",
+    "image": "images/Postobon/pos_col_balonazos_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Navy‑blue promotional cap: silver text ‘BALONAZOS’ over football swirl in Colombian flag colours; lower banner ‘LIGA POSTOBON’ with striker silhouette."
+  },
+  {
+    "id": "bal_ltu_kvietinis_01",
+    "brand": "Baltas",
+    "series": "Kvietinis Alus",
+    "image": "images/Baltas/bal_ltu_kvietinis_01.jpg",
+    "country": "Lithuania",
+    "year": null,
+    "description": "Off‑white cap with ice‑blue word ‘BALTAS’; navy subtitle ‘KVIETINIS ALUS’ (wheat beer)."
+  },
+  {
+    "id": "bob_blr_crest_01",
+    "brand": "Bobrov",
+    "series": "1999 Crest",
+    "image": "images/Bobrov/bob_blr_crest_01.jpg",
+    "country": "Belarus",
+    "year": 1999,
+    "description": "Yellow cap weathered to olive; twin griffins support red shield with Cyrillic ‘Б’, crown above; ribbon ‘ВЫСШЕЕ КАЧЕСТВО 1999’."
+  },
+  {
+    "id": "bel_usa_helmets_01",
+    "brand": "Bell’s Brewery",
+    "series": "Three Bells",
+    "image": "images/Bells/bel_usa_helmets_01.jpg",
+    "country": "United States",
+    "year": null,
+    "description": "Champagne‑gold cap; black frame encloses trio of Liberty‑bell silhouettes; header text ‘BELL’S®’."
+  },
+  {
+    "id": "ach_bel_gnome_01",
+    "brand": "Brasserie d’Achouffe",
+    "series": "La Chouffe Gnome",
+    "image": "images/Achouffe/ach_bel_gnome_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Cream cap with full‑colour gnome bending with sheaf; circular legend ‘BRASSERIE D’ACHOUFFE · BELGIUM’."
+  },
+  {
+    "id": "bew_int_dog_01",
+    "brand": "Beware of Imitations",
+    "series": "Dog Head",
+    "image": "images/Generic/bew_int_dog_01.jpg",
+    "country": null,
+    "year": null,
+    "description": "Cobalt‑blue cap; white Alsatian head motif above warning text ‘BEWARE OF IMITATIONS’."
+  },
+  {
+    "id": "bit_deu_premium_01",
+    "brand": "Bitburger",
+    "series": "Premium Beer",
+    "image": "images/Bitburger/bit_deu_premium_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold‑rim cap with white centre panel; blackletter ‘Bitburger’, script ‘Premium Beer’, tiny portrait and motto ‘Bitte ein Bit’."
+  },
+  {
+    "id": "bel_uga_yellow_01",
+    "brand": "Bell Lager",
+    "series": "Premium Quality",
+    "image": "images/BellLager/bel_uga_yellow_01.jpg",
+    "country": "Uganda",
+    "year": null,
+    "description": "Bright‑yellow cap; red banner with white ‘BELL’, golden bell icon above; curved bottom text ‘PREMIUM QUALITY LAGER’."
+  },
   {
     "id": "alf_grc_green_01",
     "brand": "Alfa Beer",
