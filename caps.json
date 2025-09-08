@@ -1,4 +1,93 @@
-[ 
+[ {
+    "id": "mor_unknown_white_01",
+    "brand": "Mora",
+    "series": null,
+    "image": "images/Mora/mor_unknown_white_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "White cap with large red crowned monogram and cursive ‘Mora’ at the bottom."
+  },
+  {
+    "id": "gru_deu_green_01",
+    "brand": "Gründel's",
+    "series": "Alkoholfrei Fresh",
+    "image": "images/Gründel's/gru_deu_green_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Gold-and-green oval badge with ‘Gründel’s’; KARLSBERG banner on top, red ‘ALKOHOLFREI’ strip and ‘fresh’ script."
+  },
+  {
+    "id": "har_dnk_blackwhite_01",
+    "brand": "Harboe",
+    "series": null,
+    "image": "images/Harboe/har_dnk_blackwhite_01.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Black center with white polar bear and ‘Harboe’ script; white rim."
+  },
+  {
+    "id": "hol_gbr_gold_01",
+    "brand": "Holden's",
+    "series": "Black Country · Born & Brewed",
+    "image": "images/Holden's/hol_gbr_gold_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Gold cap with teal-and-red banner ‘HOLDEN’S’ and oval portrait; ribbon reads ‘BLACK COUNTRY · BORN & BREWED’."
+  },
+  {
+    "id": "hac_deu_yellow_01",
+    "brand": "Hachenburger",
+    "series": "Malz",
+    "image": "images/Hachenburger/hac_deu_yellow_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Bright yellow cap with red ring; green ‘Hachenburger’ and red ‘Malz’, boar illustration above."
+  },
+  {
+    "id": "hgb_usa_black_01",
+    "brand": "Hank's Gourmet Beverages",
+    "series": "Genuine",
+    "image": "images/Hank's Gourmet Beverages/hgb_usa_black_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Aged black cap with large gold ‘Hank’s’; surrounding text ‘GOURMET’ and ‘BEVERAGES’."
+  },
+  {
+    "id": "iwo_pol_white_01",
+    "brand": "Iwoniczanka",
+    "series": "Niegazowana Woda Źródlana",
+    "image": "images/Iwoniczanka/iwo_pol_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with blue fountain logo and ‘Iwoniczanka’; Polish text ‘NIEGAZOWANA · WODA ŹRÓDLANA’ around edge."
+  },
+  {
+    "id": "iag_gbr_star_01",
+    "brand": "Innis & Gunn",
+    "series": "Oak Aged Beer",
+    "image": "images/Innis & Gunn/iag_gbr_star_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "White badge with star and three barrel monogram ‘I & G’; ring text ‘INNIS GUNN · OAK AGED BEER’."
+  },
+  {
+    "id": "hoe_bel_silver_01",
+    "brand": "Hoegaarden",
+    "series": null,
+    "image": "images/Hoegaarden/hoe_bel_silver_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Silver cap with blue-outlined gothic ‘Hoegaarden’ wordmark."
+  },
+  {
+    "id": "ice_usa_blue_01",
+    "brand": "Icehouse",
+    "series": null,
+    "image": "images/Icehouse/ice_usa_blue_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with blue diagonal ICEHOUSE banner, thin red stripe, and pale skyline above."
+  },
   {
     "id": "glo_unknown_red_01",
     "brand": "Glorietta",
