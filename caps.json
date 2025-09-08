@@ -1,4 +1,94 @@
-[ 
+[
+  {
+    "id": "cla_deu_white_01",
+    "brand": "Clausthaler",
+    "series": "Classic · Premium Alkoholfrei",
+    "image": "images/Clausthaler/cla_deu_white_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "White cap with crest at top and bold ‘CLAUSTHALER CLASSIC’; red ribbon ‘PREMIUM ALKOHOLFREI’ below."
+  },
+  {
+    "id": "bgo_pol_white_01",
+    "brand": "Browar Gontyniec",
+    "series": null,
+    "image": "images/Browar Gontyniec/bgo_pol_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with black oval and stylized text ‘Browar Gontyniec’."
+  },
+  {
+    "id": "brb_usa_gold_01",
+    "brand": "Bear Republic Brewing Co.",
+    "series": null,
+    "image": "images/Bear Republic Brewing Co./brb_usa_gold_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Brushed gold cap with walking bear and ribbon text ‘BEAR REPUBLIC’ and ‘BREWING CO.’"
+  },
+  {
+    "id": "bes_unknown_silver_01",
+    "brand": "Beershake",
+    "series": null,
+    "image": "images/Beershake/bes_unknown_silver_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Brushed silver cap with lowercase ‘beershake’ and two curved arrows."
+  },
+  {
+    "id": "col_col_yellow_01",
+    "brand": "Colombiana",
+    "series": "La nuestra",
+    "image": "images/Colombiana/col_col_yellow_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Yellow cap with red eagle and script ‘Colombiana’; small red lozenge ‘la nuestra’."
+  },
+  {
+    "id": "crl_aus_white_01",
+    "brand": "Crown Lager",
+    "series": "Brewed Longer · Premium Quality",
+    "image": "images/Crown Lager/crl_aus_white_01.jpg",
+    "country": "Australia",
+    "year": null,
+    "description": "White cap with blue ring text ‘BREWED LONGER · PREMIUM QUALITY’ surrounding a large blue ‘C’."
+  },
+  {
+    "id": "cos_col_green_01",
+    "brand": "Costeñita",
+    "series": "Precio sugerido $1000",
+    "image": "images/Costeñita/cos_col_green_01.jpg",
+    "country": "Colombia",
+    "year": null,
+    "description": "Green cap with yellow swoosh and big ‘$1000’; white ‘Costeñita’ logotype above."
+  },
+  {
+    "id": "cru_esp_red_01",
+    "brand": "Cruzcampo",
+    "series": "Desde 1904",
+    "image": "images/Cruzcampo/cru_esp_red_01.jpg",
+    "country": "Spain",
+    "year": null,
+    "description": "Red cap with diagonal white band ‘Cruzcampo’ and caption ‘DESDE 1904’."
+  },
+  {
+    "id": "caf_kor_white_01",
+    "brand": "Cafri",
+    "series": null,
+    "image": "images/Cafri/caf_kor_white_01.jpg",
+    "country": "South Korea",
+    "year": null,
+    "description": "White cap with blue ‘cafri’ script; pale stamps and grey ‘TWIST CAP’ arrows around rim."
+  },
+  {
+    "id": "chi_bel_blue_01",
+    "brand": "Chimay",
+    "series": "Trappist",
+    "image": "images/Chimay/chi_bel_blue_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "Deep blue cap with white-outlined ‘CHIMAY’ and small gold ‘Trappist’ beneath."
+  },
   {
     "id": "cel_cze_white_01",
     "brand": "Celia",
