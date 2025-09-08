@@ -1,4 +1,93 @@
-[
+[{
+"id": "dab_deu_green_01",
+"brand": "DAB",
+"series": null,
+"image": "images/DAB/dab_deu_green_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Green cap with white double border and framed rectangle; bold white “DAB” at center with “SEIT 1868” and a small tower crest above."
+},
+{
+"id": "efe_tur_blue_01",
+"brand": "Efes",
+"series": null,
+"image": "images/Efes/efe_tur_blue_01.jpg",
+"country": "Türkiye",
+"year": null,
+"description": "Deep-blue cap with yellow swooshes forming an oval; solid white “EFES” wordmark in the middle."
+},
+{
+"id": "fin_deu_whitegreen_01",
+"brand": "Finkbräu",
+"series": null,
+"image": "images/Finkbrau/fin_deu_whitegreen_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with green recycling-style arrows circle and small crest at top; large green “FINKBRÄU” text."
+},
+{
+"id": "una_unknown_red_01",
+"brand": "Unknown Arabic",
+"series": null,
+"image": "images/Unknown Arabic/una_unknown_red_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Red cap with white circular band and bold Arabic logotype; dotted date code printed over the center."
+},
+{
+"id": "eda_esp_red_01",
+"brand": "Estrella Damm",
+"series": "Daura",
+"image": "images/Estrella Damm/eda_esp_red_01.jpg",
+"country": "Spain",
+"year": null,
+"description": "Bright red cap reading “DAURA” with “Premium Quality Lager Beer”; small “Estrella Damm” name above a wreath."
+},
+{
+"id": "eks_unknown_ivory_01",
+"brand": "Ekstra",
+"series": "Draught",
+"image": "images/Ekstra/eks_unknown_ivory_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Ivory cap with bold red “EKSTRA” and cursive “Draught” beneath; weathered paint around the rim."
+},
+{
+"id": "doe_gbr_brown_01",
+"brand": "Drink of England",
+"series": null,
+"image": "images/Drink of England/doe_gbr_brown_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Bronze/brown cap with shield bearing St. George’s cross flanked by two lions; arched “DRINK OF” above and “ENGLAND” below."
+},
+{
+"id": "esg_esp_black_01",
+"brand": "Estrella Galicia",
+"series": "Cerveceros desde 1906",
+"image": "images/Estrella Galicia/esg_esp_black_01.jpg",
+"country": "Spain",
+"year": null,
+"description": "Black ring with white lettering around a red field and cream eight-point star; text reads “ESTRELLA GALICIA · CERVECEROS DESDE 1906”."
+},
+{
+"id": "oet_deu_gold_01",
+"brand": "Oettinger",
+"series": "Export",
+"image": "images/Oettinger/oet_deu_gold_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Gold cap with blue script “Export” and ribbon bearing “SEIT 1731”; central round crest referencing the Kollmar family."
+},
+{
+"id": "erd_deu_redblue_01",
+"brand": "Erdinger Weißbräu",
+"series": "Weißbräu",
+"image": "images/Erdinger Weissbrau/erd_deu_redblue_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Red-and-blue ring surrounding a stylized wheat-ear emblem; white “ERDINGER” above and “WEISSBRÄU” below."
+},
   {
     "id": "cdb_bra_red_01",
     "brand": "Cerveja do Brasil",
