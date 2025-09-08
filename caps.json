@@ -47,7 +47,7 @@
     "id": "gib_unknown_pink_01",
     "brand": "Ginger Beer",
     "series": null,
-    "image": "images/GingerBeer/gib_unknown_pink_01.jpg",
+    "image": "images/Ginger Beer/gib_unknown_pink_01.jpg",
     "country": "Unknown",
     "year": null,
     "description": "Magenta/pink cap with playful script ‘Ginger Beer’; white outline with green ‘Beer’ accent."
@@ -74,7 +74,7 @@
     "id": "gts_pol_gold_01",
     "brand": "Ginger Taste",
     "series": "Oryginalny Imbirowy Smak",
-    "image": "images/GingerTaste/gts_pol_gold_01.jpg",
+    "image": "images/Ginger Taste/gts_pol_gold_01.jpg",
     "country": "Poland",
     "year": null,
     "description": "Gold cap with stylized red flower and green accents; rim text reads ‘ORYGINALNY IMBIROWY SMAK’ and ‘GINGER TASTE’."
@@ -83,7 +83,7 @@
     "id": "fld_usa_white_01",
     "brand": "Flying Dog",
     "series": "Brewery",
-    "image": "images/FlyingDog/fld_usa_white_01.jpg",
+    "image": "images/Flying Dog/fld_usa_white_01.jpg",
     "country": "USA",
     "year": null,
     "description": "White cap with rough, ink-splatter ‘FLYING DOG’ lettering and bat-wing dog logo inside a thin black ring."
