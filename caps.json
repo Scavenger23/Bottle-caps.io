@@ -1,4 +1,94 @@
-[{
+[  {
+    "id": "fre_idn_orange_01",
+    "brand": "Frestea",
+    "series": "Jasmine Tea (Beraroma Melati)",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.40.55_dffab1af.jpg",
+    "country": "Indonesia",
+    "year": null,
+    "description": "Orange cap with green-white swirl and lowercase ‘frestea’ wordmark; rim shows BPOM code, bottom reads HALAL and ‘MINUMAN TEH BERAROMA MELATI’."
+  },
+  {
+    "id": "fix_grc_whiteblue_01",
+    "brand": "FIX",
+    "series": "Hellas",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.40.56_0cb85ea4.jpg",
+    "country": "Greece",
+    "year": null,
+    "description": "White cap split by deep-blue panel; bold ‘FIX’ over ‘HELLAS’ in classic Greek brewery style."
+  },
+  {
+    "id": "fax_dnk_blackgold_01",
+    "brand": "Faxe",
+    "series": "Bryggeri Premium",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.40.56_0eb757a4.jpg",
+    "country": "Denmark",
+    "year": null,
+    "description": "Black cap with concentric gold rings; large block ‘FAXE’ at center, ‘FAXE BRYGGERI’ above and ‘PREMIUM’ below."
+  },
+  {
+    "id": "gam_cze_red_01",
+    "brand": "Gambrinus",
+    "series": "Army Camp",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.40.56_1eede39c.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "Metallic red cap with gold shield showing three figures and a flag; text ‘GAMBRINUS ARMY CAMP’ in the crest."
+  },
+  {
+    "id": "frz_lbn_black_01",
+    "brand": "Freez",
+    "series": null,
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.40.56_2f9cfdee.jpg",
+    "country": "Lebanon",
+    "year": null,
+    "description": "Glossy black cap with white ‘FREEZ’ logotype encircled by three chasing arrows."
+  },
+  {
+    "id": "gib_unknown_pink_01",
+    "brand": "Ginger Beer",
+    "series": null,
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.41.02_1862fee4.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Magenta/pink cap with playful script ‘Ginger Beer’; white outline with green ‘Beer’ accent."
+  },
+  {
+    "id": "gub_ltu_gold_01",
+    "brand": "Gubernija",
+    "series": "Anno 1665",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.41.02_d709ace8.jpg",
+    "country": "Lithuania",
+    "year": null,
+    "description": "Aged gold cap with red banner ‘GUBERNIJA’; two goats with hop vines over a barrel; cursive ‘Anno 1665’ below."
+  },
+  {
+    "id": "gld_isr_red_01",
+    "brand": "Goldstar",
+    "series": "Classic",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.41.03_6b108283.jpg",
+    "country": "Israel",
+    "year": null,
+    "description": "Red cap with gold star inside a ring; ‘GOLDSTAR’ at top and Hebrew ‘גולדסטאר’ around the bottom."
+  },
+  {
+    "id": "gts_pol_gold_01",
+    "brand": "Ginger Taste",
+    "series": "Oryginalny Imbirowy Smak",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.41.03_468aef83.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Gold cap with stylized red flower and green accents; rim text reads ‘ORYGINALNY IMBIROWY SMAK’ and ‘GINGER TASTE’."
+  },
+  {
+    "id": "fld_usa_white_01",
+    "brand": "Flying Dog",
+    "series": "Brewery",
+    "image": "/mnt/data/WhatsApp Image 2025-07-19 at 15.41.03_de003542.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "White cap with rough, ink-splatter ‘FLYING DOG’ lettering and bat-wing dog logo inside a thin black ring."
+  },
+    {
     "id": "ban_gbr_gold_01",
     "brand": "Bangla",
     "series": "Classic",
