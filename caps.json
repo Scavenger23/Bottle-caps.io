@@ -1,4 +1,95 @@
-[ {
+[ 
+  {
+    "id": "cel_cze_white_01",
+    "brand": "Celia",
+    "series": null,
+    "image": "images/Celia/cel_cze_white_01.jpg",
+    "country": "Czech Republic",
+    "year": null,
+    "description": "White cap with black ‘CELIA’ and a ring of triangular facets forming a wreath."
+  },
+  {
+    "id": "bgc_unknown_blue_01",
+    "brand": "BG",
+    "series": null,
+    "image": "images/BG/bgc_unknown_blue_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Cobalt-blue cap dominated by large distressed white ‘BG’ letters."
+  },
+  {
+    "id": "cap_unknown_black_01",
+    "brand": "Cappy",
+    "series": null,
+    "image": "images/Cappy/cap_unknown_black_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Glossy black cap with white serif ‘Cappy’ wordmark."
+  },
+  {
+    "id": "cie_pol_gold_01",
+    "brand": "Ciechan",
+    "series": "Browar Ciechan – Browarem 10-lecia",
+    "image": "images/Ciechan/cie_pol_gold_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Golden cap with wheat background, crest at top, and bold ‘CIECHAN’ banner."
+  },
+  {
+    "id": "arg_pol_red_01",
+    "brand": "Argus",
+    "series": null,
+    "image": "images/Argus/arg_pol_red_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "Cream cap with red circular field and griffin; black ‘ARGUS’ across a white band."
+  },
+  {
+    "id": "boj_pol_white_01",
+    "brand": "Bojan",
+    "series": "Browar Wielkopolski w Bojanowie",
+    "image": "images/Bojan/boj_pol_white_01.jpg",
+    "country": "Poland",
+    "year": null,
+    "description": "White cap with illustration of a red-brick brewery above bold ‘BOJAN’ flanked by barley spikes."
+  },
+  {
+    "id": "ein_deu_gold_01",
+    "brand": "Ein Berliner",
+    "series": null,
+    "image": "images/Ein Berliner/ein_deu_gold_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Aged gold cap with red Berlin bear holding three glasses; green arched text ‘EIN BERLINER’ on both sides."
+  },
+  {
+    "id": "bas_gbr_gold_01",
+    "brand": "Bass",
+    "series": "Red Triangle",
+    "image": "images/Bass/bas_gbr_gold_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Pale-gold cap with iconic red triangle and cursive ‘Bass’ signature."
+  },
+  {
+    "id": "bad_gbr_black_01",
+    "brand": "Badger",
+    "series": "Brewed in Dorset",
+    "image": "images/Badger/bad_gbr_black_01.jpg",
+    "country": "United Kingdom",
+    "year": null,
+    "description": "Black cap with white running badger motif and circular text ‘BREWED IN … DORSET’."
+  },
+  {
+    "id": "shi_usa_yellow_01",
+    "brand": "Shiner",
+    "series": "Brewer’s Pride Selection · Limited Edition",
+    "image": "images/Shiner/shi_usa_yellow_01.jpg",
+    "country": "USA",
+    "year": null,
+    "description": "Yellow-brown cap with concentric ring design; ‘BREWER’S PRIDE SELECTION’ and ‘CRAFT BREW’ around ‘SHINER’."
+  },
+{
     "id": "mor_unknown_white_01",
     "brand": "Mora",
     "series": null,
