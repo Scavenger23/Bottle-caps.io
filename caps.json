@@ -1,5 +1,95 @@
 [
   {
+    "id": "cdb_bra_red_01",
+    "brand": "Cerveja do Brasil",
+    "series": "1888",
+    "image": "images/Cerveja do Brasil/cdb_bra_red_01.jpg",
+    "country": "Brazil",
+    "year": null,
+    "description": "Red cap with white diamond and rising rays beneath five stars; center reads ‘CERVEJA DO BRASIL’ with ‘18’ and ‘88’ flanking the diamond."
+  },
+  {
+    "id": "cub_unknown_black_01",
+    "brand": "Cubanisto",
+    "series": "Rum",
+    "image": "images/Cubanisto/cub_unknown_black_01.jpg",
+    "country": "Unknown",
+    "year": null,
+    "description": "Glossy black cap featuring a white sugar-skull graphic; top text ‘CUBANISTO’, bottom ‘RUM’."
+  },
+  {
+    "id": "sam_rus_red_01",
+    "brand": "Самара",
+    "series": "Светлое пиво",
+    "image": "images/Самара/sam_rus_red_01.jpg",
+    "country": "Russia",
+    "year": null,
+    "description": "Metallic red and gold cap with sunburst; bold white ‘САМАРА’ over ribbon text ‘СВЕТЛОЕ ПИВО’."
+  },
+  {
+    "id": "dra_jam_black_01",
+    "brand": "Dragon Stout",
+    "series": "Stout",
+    "image": "images/Dragon Stout/dra_jam_black_01.jpg",
+    "country": "Jamaica",
+    "year": null,
+    "description": "Black cap with large red dragon at center; arched words ‘DRAGON’ above and ‘STOUT’ below."
+  },
+  {
+    "id": "zhg_rus_black_01",
+    "brand": "Жигулёвское",
+    "series": "ОАО Жигулёвское пиво",
+    "image": "images/Жигулёвское/zhg_rus_black_01.jpg",
+    "country": "Russia",
+    "year": null,
+    "description": "Aged black-and-gold cap with circular emblem showing a stylized boat; surrounding Cyrillic brewery text and ‘Самара’ at top."
+  },
+  {
+    "id": "can_deu_yellow_01",
+    "brand": "Cannabia",
+    "series": null,
+    "image": "images/Cannabia/can_deu_yellow_01.jpg",
+    "country": "Germany",
+    "year": null,
+    "description": "Yellow cap with green hemp leaf and red-outlined blue ‘Cannabia’ wordmark."
+  },
+  {
+    "id": "cus_per_gold_01",
+    "brand": "Cusqueña",
+    "series": null,
+    "image": "images/Cusqueña/cus_per_gold_01.jpg",
+    "country": "Peru",
+    "year": null,
+    "description": "Matte gold cap with debossed framed logotype ‘CUSQUEÑA’."
+  },
+  {
+    "id": "car_tto_yellow_01",
+    "brand": "Carib",
+    "series": "Lager",
+    "image": "images/Carib/car_tto_yellow_01.jpg",
+    "country": "Trinidad and Tobago",
+    "year": null,
+    "description": "Yellow cap with blue ‘Carib’ script, red ‘Lager’ and globe emblem; blue and white ringed border."
+  },
+  {
+    "id": "cam_tur_red_01",
+    "brand": "Çamlıca",
+    "series": null,
+    "image": "images/Çamlıca/cam_tur_red_01.jpg",
+    "country": "Turkey",
+    "year": null,
+    "description": "Bright red cap with white pine-tree silhouettes and bold ‘ÇAMLICA’ lettering."
+  },
+  {
+    "id": "duv_bel_white_01",
+    "brand": "Duvel",
+    "series": "Anno 1871",
+    "image": "images/Duvel/duv_bel_white_01.jpg",
+    "country": "Belgium",
+    "year": null,
+    "description": "White cap with thin gold ring and heraldic crest above the classic red ‘Duvel’ logotype; small ‘ANNO 1871’ flanking the crest."
+  },
+  {
     "id": "cla_deu_white_01",
     "brand": "Clausthaler",
     "series": "Classic · Premium Alkoholfrei",
