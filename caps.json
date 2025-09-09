@@ -1,4 +1,93 @@
 [{
+"id": "fel_deu_silverredshield_01",
+"brand": "Feldschlößchen",
+"series": null,
+"image": "images/Feldschlößchen/fel_deu_silverredshield_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Chrome cap with castle-crenellation crest; red shield bearing a bold white ‘F’ at center within a dark border."
+},
+{
+"id": "dir_usa_creamred_01",
+"brand": "Diet-Rite Cola",
+"series": null,
+"image": "images/Diet-Rite Cola/dir_usa_creamred_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Cream cap with tall red lowercase type set in two lines: ‘diet-rite’ over ‘cola’."
+},
+{
+"id": "dis_deu_green_01",
+"brand": "Distelhäuser",
+"series": null,
+"image": "images/Distelhäuser/dis_deu_green_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Green cap with gold-embossed quartered crest above serif ‘DISTELHÄUSER’; faint gold slogan beneath."
+},
+{
+"id": "frb_deu_alkoholfrei_01",
+"brand": "Freiberger",
+"series": "Alkoholfrei",
+"image": "images/Freiberger/frb_deu_alkoholfrei_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Scenic crest at top; blackletter ‘Freiberger’ across a white ribbon; bottom band reads ‘ALKOHOL FREI’."
+},
+{
+"id": "dia_gbr_bluewhite_01",
+"brand": "Diamond White",
+"series": "Cider",
+"image": "images/Diamond White/dia_gbr_bluewhite_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Deep-blue cap with sharp white ‘DIAMOND’ above a script ‘White’ swoosh."
+},
+{
+"id": "fan_pol_greenred_01",
+"brand": "Fantic",
+"series": null,
+"image": "images/Fantic/fan_pol_greenred_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green cap with large red script ‘Fantic’; small baseline text in Polish along the lower banner."
+},
+{
+"id": "zyw_pol_export_01",
+"brand": "Zywiec",
+"series": "Export",
+"image": "images/Żywiec/zyw_pol_export_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Red cap with ornate gold oval showing brewery scene and dancers; cursive ‘Export’ at bottom."
+},
+{
+"id": "epi_usa_silverblack_01",
+"brand": "Epic Brewing",
+"series": "Brewing Co.",
+"image": "images/Epic Brewing/epi_usa_silverblack_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Brushed-silver cap with bold black ‘EPIC’ and hop-leaf motif; ‘BREWING’ in small caps below."
+},
+{
+"id": "ful_usa_gold_01",
+"brand": "Full Sail",
+"series": "Independent • Employee-Owned",
+"image": "images/Full Sail/ful_usa_gold_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Gold cap with blue ‘F S’ flanking a white sail; circular legend reads ‘INDEPENDENT • EMPLOYEE-OWNED’."
+},
+{
+"id": "fri_gbr_pink_01",
+"brand": "Friels Cider",
+"series": null,
+"image": "images/Friels Cider/fri_gbr_pink_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Bright pink cap with flowing white ‘Friels’ script over small ‘cider’ in lowercase."
+}{
 "id": "dab_deu_green_01",
 "brand": "DAB",
 "series": null,
