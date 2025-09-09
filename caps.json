@@ -1,4 +1,94 @@
 [{
+"id": "kor_pol_gold_01",
+"brand": "Browar Kormoran",
+"series": null,
+"image": "images/Browar Kormoran/kor_pol_gold_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Aged gold cap with a black cormorant in flight above ‘BROWAR KORMORAN’; Polish tagline ‘Piwa warzone z pasją’ below within a double ring."
+},
+{
+"id": "kir_jpn_white_01",
+"brand": "Kirin",
+"series": "Ichiban",
+"image": "images/Kirin/kir_jpn_white_01.jpg",
+"country": "Japan",
+"year": null,
+"description": "Matte white cap with gold ‘KIRIN’ and Japanese ‘一番搾り’ centered; smaller ‘ICHIBAN’ at the bottom."
+},
+{
+"id": "isl_esp_white_01",
+"brand": "Isleña",
+"series": "La Cerveza de Ibiza",
+"image": "images/Isleña/isl_esp_white_01.jpg",
+"country": "Spain",
+"year": null,
+"description": "White cap with red ribbon script ‘Isleña’; bilingual ring text reads ‘LA CERVEZA DE IBIZA’ / ‘THE BEER OF IBIZA’."
+},
+{
+"id": "kir_jpn_white_02",
+"brand": "Kirin",
+"series": "Ichiban",
+"image": "images/Kirin/kir_jpn_white_02.jpg",
+"country": "Japan",
+"year": null,
+"description": "Off-white cap with the gold kirin crest above ‘KIRIN’ and Japanese ‘一番搾り’."
+},
+{
+"id": "kwa_bel_cream_01",
+"brand": "Kwak",
+"series": "Anno 1791",
+"image": "images/Kwak/kwa_bel_cream_01.jpg",
+"country": "Belgium",
+"year": null,
+"description": "Cream-and-maroon cap with crest and ‘Anno 1791’ at top; bold white ‘Kwak’ logotype over a cream field with founder signature."
+},
+{
+"id": "kip_pol_red_01",
+"brand": "Kiper",
+"series": "Piotrków Trybunalski 2000",
+"image": "images/Kiper/kip_pol_red_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Metallic red cap with oval ‘Kiper’ wordmark; outer ring reads ‘BROWAR’ and ‘PIOTRKÓW TRYBUNALSKI’ with small ‘2000’ at bottom."
+},
+{
+"id": "kld_kor_gold_01",
+"brand": "Kloud",
+"series": null,
+"image": "images/Kloud/kld_kor_gold_01.jpg",
+"country": "South Korea",
+"year": null,
+"description": "Gold cap with intricate brown barley-and-hop motif; a small red plaque at the base reads ‘KLOUD’."
+},
+{
+"id": "kry_blr_gold_01",
+"brand": "Крыница",
+"series": null,
+"image": "images/Крыница/kry_blr_gold_01.jpg",
+"country": "Belarus",
+"year": null,
+"description": "Worn gold cap featuring a green ‘K’ medallion framed by wheat and hops; Cyrillic banner ‘КРЫНИЦА’ at the bottom."
+},
+{
+"id": "ivy_unknown_white_01",
+"brand": "Ivy Light",
+"series": null,
+"image": "images/Ivy Light/ivy_unknown_white_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "White cap with italic green ‘ivy light’ wordmark and small leaf motif; faint blue ornamental stamps near the rim."
+},
+{
+"id": "kgf_ind_white_01",
+"brand": "Kingfisher",
+"series": "Premium",
+"image": "images/Kingfisher/kgf_ind_white_01.jpg",
+"country": "India",
+"year": null,
+"description": "White cap with red ring and colorful kingfisher bird above an arched ‘KINGFISHER’ banner; yellow ‘PREMIUM’ panel below."
+},
+  {
 "id": "koz_pol_white_01",
 "brand": "Koźlak",
 "series": null,
