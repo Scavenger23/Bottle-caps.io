@@ -2,7 +2,7 @@
 "id": "fru_deu_kolsch_01",
 "brand": "Früh",
 "series": "Kölsch",
-"image": "images/Fruh/fru_deu_kolsch_01.jpg",
+"image": "images/Früh/fru_deu_kolsch_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "Half red/half white cap with three gold crowns above bold Gothic ‘Früh’; small ‘KÖLSCH’ text at the bottom."
@@ -83,7 +83,7 @@
 "id": "kos_deu_schwarzbier_01",
 "brand": "Köstritzer",
 "series": "Schwarzbier",
-"image": "images/Kostritzer/kos_deu_schwarzbier_01.jpg",
+"image": "images/Köstritzer/kos_deu_schwarzbier_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "Black cap with vertical red bar; white ‘Köstritzer’ wordmark over ‘SCHWARZBIER’ in gold."
