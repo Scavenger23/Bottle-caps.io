@@ -1,4 +1,94 @@
 [{
+"id": "kin_unknown_silver_01",
+"brand": "Kinley",
+"series": null,
+"image": "images/Kinley/kin_unknown_silver_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Heavily worn silver-gold cap with a black script ‘Kinley’ logotype; small crown icon centered above the wordmark."
+},
+{
+"id": "lvb_gbr_silver_01",
+"brand": "Little Valley Brewery",
+"series": null,
+"image": "images/Little Valley Brewery/lvb_gbr_silver_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Brushed silver cap with black text ‘LITTLE VALLEY BREWERY’; stylized twin-leaf emblem beneath the wording."
+},
+{
+"id": "lac_lva_white_01",
+"brand": "Lāčplēsis",
+"series": null,
+"image": "images/Lāčplēsis/lac_lva_white_01.jpg",
+"country": "Latvia",
+"year": null,
+"description": "White cap with bold green ring and central green plaque; white-outlined ‘Lāčplēsis’ across the middle."
+},
+{
+"id": "key_usa_blue_01",
+"brand": "Keystone",
+"series": "Light",
+"image": "images/Keystone/key_usa_blue_01.jpg",
+"country": "United States",
+"year": null,
+"description": "Deep blue cap with large stacked lettering ‘KEYSTONE LIGHT’ in white with light drop shadow."
+},
+{
+"id": "lip_gbr_yellow_01",
+"brand": "Lipton",
+"series": "Ice Tea",
+"image": "images/Lipton/lip_gbr_yellow_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Bright yellow cap featuring red ‘Lipton’ badge over green leaves; blue script ‘Ice Tea’ along the bottom."
+},
+{
+"id": "laz_gbr_red_01",
+"brand": "Lazy Jack’s Brewing Co",
+"series": "Woodshed",
+"image": "images/Lazy Jack’s Brewing Co/laz_gbr_red_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Red cap with circular white seal; outer ring reads ‘WOODSHED’ and ‘BREWING CO’, ornate script ‘Lazy Jack’s®’ in the center."
+},
+{
+"id": "kro_fra_blue_01",
+"brand": "Kronenbourg",
+"series": "1664",
+"image": "images/Kronenbourg/kro_fra_blue_01.jpg",
+"country": "France",
+"year": null,
+"description": "Navy blue cap with red diagonal ribbons and a white oval; inside reads ‘Kronenbourg 1664’."
+},
+{
+"id": "lok_swe_yellow_01",
+"brand": "Loka",
+"series": "Citron",
+"image": "images/Loka/lok_swe_yellow_01.jpg",
+"country": "Sweden",
+"year": null,
+"description": "Matte yellow cap with small ‘CITRON’ above large blue ‘LOKA’ wordmark; minimalist design."
+},
+{
+"id": "kla_cze_gold_01",
+"brand": "Klasik",
+"series": "Tradiční receptura",
+"image": "images/Klasik/kla_cze_gold_01.jpg",
+"country": "Czech Republic",
+"year": null,
+"description": "Aged gold cap with red central panel ‘KLASIK’; arched text ‘TRADIČNÍ RECEPTURA’ around the edge."
+},
+{
+"id": "kal_gbr_blue_01",
+"brand": "Kaliber",
+"series": null,
+"image": "images/Kaliber/kal_gbr_blue_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Dark blue cap with white ‘KALIBER’ lettering edged in red; above is a white unicorn head crest."
+},
+  {
 "id": "fru_deu_kolsch_01",
 "brand": "Früh",
 "series": "Kölsch",
