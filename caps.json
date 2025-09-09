@@ -2,7 +2,7 @@
 "id": "fru_deu_kolsch_01",
 "brand": "Früh",
 "series": "Kölsch",
-"image": "images/fruh/fru_deu_kolsch_01.jpg",
+"image": "images/Fruh/fru_deu_kolsch_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "Half red/half white cap with three gold crowns above bold Gothic ‘Früh’; small ‘KÖLSCH’ text at the bottom."
@@ -11,7 +11,7 @@
 "id": "fas_unknown_white_01",
 "brand": "Fasberg",
 "series": null,
-"image": "images/fasberg/fas_unknown_white_01.jpg",
+"image": "images/Fasberg/fas_unknown_white_01.jpg",
 "country": "Unknown",
 "year": null,
 "description": "White cap with a red slanted panel and gold crown; tall serif ‘FASBERG’ wordmark."
@@ -20,7 +20,7 @@
 "id": "for_ltu_black_01",
 "brand": "Fortas",
 "series": null,
-"image": "images/fortas/for_ltu_black_01.jpg",
+"image": "images/Fortas/for_ltu_black_01.jpg",
 "country": "Lithuania",
 "year": null,
 "description": "Aged bronze/brown cap with black banner; red shield bearing an ‘F’ centered above ‘FORTAS’."
@@ -29,7 +29,7 @@
 "id": "frk_unknown_red_01",
 "brand": "Freskola",
 "series": null,
-"image": "images/freskola/frk_unknown_red_01.jpg",
+"image": "images/Freskola/frk_unknown_red_01.jpg",
 "country": "Unknown",
 "year": null,
 "description": "Red cap with splash/foam motif around italic ‘Freskola’ logotype in white."
@@ -38,7 +38,7 @@
 "id": "lop_gbr_red_01",
 "brand": "London Pride",
 "series": null,
-"image": "images/london-pride/lop_gbr_red_01.jpg",
+"image": "images/London Pride/lop_gbr_red_01.jpg",
 "country": "United Kingdom",
 "year": null,
 "description": "Bright red cap with thin gold ring; arched white ‘LONDON PRIDE’ letters with drop shadow."
@@ -47,7 +47,7 @@
 "id": "lau_deu_dunkel_01",
 "brand": "Lausitzer",
 "series": "Dunkel",
-"image": "images/lausitzer/lau_deu_dunkel_01.jpg",
+"image": "images/Lausitzer/lau_deu_dunkel_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "Deep red cap with large ‘LAUSITZER’; black inset panel below reading ‘DUNKEL’."
@@ -56,7 +56,7 @@
 "id": "lin_deu_spezial_01",
 "brand": "Lindener",
 "series": "Spezial",
-"image": "images/lindener/lin_deu_spezial_01.jpg",
+"image": "images/Lindener/lin_deu_spezial_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "White cap with metallic blue-gold script ‘Lindener Spezial’."
@@ -65,7 +65,7 @@
 "id": "lbg_fra_gold_01",
 "brand": "Les Brasseurs de Gayant",
 "series": null,
-"image": "images/les-brasseurs-de-gayant/lbg_fra_gold_01.jpg",
+"image": "images/es Brasseurs de Gayant/lbg_fra_gold_01.jpg",
 "country": "France",
 "year": null,
 "description": "Gold cap with ring text ‘LES BRASSEURS DE GAYANT’; central white line drawing of a jester figure."
@@ -74,7 +74,7 @@
 "id": "lon_unknown_black_01",
 "brand": "Londoner",
 "series": null,
-"image": "images/londoner/lon_unknown_black_01.jpg",
+"image": "images/Londoner/lon_unknown_black_01.jpg",
 "country": "Unknown",
 "year": null,
 "description": "Black cap with neon-green double ring and bold white ‘LONDONER.’ across the center."
@@ -83,7 +83,7 @@
 "id": "kos_deu_schwarzbier_01",
 "brand": "Köstritzer",
 "series": "Schwarzbier",
-"image": "images/kostritzer/kos_deu_schwarzbier_01.jpg",
+"image": "images/Kostritzer/kos_deu_schwarzbier_01.jpg",
 "country": "Germany",
 "year": null,
 "description": "Black cap with vertical red bar; white ‘Köstritzer’ wordmark over ‘SCHWARZBIER’ in gold."
