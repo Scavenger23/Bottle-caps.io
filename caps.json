@@ -1,4 +1,94 @@
 [{
+"id": "koz_pol_white_01",
+"brand": "Koźlak",
+"series": null,
+"image": "images/Koźlak/koz_pol_white_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Ivory-white cap with thin red rim; red line-art of a goat’s head adorned with grain and hops; bold red ‘KOŹLAK’ above."
+},
+{
+"id": "krl_pol_red_01",
+"brand": "Królewskie",
+"series": "Warszawskie",
+"image": "images/Królewskie/krl_pol_red_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Metallic red cap with slanted white banner ‘Królewskie’; outer ring reads ‘KRÓLEWSKI SMAK’ on top and ‘WARSZAWSKIE’ below."
+},
+{
+"id": "kal_deu_gold_01",
+"brand": "Kaltenberg",
+"series": null,
+"image": "images/Kaltenberg/kal_deu_gold_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Gold/cream cap with black ‘Kaltenberg’ script under a crowned Bavarian shield flanked by two lions; thin black border."
+},
+{
+"id": "krj_deu_gold_01",
+"brand": "Kronenkorken Jagd",
+"series": "Jagd 2010",
+"image": "images/Kronenkorken Jagd/krj_deu_gold_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Gold cap with black outer text ‘Kronenkorken Jagd 2010’; red center disc bearing a bold black outlined ‘W’."
+},
+{
+"id": "joh_deu_white_01",
+"brand": "Johannes",
+"series": null,
+"image": "images/Johannes/joh_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with blue oval sunburst; pale yellow ‘JOHANNES’ across a horizontal blue bar in the center."
+},
+{
+"id": "kar_deu_white_01",
+"brand": "Karg Weißbier",
+"series": "Weißbier",
+"image": "images/Karg Weißbier/kar_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap printed in blue with shield-style emblem featuring grain and hop cones; text reads ‘Karg Weißbier’."
+},
+{
+"id": "kon_deu_white_01",
+"brand": "König Pilsener",
+"series": "Pilsener",
+"image": "images/König Pilsener/kon_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with red ring; gold crown medallion at top; elegant script ‘König Pilsener’ across the center."
+},
+{
+"id": "kop_pol_blue_01",
+"brand": "Kopernik",
+"series": null,
+"image": "images/Kopernik/kop_pol_blue_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Deep blue cap dotted with yellow stars; arched yellow banner in the middle reads ‘KOPERNIK’."
+},
+{
+"id": "imp_unknown_red_01",
+"brand": "Impress",
+"series": "Twist Off",
+"image": "images/Impress/imp_unknown_red_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Red twist-off cap with large white ‘IMPRESS’; small ‘TWIST OFF’ text along the rim with arrows."
+},
+{
+"id": "kry_pol_white_01",
+"brand": "Krynka",
+"series": null,
+"image": "images/Krynka/kry_pol_white_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "White cap with blue fountain-like arcs and red lowercase ‘krynka’, underlined by a dark swoosh."
+},
+  {
 "id": "kin_unknown_silver_01",
 "brand": "Kinley",
 "series": null,
