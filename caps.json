@@ -1,4 +1,94 @@
 [{
+"id": "man_gbr_red_01",
+"brand": "Manns",
+"series": "Brown Ale",
+"image": "images/Manns/man_gbr_red_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Matte red cap with a weathered pattern; bold white ‘MANNS’ centered above smaller text ‘BROWN ALE’."
+},
+{
+"id": "mor_gbr_red_01",
+"brand": "Morland",
+"series": "Est. 1711",
+"image": "images/Morland/mor_gbr_red_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Deep red cap with gold silhouette of a man in a tricorne hat pointing; flanked text reads ‘EST.’ and ‘1711’ over ‘MORLAND’."
+},
+{
+"id": "dgm_jam_yellow_01",
+"brand": "DG Malta",
+"series": null,
+"image": "images/DG Malta/dgm_jam_yellow_01.jpg",
+"country": "Jamaica",
+"year": null,
+"description": "Yellow cap with brown ‘malta’ script under a small ‘DG’ in a circle; barley sprig underline."
+},
+{
+"id": "mas_gbr_green_01",
+"brand": "Master Brew",
+"series": "Kentish Ale",
+"image": "images/Master Brew/mas_gbr_green_01.jpg",
+"country": "United Kingdom",
+"year": null,
+"description": "Dark green cap featuring a hop-cone crest; red banner ‘MASTER BREW’ above green ribbon ‘KENTISH ALE’."
+},
+{
+"id": "myt_grc_yellow_01",
+"brand": "Mythos",
+"series": null,
+"image": "images/Mythos/myt_grc_yellow_01.jpg",
+"country": "Greece",
+"year": null,
+"description": "Faded yellow-green cap with stylized green ‘Mythos’ script; red circle with horse-head emblem above."
+},
+{
+"id": "mic_usa_white_01",
+"brand": "Michelob",
+"series": "Ultra",
+"image": "images/Michelob/mic_usa_white_01.jpg",
+"country": "United States",
+"year": null,
+"description": "White cap with blue ‘Michelob ULTRA’ wordmark and small ribbon icon at left."
+},
+{
+"id": "nfi_unknown_orange_01",
+"brand": "NFI",
+"series": null,
+"image": "images/NFI/nfi_unknown_orange_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Cream cap dominated by a large orange circle-and-drop graphic; small block ‘NFI’ along the lower left."
+},
+{
+"id": "mlt_unknown_orange_01",
+"brand": "Maltizz",
+"series": null,
+"image": "images/Maltizz/mlt_unknown_orange_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Bright orange cap with casual black handwritten-style wordmark ‘maltizz’ across the center."
+},
+{
+"id": "nil_uga_black_01",
+"brand": "Nile Special",
+"series": null,
+"image": "images/Nile Special/nil_uga_black_01.jpg",
+"country": "Uganda",
+"year": null,
+"description": "Black cap with circular lion head medallion; arched yellow lettering ‘NILE’ above and ‘SPECIAL’ below."
+},
+{
+"id": "moc_pol_black_01",
+"brand": "Mocarz",
+"series": "9%",
+"image": "images/Mocarz/moc_pol_black_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Black cap with orange sunburst; bold ‘MOCARZ’ across the top and oval ‘9%’ highlighted in yellow."
+},
+  {
 "id": "mag_ltu_black_01",
 "brand": "Magistratus Wilkomiria",
 "series": null,
