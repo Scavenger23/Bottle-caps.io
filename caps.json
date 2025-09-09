@@ -1,4 +1,94 @@
 [{
+"id": "mag_ltu_black_01",
+"brand": "Magistratus Wilkomiria",
+"series": null,
+"image": "images/Magistratus Wilkomiria/mag_ltu_black_01.jpg",
+"country": "Lithuania",
+"year": null,
+"description": "Glossy black cap with a gold circular seal featuring crossed mash tools, a small pail and hop cones; Latin rim text reads ‘MAGISTRATUS WILKOMIRIA’."
+},
+{
+"id": "mdw_unknown_black_01",
+"brand": "Mountain Dew",
+"series": null,
+"image": "images/Mountain Dew/mdw_unknown_black_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "Black twist-off cap with a white oval bordered in green and red ‘dew’ wordmark; small ‘OPEN’ arrows and Arabic script around the rim."
+},
+{
+"id": "mik_usa_black_01",
+"brand": "Mike's",
+"series": "Hard Lemonade",
+"image": "images/Mike's/mik_usa_black_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Matte black cap with a rough lemon-ring outline and distressed lowercase ‘mike’s’ logotype."
+},
+{
+"id": "mbc_usa_gold_01",
+"brand": "Mendocino Brewing Company",
+"series": null,
+"image": "images/Mendocino Brewing Company/mbc_usa_gold_01.jpg",
+"country": "USA",
+"year": null,
+"description": "Brushed gold cap showing hop bines framed by ribboned text ‘MENDOCINO BREWING COMPANY’; bottom text reads ‘USE OPENER’."
+},
+{
+"id": "mai_deu_white_01",
+"brand": "Maisel's Weisse",
+"series": "Alkoholfrei",
+"image": "images/Maisel's Weisse/mai_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "Pearl-white cap with ornate blue script ‘Maisel’s Weisse’ and wheat sprig; solid blue bar at bottom reads ‘ALKOHOLFREI’."
+},
+{
+"id": "lub_deu_white_01",
+"brand": "Lübzer",
+"series": "Pils",
+"image": "images/Lübzer/lub_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with green Fraktur ‘Lübzer Pils’; small crest above shows a yellow/red roundel with a stylized tower; thin gold ring."
+},
+{
+"id": "lie_bel_red_01",
+"brand": "Liefmans",
+"series": "Master Blenders",
+"image": "images/Liefmans/lie_bel_red_01.jpg",
+"country": "Belgium",
+"year": null,
+"description": "Bright red cap with flowing white ‘Liefmans’ script and a small figure holding a glass; tagline ‘MASTER BLENDERS’ beneath."
+},
+{
+"id": "men_ita_white_01",
+"brand": "Menabrea",
+"series": "1846",
+"image": "images/Menabrea/men_ita_white_01.jpg",
+"country": "Italy",
+"year": null,
+"description": "Cream-white cap with metallic orange ‘Menabrea’ wordmark; small numerals ‘1846’ arched above."
+},
+{
+"id": "mnb_unknown_white_01",
+"brand": "Moonberg",
+"series": "Lager",
+"image": "images/Moonberg/mnb_unknown_white_01.jpg",
+"country": "Unknown",
+"year": null,
+"description": "White cap featuring a red double-peak emblem over black ‘MOONBERG’; cursive ‘lager’ below."
+},
+{
+"id": "mef_deu_white_01",
+"brand": "Meister Fels",
+"series": null,
+"image": "images/Meister Fels/mef_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with bold orange ‘MEISTER FELS’ lettering and an ornate sheaf-of-grain crest at the top."
+},
+  {
 "id": "kor_pol_gold_01",
 "brand": "Browar Kormoran",
 "series": null,
