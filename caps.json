@@ -1,4 +1,93 @@
 [{
+"id": "nil_swe_gold_01",
+"brand": "Nils Oscar",
+"series": null,
+"image": "images/Nils Oscar/nil_swe_gold_01.jpg",
+"country": "Sweden",
+"year": null,
+"description": "Matte gold cap with elegant black script ‘Nils • Oscar’; a small circular halftone portrait sits between the words."
+},
+{
+"id": "nam_pol_green_01",
+"brand": "Namysłów",
+"series": "Pils",
+"image": "images/Namysłów/nam_pol_green_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "Green-rimmed white cap showing an engraving of the brewery above bold burgundy ‘NAMYSŁÓW’; script ‘Pils’ with a small hops cluster below."
+},
+{
+"id": "not_deu_white_01",
+"brand": "Nothhaft",
+"series": "Privatbrauerei (Seit 1882)",
+"image": "images/Nothhaft/not_deu_white_01.jpg",
+"country": "Germany",
+"year": null,
+"description": "White cap with heraldic crest and arched text ‘PRIVATBRAUEREI SEIT 1882’; large metallic-green ‘Nothhaft’ over ‘Marktredwitz’."
+},
+{
+"id": "nes_esp_blue_01",
+"brand": "Nestea",
+"series": "Ice Tea",
+"image": "images/Nestea/nes_esp_blue_01.jpg",
+"country": "Spain",
+"year": null,
+"description": "Deep blue cap with white sprouting-leaf logo and ‘NESTEA’; small Spanish bottler text runs around the edge."
+},
+{
+"id": "nbl_usa_red_01",
+"brand": "New Belgium",
+"series": null,
+"image": "images/New Belgium/nbl_usa_red_01.jpg",
+"country": "United States",
+"year": null,
+"description": "Red/orange roundel featuring a yellow bicycle; ringed text reads ‘NEW BELGIUM BREWING’."
+},
+{
+"id": "old_usa_gold_01",
+"brand": "Old Style",
+"series": null,
+"image": "images/Old Style/old_usa_gold_01.jpg",
+"country": "United States",
+"year": null,
+"description": "Weathered gold cap with stacked white gothic lettering ‘Old Style’."
+},
+{
+"id": "per_pol_white_01",
+"brand": "Perla",
+"series": null,
+"image": "images/Perla/per_pol_white_01.jpg",
+"country": "Poland",
+"year": null,
+"description": "White twist-off cap with ornate gold scrollwork crest bearing a red shield and large ‘P’; the word ‘open’ appears twice with arrows."
+},
+{
+"id": "kal_ltu_green_01",
+"brand": "Kalnapilis",
+"series": "Nefiltruotas RAW",
+"image": "images/Kalnapilis/kal_ltu_green_01.jpg",
+"country": "Lithuania",
+"year": null,
+"description": "Minimal green cap with straightforward white ‘NEFILTRUOTAS’ and smaller gold ‘RAW’ centered."
+},
+{
+"id": "okh_rus_red_01",
+"brand": "Охота",
+"series": "2012 IIHF promo",
+"image": "images/Охота/okh_rus_red_01.jpg",
+"country": "Russia",
+"year": null,
+"description": "Red-and-gold circular design with bold ‘ОХОТА’; top ring reads ‘Чемпионат мира по хоккею’, black puck marked ‘2012’ below."
+},
+{
+"id": "odo_usa_green_01",
+"brand": "O'Doul's",
+"series": "Premium",
+"image": "images/O'Doul's/odo_usa_green_01.jpg",
+"country": "United States",
+"year": null,
+"description": "Bright green cap with cream ‘PREMIUM’ above large white ‘O’DOUL’S’ outlined in yellow; thin gold rim."
+}{
 "id": "man_gbr_red_01",
 "brand": "Manns",
 "series": "Brown Ale",
